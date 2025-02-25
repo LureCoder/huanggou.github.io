@@ -1,0 +1,614 @@
+{
+    "products": [
+        {
+            "name": "ROG-STRIX-RTX5070TI-O16G-GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/FFAFA72B-0826-420E-8A31-C837D297B51D/w717/h525",
+                "品牌": "华硕",
+                "品牌显卡系列": "ROG - 玩家国度",
+                "核心频率": "超频模式: 2625 MHz\n默认模式: 2602MHz (加速频率)",
+                "显卡尺寸": "\n332 x 147.3 x 64 mm\n13.07 x 5.79 x 2.519 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "\n3.2 Slot",
+                "输出接口": "\nYes x 2 (Native HDMI 2.1b)\nYes x 3 (Native DisplayPort 2.1b)\nHDCP 支持 (2.3",
+                "配件": "\n1 x Speedsetup Manual\n1 x ROG Graphics Card Holder\n1 x ROG Velcro Hook & Loop\n1 x ROG Magnet\n1 x ROG PCB Ruler\n1 x Thank You Card\n1 x Power Cable (1 to 3)",
+                "其他": "AI 性能: 1492 AI TOPS\n动力源自 NVIDIA Blackwell 架构和 DLSS 4\n超频模式: 2625 MHz (超频模式)/ 2602 MHz (默认模式)\n3.275插槽设计:大型散热鳍片以针对三个轴流风扇的风量进行优化\n轴流风扇再加大提供 31% 以上的风量，实现更高的性能\n0dB 低噪音技术让您在相对安静的环境中享受轻度游戏\nMaxContact 设计及真空腔均热板可确保高效的热传递，提供更高的性能表现\n相变 GPU 导热垫有助于确保上佳的热传递，降低 GPU 温度，从而提高性能和可靠性\n高效电力传输采用数字供电控制和 15K 电容，带来强劲的性能体验\n保护性 PCB 涂层保护性涂层覆盖电路板，有助于防止因潮湿、灰尘或碎屑引起的短路\nAURA SYNC 神光同步灯效护盖及周边采用AURA 兼容的 ARGB 灯效，打造专属的个性化风格\nGPU Tweak III 软件提供直观的性能调校、散热控制与系统监控"
+            }
+        },
+        {
+            "name": "ROG-STRIX-RTX5070TI-16G-GAMING",
+            "parameters": {
+                "品牌": "华硕",
+                "品牌显卡系列": "ROG - 玩家国度",
+                "核心频率": "超频模式: 2482 MHz\n默认模式: 2452MHz (加速频率)",
+                "显卡尺寸": "\n332 x 147.3 x 64 mm\n13.07 x 5.79 x 2.519 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "\n3.2 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)\nYes x 3 (Native DisplayPort 2.1b)\nHDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual\n1 x ROG Graphics Card Holder\n1 x ROG Velcro Hook & Loop\n1 x ROG Magnet\n1 x ROG PCB Ruler\n1 x Thank You Card\n1 x Power Cable (1 to 3)",
+                "其他": "AI 性能: 1406 AI TOPS\n动力源自 NVIDIA Blackwell 架构和 DLSS 4\n超频模式: 2482 MHz (超频模式)/ 2452 MHz (默认模式)\n3.275插槽设计:大型散热鳍片以针对三个轴流风扇的风量进行优化\n轴流风扇再加大提供 31% 以上的风量，实现更高的性能\n0dB 低噪音技术让您在相对安静的环境中享受轻度游戏\nMaxContact 设计及真空腔均热板可确保高效的热传递，提供更高的性能表现\n相变 GPU 导热垫有助于确保上佳的热传递，降低 GPU 温度，从而提高性能和可靠性\n高效电力传输采用数字供电控制和 15K 电容，带来强劲的性能体验\n保护性 PCB 涂层保护性涂层覆盖电路板，有助于防止因潮湿、灰尘或碎屑引起的短路\nAURA SYNC 神光同步灯效护盖及周边采用AURA 兼容的 ARGB 灯效，打造专属的个性化风格\nGPU Tweak III 软件提供直观的性能调校、散热控制与系统监控"
+            }
+        },
+        {
+            "name": "TUF-RTX5070TI-O16G-GAMING",
+            "parameters": {
+                "品牌": "华硕",
+                "品牌显卡系列": "TUF GAMING - 电竞特工",
+                "核心频率": "OC mode: 2610MHz\nDefault mode: 2588MHz (Boost Clock)",
+                "显卡尺寸": "329 x 140 x 62.5 mm\n12.95 x 5.51 x 2.46 inch",
+                "供电相数": "12+4+3相供电",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "3.125 Slot",
+                "输出接口": "\nYes x 2 (Native HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
+                "配件": "\n1 x Speedsetup Manual\n1 x TUF Graphics Card Holder\n1 x TUF Velcro Hook & Loop\n1 x TUF Magnet\n1 x TUF Gaming Certificate\n1 x Thank You Card\n1 x Adpater Cable (1 to 3)",
+                "其他": "军规级别组件上佳耐用性\n保护性电路板涂层防潮、防尘\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n压铸金属框架，3.125插槽设计，优化散热\n轴流风扇比普通风扇更大31%的气流"
+            }
+        },
+        {
+            "name": "TUF-RTX5070TI-16G-GAMING",
+            "parameters": {
+                "品牌": "华硕",
+                "品牌显卡系列": "TUF GAMING - 电竞特工",
+                "核心频率": "OC mode: 2482MHz\nDefault mode: 2452MHz (Boost Clock)",
+                "显卡尺寸": "329 x 140 x 62.5 mm\n12.95 x 5.51 x 2.46 inch",
+                "供电相数": "12+4+3相供电",
+                "散热规模": "可能7热管",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual\n1 x TUF Graphics Card Holder\n1 x TUF Velcro Hook & Loop\n1 x TUF Magnet\n1 x TUF Gaming Certificate\n1 x Thank You Card\n1 x Adpater Cable (1 to 3)",
+                "其他": "军规级别组件上佳耐用性\n保护性电路板涂层防潮、防尘\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n压铸金属框架，3.125插槽设计，优化散热\n轴流风扇比普通风扇更大31%的气流\n双 BIOS切换静音或性能模式"
+            }
+        },
+        {
+            "name": "PRIME-RTX5070TI-O16G",
+            "parameters": {
+                "品牌": "华硕",
+                "品牌显卡系列": "Prime - 大师系列",
+                "核心频率": "OC mode: 2527MHz\nDefault mode: 2497MHz (Boost Clock)",
+                "显卡尺寸": "\n304 x 126 x 50 mm\n12 x 5 x 2 inch",
+                "供电相数": "14相核心+3相显存",
+                "散热规模": "6热管*6mm",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual\n1 x ASUS Velcro Hook & Loop\n1 x Thank You Card\n1 x Adapter Cable (1 to 3)​",
+                "其他": "符合 SFF-Ready 规范2.5 插槽设计，适用于 SFF 机箱。\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n双 BIOS切换静音或性能模式\n双滚珠轴承风扇，使用寿命是油封轴承的两倍"
+            }
+        },
+        {
+            "name": "PRIME-RTX5070TI-16G",
+            "parameters": {
+                "品牌": "华硕",
+                "品牌显卡系列": "Prime - 大师系列",
+                "核心频率": "OC mode: 2482MHz\nDefault mode: 2452MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm\n12 x 5 x 2 inch",
+                "供电相数": "14相核心+3相显存",
+                "散热规模": "6热管*6mm",
+                "是否有均热板": "无",
+                "供电接口": "",
+                "插槽": "",
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual\n1 x ASUS Velcro Hook & Loop\n1 x Thank You Card\n1 x Adapter Cable (1 to 3)​",
+                "其他": "符合 SFF-Ready 规范2.5 插槽设计，适用于 SFF 机箱。\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n双 BIOS切换静音或性能模式\n双滚珠轴承风扇，使用寿命是油封轴承的两倍"
+            }
+        },
+        {
+            "name": "AORUS GeForce RTX™ 5070 Ti MASTER 16G",
+            "parameters": {
+                "品牌": "技嘉",
+                "品牌显卡系列": "AORUS - 超级雕",
+                "核心频率": "2670 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=360 W=150 H=75 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "有",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
+                "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. AORUS identity stickers\n5. Versatile VGA holder\n6. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti GAMING OC 16G",
+            "parameters": {
+                "品牌": "技嘉",
+                "品牌显卡系列": "GAMING - 魔鹰",
+                "核心频率": "2588 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=340 W=140 H=70 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "有",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
+                "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. Versatile VGA holder\n5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti EAGLE OC ICE SFF 16G",
+            "parameters": {
+                "品牌": "技嘉",
+                "品牌显卡系列": "EAGLE - 猎鹰",
+                "核心频率": "2542 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
+                "配件": "1. VGA manual\n2. 1x 12V-2x6 to 3x PCIe 8pin adapter\n3. Versatile VGA holder\n4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti EAGLE OC SFF 16G",
+            "parameters": {
+                "品牌": "技嘉",
+                "品牌显卡系列": "EAGLE - 猎鹰",
+                "核心频率": "2542 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
+                "配件": "1. VGA manual\n2. 1x 12V-2x6 to 3x PCIe 8pin adapter\n3. Versatile VGA holder\n4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti AERO OC 16G",
+            "parameters": {
+                "品牌": "技嘉",
+                "品牌显卡系列": "AERO - 雪鹰",
+                "核心频率": "2588 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=340 W=140 H=70 mm",
+                "供电相数": "",
+                "散热规模": "9热管",
+                "是否有均热板": "有",
+                "供电接口": "1×16-pin",
+                "插槽": 4,
+                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
+                "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. Versatile VGA holder\n5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti WINDFORCE OC SFF 16G",
+            "parameters": {
+                "品牌": "技嘉",
+                "品牌显卡系列": "WINDFORCE - 风魔",
+                "核心频率": "2497 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "8热管+铜底座",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
+                "配件": "1. VGA manual\n2. 1x 12V-2x6 to 3x PCIe 8pin adapter\n3. Versatile VGA holder\n4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G SHADOW 3X OC",
+            "parameters": {
+                "品牌": "微星",
+                "品牌显卡系列": "SHADOW - 幻影师",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
+                "显卡尺寸": "303 x 121 x 49 mm",
+                "供电相数": "",
+                "散热规模": "3*8mm热管+铜底座",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G INSPIRE 3X OC PLUS",
+            "parameters": {
+                "品牌": "微星",
+                "品牌显卡系列": "INSPIRE - 硬派师",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
+                "显卡尺寸": "288 x 112 x 50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G VANGUARD SOC LAUNCH EDITION",
+            "parameters": {
+                "品牌": "微星",
+                "品牌显卡系列": "VANGUARD - 神龙",
+                "核心频率": "核心基础频率(MHz):\n默认：2295\nMSI Center 极致模式：2310\n\n核心Boost频率(MHz):\n默认：2588\nMSI Center 极致模式：2603",
+                "显卡尺寸": "357 x 151 x 66 mm",
+                "供电相数": "15+3相",
+                "散热规模": "3×8mm+5×6mm + 9mm均热板",
+                "是否有均热板": "有（超能网）",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G VANGUARD SOC",
+            "parameters": {
+                "品牌": "微星",
+                "品牌显卡系列": "VANGUARD - 神龙",
+                "核心频率": "极致模式: 2602 MHz (MSI Center)\nBoost模式: 2588 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "357 x 151 x 66 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "有（超能网）",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G VENTUS 3X",
+            "parameters": {
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "极致模式: 2467 MHz (MSI Center)\nBoost模式: 2452 MHz",
+                "显卡尺寸": "303 x 121 x 49 mm",
+                "供电相数": "",
+                "散热规模": "4*8mm热管",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G VENTUS 3X OC",
+            "parameters": {
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
+                "显卡尺寸": "303 x 121 x 49 mm",
+                "供电相数": "",
+                "散热规模": "4*8mm热管",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G GAMING TRIO OC PLUS",
+            "parameters": {
+                "品牌": "微星",
+                "品牌显卡系列": "GAMING - 魔龙",
+                "核心频率": "极致模式: 2580 MHz (MSI Center)\nBoost模式: 2572 MHz (GAMING & SILENT Mode",
+                "显卡尺寸": "338 x 140 x 50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5070 Ti Vulcan OC 16GB",
+            "parameters": {
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2542Mhz",
+                "显卡尺寸": "336*145*62.9mm",
+                "供电相数": "14+3+2供电",
+                "散热规模": "7热管*6mm+金属背板",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5070 Ti Advanced OC 16GB",
+            "parameters": {
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2512Mhz",
+                "显卡尺寸": "330*140*60.5mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5070 Ti Ultra W OC 16GB",
+            "parameters": {
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2497Mhz",
+                "显卡尺寸": "331*139.3*59.7mm",
+                "供电相数": "",
+                "散热规模": "7热管*6mm+金属背板",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": 3,
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "战斧 GeForce RTX 5070 Ti 豪华版 16GB",
+            "parameters": {
+                "品牌": "七彩虹",
+                "品牌显卡系列": "战斧",
+                "核心频率": "",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "7热管*6mm+铜底座",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "影驰 GeForce RTX 5070 Ti圣刃",
+            "parameters": {
+                "品牌": "影驰",
+                "品牌显卡系列": "圣刃",
+                "核心频率": "2295 MHz/2452MHz",
+                "显卡尺寸": "316.5mm*140.1mm*50mm\n305mm*125mm*50mm（不含挡板）",
+                "供电相数": "10+4+3相供电",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b ×3\nHDMI 2.1b ×1",
+                "配件": "3×8Pin-16Pin转换器、显卡支架以及一条连接显卡和主板的灯光同步线",
+                "其他": ""
+            }
+        },
+        {
+            "name": "",
+            "parameters": {
+                "品牌": "影驰",
+                "品牌显卡系列": "魔刃",
+                "核心频率": "",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "金属大师 黑金版OC",
+            "parameters": {
+                "品牌": "影驰",
+                "品牌显卡系列": "金属大师",
+                "核心频率": "",
+                "显卡尺寸": "304*139*50mm",
+                "供电相数": "",
+                "散热规模": "5热管",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "",
+            "parameters": {
+                "品牌": "影驰",
+                "品牌显卡系列": "名人堂",
+                "核心频率": "",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "",
+            "parameters": {
+                "品牌": "影驰",
+                "品牌显卡系列": "星耀",
+                "核心频率": "",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "电竞判客 RTX 5070 Ti 16G X3W",
+            "parameters": {
+                "品牌": "映众",
+                "品牌显卡系列": "AX GAMEING",
+                "核心频率": "",
+                "显卡尺寸": "316*131*65mm",
+                "供电相数": "14+3相供电",
+                "散热规模": "5热管*8mm\n纯铜散热底座\n金属背板",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti 追风OC",
+            "parameters": {
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2467MHz",
+                "显卡尺寸": "315*140*50mm（含挡板） / 302*125*50mm（不含挡板）",
+                "供电相数": "",
+                "散热规模": "5热管*6mm",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti 追风",
+            "parameters": {
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2295MHz/2452MHz",
+                "显卡尺寸": "不含挡板 302 x 125 x 50mm",
+                "供电相数": "10+4+3相",
+                "散热规模": "5*6mm热管+纯铜底座",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti AMP EXTREME INFINITY",
+            "parameters": {
+                "品牌": "索泰",
+                "品牌显卡系列": "AMP",
+                "核心频率": "2295 MHz/2512MHz",
+                "显卡尺寸": "329.7mm*137.8mm*67.8mm",
+                "供电相数": "14+3相供电",
+                "散热规模": "7热管*6mm + 均热板",
+                "是否有均热板": "有（超能网）",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b ×3\nHDMI 2.1b ×1",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "万丽 星舰 GeForce RTX 5070 Ti OC 16GB GDDR7",
+            "parameters": {
+                "品牌": "万丽",
+                "品牌显卡系列": "星舰",
+                "核心频率": "2295/2512MHz",
+                "显卡尺寸": "359 x 145 x 69mm",
+                "供电相数": "10+4+3相",
+                "散热规模": "10热管*8mm",
+                "是否有均热板": "有（超能网）",
+                "供电接口": "1×16-pin",
+                "插槽": "3.5-Slot",
+                "输出接口": "HDMI+ 3 x DP",
+                "配件": "一根双8pin转12V-2x6的转接线，\n一根USB-C灯光同步线，\n一个显卡支架以及个性化贴纸，用户可以DIY贴在显卡尾部的小格子里，类似于车牌那样，增添了可玩性",
+                "其他": ""
+            }
+        },
+        {
+            "name": "万丽 星际 GeForce RTX 5070 Ti OC 16GB GDDR7",
+            "parameters": {
+                "品牌": "万丽",
+                "品牌显卡系列": "星际",
+                "核心频率": "2295/2482MHz",
+                "显卡尺寸": "315 x 127 x 53mm",
+                "供电相数": "",
+                "散热规模": "铜底",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "3-Slot",
+                "输出接口": "HDMI+ 3 x DP",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "万丽 星云 GeForce RTX 5070 Ti 16GB GDDR7",
+            "parameters": {
+                "品牌": "万丽",
+                "品牌显卡系列": "星云",
+                "核心频率": "2295/2452MHz",
+                "显卡尺寸": "312 x 124 x 51mm",
+                "供电相数": "",
+                "散热规模": "铜铝底",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "3-Slot",
+                "输出接口": "HDMI+ 3 x DP",
+                "配件": "",
+                "其他": ""
+            }
+        }
+    ],
+    "parameters": [
+        "品牌",
+        "品牌显卡系列",
+        "核心频率",
+        "显卡尺寸",
+        "供电相数",
+        "散热规模",
+        "是否有均热板",
+        "供电接口",
+        "插槽",
+        "输出接口",
+        "配件",
+        "其他"
+    ]
+}
