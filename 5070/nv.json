@@ -3,7 +3,18 @@
         {
             "name": "ROG-STRIX-RTX5070TI-O16G-GAMING",
             "parameters": {
-                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/FFAFA72B-0826-420E-8A31-C837D297B51D/w717/h525",
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/FFAFA72B-0826-420E-8A31-C837D297B51D/w185/fwebp",
+                "productURL":"https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx5070ti-o16g-gaming/",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "华硕",
                 "品牌显卡系列": "ROG - 玩家国度",
                 "核心频率": "超频模式: 2625 MHz\n默认模式: 2602MHz (加速频率)",
@@ -21,6 +32,18 @@
         {
             "name": "ROG-STRIX-RTX5070TI-16G-GAMING",
             "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/BBA48A2A-7FBA-45A8-BFC6-6D4360F97769/w185/fwebp",
+                "productURL":"https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx5070ti-16g-gaming/",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "华硕",
                 "品牌显卡系列": "ROG - 玩家国度",
                 "核心频率": "超频模式: 2482 MHz\n默认模式: 2452MHz (加速频率)",
@@ -38,6 +61,19 @@
         {
             "name": "TUF-RTX5070TI-O16G-GAMING",
             "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/a1ff0778-334d-4bc1-8862-7bfd44f2754b/w185/fwebp",
+                "productURL":"https://www.asus.com.cn/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-gaming/",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
                 "品牌": "华硕",
                 "品牌显卡系列": "TUF GAMING - 电竞特工",
                 "核心频率": "OC mode: 2610MHz\nDefault mode: 2588MHz (Boost Clock)",
@@ -55,6 +91,19 @@
         {
             "name": "TUF-RTX5070TI-16G-GAMING",
             "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/80eaa596-3bac-42c4-949d-07e2655c75a7/w185/fwebp",
+                "productURL":"https://www.asus.com.cn/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-16g-gaming/",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
                 "品牌": "华硕",
                 "品牌显卡系列": "TUF GAMING - 电竞特工",
                 "核心频率": "OC mode: 2482MHz\nDefault mode: 2452MHz (Boost Clock)",
@@ -72,6 +121,18 @@
         {
             "name": "PRIME-RTX5070TI-O16G",
             "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/11a24dd6-9a6b-415a-9131-afad0064b16c/w185/fwebp",
+                "productURL":"https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5070TI-O16G/",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
                 "品牌": "华硕",
                 "品牌显卡系列": "Prime - 大师系列",
                 "核心频率": "OC mode: 2527MHz\nDefault mode: 2497MHz (Boost Clock)",
@@ -89,6 +150,14 @@
         {
             "name": "PRIME-RTX5070TI-16G",
             "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/d3761a53-69f3-4d8e-aa5a-7e3c8eaf2c74/w185/fwebp",
+                "productURL":"https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5070TI-16G/",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "华硕",
                 "品牌显卡系列": "Prime - 大师系列",
                 "核心频率": "OC mode: 2482MHz\nDefault mode: 2452MHz (Boost Clock)",
@@ -106,6 +175,19 @@
         {
             "name": "AORUS GeForce RTX™ 5070 Ti MASTER 16G",
             "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/918bf934ae9575c91d460df75eb479e5/Product/43901/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TAORUS-M-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "技嘉",
                 "品牌显卡系列": "AORUS - 超级雕",
                 "核心频率": "2670 MHz (Reference: 2452 MHz)",
@@ -123,6 +205,19 @@
         {
             "name": "GeForce RTX™ 5070 Ti GAMING OC 16G",
             "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/46cacef1ceb451ec13fc102e95f2afdd/Product/44083/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TGAMING-OC-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
                 "品牌": "技嘉",
                 "品牌显卡系列": "GAMING - 魔鹰",
                 "核心频率": "2588 MHz (Reference: 2452 MHz)",
@@ -140,6 +235,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti EAGLE OC ICE SFF 16G",
             "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/2c9319cda29065cc30ac66c4838790a6/Product/43906/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TEAGLEOC-ICE-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "技嘉",
                 "品牌显卡系列": "EAGLE - 猎鹰",
                 "核心频率": "2542 MHz (Reference: 2452 MHz)",
@@ -157,6 +260,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti EAGLE OC SFF 16G",
             "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/ba27cf27bf4447b7552ac091a0f86ac8/Product/43908/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TEAGLE-OC-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "技嘉",
                 "品牌显卡系列": "EAGLE - 猎鹰",
                 "核心频率": "2542 MHz (Reference: 2452 MHz)",
@@ -174,6 +285,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti AERO OC 16G",
             "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/66a1c0a33e0a96add43f4efed5aa4c87/Product/43903/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TAERO-OC-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "技嘉",
                 "品牌显卡系列": "AERO - 雪鹰",
                 "核心频率": "2588 MHz (Reference: 2452 MHz)",
@@ -191,6 +310,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti WINDFORCE OC SFF 16G",
             "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/b456806454c82f2cf286d7c95a892515/Product/43913/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TWF3OC-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "技嘉",
                 "品牌显卡系列": "WINDFORCE - 风魔",
                 "核心频率": "2497 MHz (Reference: 2452 MHz)",
@@ -208,6 +335,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti 16G SHADOW 3X OC",
             "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1738649851f99734cac740c6f5eba83717cf3dfcc1.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-SHADOW-3X-OC",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "微星",
                 "品牌显卡系列": "SHADOW - 幻影师",
                 "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
@@ -225,6 +360,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti 16G INSPIRE 3X OC PLUS",
             "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1736217399397a08372d22cc992bd81dc417bb4239.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-INSPIRE-3X-OC-PLUS",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "微星",
                 "品牌显卡系列": "INSPIRE - 硬派师",
                 "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
@@ -242,6 +385,18 @@
         {
             "name": "GeForce RTX™ 5070 Ti 16G VANGUARD SOC LAUNCH EDITION",
             "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17374386696ced130b24366183a9061cfd8f30cdc7.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-VANGUARD-SOC-LAUNCH-EDITION",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98310.html"
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "微星",
                 "品牌显卡系列": "VANGUARD - 神龙",
                 "核心频率": "核心基础频率(MHz):\n默认：2295\nMSI Center 极致模式：2310\n\n核心Boost频率(MHz):\n默认：2588\nMSI Center 极致模式：2603",
@@ -259,6 +414,18 @@
         {
             "name": "GeForce RTX™ 5070 Ti 16G VANGUARD SOC",
             "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737438814e843766e7a4686e3257f13df276b19f3.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-VANGUARD-SOC",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "微星",
                 "品牌显卡系列": "VANGUARD - 神龙",
                 "核心频率": "极致模式: 2602 MHz (MSI Center)\nBoost模式: 2588 MHz (GAMING & SILENT模式)",
@@ -276,6 +443,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti 16G VENTUS 3X",
             "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737537897910d6be43d549ef26449b630ff95227d.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-VENTUS-3X",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "微星",
                 "品牌显卡系列": "VENTUS - 万图师",
                 "核心频率": "极致模式: 2467 MHz (MSI Center)\nBoost模式: 2452 MHz",
@@ -293,6 +468,14 @@
         {
             "name": "GeForce RTX™ 5070 Ti 16G VENTUS 3X OC",
             "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17375373017f070971309d34e5db4a0cbeed1e55b1.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-VENTUS-3X-OC",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "微星",
                 "品牌显卡系列": "VENTUS - 万图师",
                 "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
@@ -310,6 +493,18 @@
         {
             "name": "GeForce RTX™ 5070 Ti 16G GAMING TRIO OC PLUS",
             "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1738567494b5a1a4c58600a87f33be548bb80e081d.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-GAMING-TRIO-OC-PLUS",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
                 "品牌": "微星",
                 "品牌显卡系列": "GAMING - 魔龙",
                 "核心频率": "极致模式: 2580 MHz (MSI Center)\nBoost模式: 2572 MHz (GAMING & SILENT Mode",
@@ -327,6 +522,19 @@
         {
             "name": "iGame GeForce RTX 5070 Ti Vulcan OC 16GB",
             "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/16551030-ff49-4388-b1ee-5e5ca56329d2.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=9ad8c777-76cd-4ccc-b3d8-162a8a470638",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
                 "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2542Mhz",
@@ -344,6 +552,14 @@
         {
             "name": "iGame GeForce RTX 5070 Ti Advanced OC 16GB",
             "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/b8ade47a-4330-4a58-b51d-97302d6bc031.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=3f15f638-914f-421e-846c-0e491722f7de",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
                 "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2512Mhz",
@@ -361,6 +577,19 @@
         {
             "name": "iGame GeForce RTX 5070 Ti Ultra W OC 16GB",
             "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/0a1e8df4-2783-4355-a24c-eab5e1b13ca4.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=3358756e-9f92-494d-86b8-d9b02c5e6c4f",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
                 "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2497Mhz",
@@ -378,6 +607,14 @@
         {
             "name": "战斧 GeForce RTX 5070 Ti 豪华版 16GB",
             "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/8172a348-1598-48b6-9da7-0222a191ecce.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=5df5ef98-d6ab-4087-b127-58ec52e6f653",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "七彩虹",
                 "品牌显卡系列": "战斧",
                 "核心频率": "",
@@ -395,6 +632,14 @@
         {
             "name": "影驰 GeForce RTX 5070 Ti圣刃",
             "parameters": {
+                "imageURL": "",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "影驰",
                 "品牌显卡系列": "圣刃",
                 "核心频率": "2295 MHz/2452MHz",
@@ -412,6 +657,14 @@
         {
             "name": "",
             "parameters": {
+                "imageURL": "",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "影驰",
                 "品牌显卡系列": "魔刃",
                 "核心频率": "",
@@ -429,6 +682,14 @@
         {
             "name": "金属大师 黑金版OC",
             "parameters": {
+                "imageURL": "",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "影驰",
                 "品牌显卡系列": "金属大师",
                 "核心频率": "",
@@ -446,6 +707,14 @@
         {
             "name": "",
             "parameters": {
+                "imageURL": "",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "影驰",
                 "品牌显卡系列": "名人堂",
                 "核心频率": "",
@@ -463,6 +732,14 @@
         {
             "name": "",
             "parameters": {
+                "imageURL": "",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "影驰",
                 "品牌显卡系列": "星耀",
                 "核心频率": "",
@@ -480,6 +757,14 @@
         {
             "name": "电竞判客 RTX 5070 Ti 16G X3W",
             "parameters": {
+                "imageURL": "./images/dianjingpanke_5070Ti_X3W.png",
+                "productURL":"https://www.ax-gaming.cn/productinfo/1381289.html",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98354.html"
+                    }
+                ],
                 "品牌": "映众",
                 "品牌显卡系列": "AX GAMEING",
                 "核心频率": "",
@@ -497,6 +782,14 @@
         {
             "name": "RTX 5070 Ti 追风OC",
             "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_zhuifeng_OC.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680459889042132992",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "耕升",
                 "品牌显卡系列": "追风",
                 "核心频率": "2467MHz",
@@ -514,6 +807,14 @@
         {
             "name": "RTX 5070 Ti 追风",
             "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_zhuifeng.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680720565698433024",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "耕升",
                 "品牌显卡系列": "追风",
                 "核心频率": "2295MHz/2452MHz",
@@ -531,6 +832,14 @@
         {
             "name": "RTX 5070 Ti AMP EXTREME INFINITY",
             "parameters": {
+                "imageURL": "https://www.zotac.com/download/files/styles/w787/public/product_main_image/graphics_cards/zt-b50710b-10p-image01.jpg?itok=wMKOvtTh",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98251.html"
+                    }
+                ],
                 "品牌": "索泰",
                 "品牌显卡系列": "AMP",
                 "核心频率": "2295 MHz/2512MHz",
@@ -548,6 +857,19 @@
         {
             "name": "万丽 星舰 GeForce RTX 5070 Ti OC 16GB GDDR7",
             "parameters": {
+                "imageURL": "https://www.manli.com.cn/upload/2025/02/20/s[0]_wcj3zzl9m84f21740051867.png",
+                "productURL":"https://www.manli.com.cn/cn/product-detail-%E4%B8%87%E4%B8%BD_%E6%98%9F%E8%88%B0_GeForce_RTX_5070_Ti_OC_16GB_GDDR7-436.html",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98353.html"
+                    }
+                ],
+                
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "万丽",
                 "品牌显卡系列": "星舰",
                 "核心频率": "2295/2512MHz",
@@ -565,6 +887,14 @@
         {
             "name": "万丽 星际 GeForce RTX 5070 Ti OC 16GB GDDR7",
             "parameters": {
+                "imageURL": "https://www.manli.com.cn/upload/2025/02/20/s[0]_idd3i9vn1h9i91740051534.png",
+                "productURL":"https://www.manli.com.cn/cn/product-detail-%E4%B8%87%E4%B8%BD_%E6%98%9F%E9%99%85_GeForce_RTX_5070_Ti_OC_16GB_GDDR7-435.html",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "万丽",
                 "品牌显卡系列": "星际",
                 "核心频率": "2295/2482MHz",
@@ -582,6 +912,14 @@
         {
             "name": "万丽 星云 GeForce RTX 5070 Ti 16GB GDDR7",
             "parameters": {
+                "imageURL": "https://www.manli.com.cn/upload/2025/02/19/s[0]_tbu6ala7egdwq1739966146.png",
+                "productURL":"https://www.manli.com.cn/cn/product-detail-%E4%B8%87%E4%B8%BD_%E6%98%9F%E4%BA%91_GeForce_RTX_5070_Ti_16GB_GDDR7-427.html",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
                 "品牌": "万丽",
                 "品牌显卡系列": "星云",
                 "核心频率": "2295/2452MHz",
@@ -609,6 +947,7 @@
         "插槽",
         "输出接口",
         "配件",
+        "测评",
         "其他"
     ]
 }

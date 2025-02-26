@@ -32,6 +32,8 @@
             flex-wrap: nowrap;
             /* 当内容超出容器宽度时，显示横向滚动条 */
             overflow-x: auto;
+
+			height: 100vh;
         }
 
         /* 为了让滚动条显示正常，需要给 pricing-col 设置固定宽度 */
@@ -55,9 +57,9 @@
 <body>
 	<!-- partial:index.partial.html -->
 	<!-- HTML Code start -->
-	<section class='content'>
+	<!-- <section class='content'>
 		<div class="container">
-			<div class="row-fluid clearfix">
+			<div class="row-fluid clearfix"> -->
 
 				<div id="product-list" class="pricing-wrapper comparison-table clearfix style-3 pricing-scrollable">
 					<div class="col-md-6 pricing-col list-feature sticky-column">
@@ -65,16 +67,17 @@
 							<div class="pricing-header">
 								<!-- <h5>5070 Ti</h5> -->
 								<p>5070 Ti / Compare Feature</p>
+								<p>发售日期: 2025年2月20日</p>
 							</div>
 							<div class="pricing-feature">
+								<li class="product-id">
+									<p>型号</p>
+								</li>
 								<li>
 									<p>品牌</p>
 								</li>
 								<li>
 									<p>品牌显卡系列</p>
-								</li>
-								<li>
-									<p>型号</p>
 								</li>
 								<li>
 									<p>核心频率</p>
@@ -103,6 +106,9 @@
 								<li class="assets">
 									<p>配件</p>
 								</li>
+								<li class="review">
+									<p>测评</p>
+								</li>
 								<li class="others">
 									<p>其他</p>
 								</li>
@@ -114,9 +120,9 @@
 					
 				</div>
 
-			</div>
+			<!-- </div>
 		</div>
-	</section>
+	</section> -->
 	<section class="footer">
 		
 	</section>

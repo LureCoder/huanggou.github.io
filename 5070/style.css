@@ -1477,7 +1477,7 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* Make image responsive by default */
@@ -2472,12 +2472,19 @@ h6 {
 /* =================== */
 .pricing-header {
   background: #fff;
-  position: relative;
+  position: sticky;
   height: 200px;
   border-bottom: 1px solid #1976d2;
   margin: -1px;
   margin-bottom: 0;
   text-align: center;
+  top: 0px;
+  z-index: 999;
+}
+
+.product-id{
+  position: sticky;
+  top: 160px;
 }
 
 .pricing-header h5 {
@@ -2620,7 +2627,7 @@ h6 {
   position: absolute;
   left: calc(100% - 110px);
   top: 70px;
-  width: 35px;
+  width: 45px;
   z-index: 10;
   -webkit-transition: all 0.2s linear;
           transition: all 0.2s linear;
@@ -2648,7 +2655,16 @@ h6 {
   visibility: hidden;
 }
 
-.ribbon i {
+.ribbon .fa-diamond{
+  color: #60d2f5;
+  font-weight: 800;
+  font-size: 14px;
+  margin: 11px;
+  z-index: 10;
+  float: left;
+}
+
+.ribbon .fa-star{
   color: #FFC61B;
   font-weight: 800;
   font-size: 14px;
@@ -3337,6 +3353,10 @@ section.footer {
   height: 100px !important;
 }
 
+.review{
+  height: 100px !important;
+}
+
 .others{
   height: 300px !important;
 }
@@ -3393,3 +3413,4 @@ section.footer {
   height: -webkit-fill-available;
   margin-bottom: 0px !important;
 }
+

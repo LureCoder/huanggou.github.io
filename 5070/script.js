@@ -8,17 +8,28 @@ $(document).ready(function () {
             var parameters = product.parameters;
             var name = product.name;
 
+            var levelCode = "";
+            if((parameters.level)){
+                if(parameters.level.value == 1){
+                    levelCode = '<a href="" class="ribbon"><i class="fa fa-diamond"></i><span>'+parameters.level.name+'</span></a>';
+                } else if (parameters.level.value == 2){
+                    levelCode = '<a href="" class="ribbon"><i class="fa fa-star"></i><span>'+parameters.level.name+'</span></a>';
+                }
+                
+            }
+
             // 生成 HTML 结构
             var html = '<div class="col-md-6 pricing-col person">' +
                 '<div class="pricing-card">' +
                 '<div class="pricing-header">' +
-                '<img class="card-logo" src="' + (parameters.imageURL || '') + '"/>' +
+                '<a href="' + (parameters.productURL || '') + '" target="_blank"><img class="card-logo" src="' + (parameters.imageURL || '') + '"/></a>' +
                 // '<h5>Standard</h5>' +
                 // '<a href="" class="ribbon">' +
                 // '<i class="fa fa-star"></i>' +
                 // '<span>Feature</span>' +
                 // '</a>' +
-                '<div class="price-box">' +
+                levelCode + 
+                '<div class="">' +
                 '<div class="price">' +
                 '<div class="currency"></div>' +
                 '<div class="plan"></div>' +
@@ -26,9 +37,9 @@ $(document).ready(function () {
                 '</div>' +
                 '</div>' +
                 '<div class="pricing-feature">' +
+                '<li class="product-id"><a href="' + (parameters.productURL || '') + '" target="_blank"><p>' + name + '</p></a></li>' +
                 '<li><p>' + (parameters.品牌 || '') + '</p></li>' +
                 '<li><p>' + (parameters.品牌显卡系列 || '') + '</p></li>' +
-                '<li><p>' + name + '</p></li>' +
                 '<li><p>' + (parameters.核心频率 || '') + '</p></li>' +
                 '<li><p>' + (parameters.显卡尺寸 || '') + '</p></li>' +
                 '<li><p>' + (parameters.供电相数 || '') + '</p></li>' +
@@ -38,6 +49,7 @@ $(document).ready(function () {
                 '<li><p>' + (parameters.插槽 || '') + '</p></li>' +
                 '<li><p>' + (parameters.输出接口 || '') + '</p></li>' +
                 '<li class="assets"><p>' + (parameters.配件 || '') + '</p></li>' +
+                '<li class="review"><a href="'+(parameters.review[0].reviewURL || '')+'" target="_blank" title="点我"><p>' + (parameters.review[0].tester || '') + '</p></a></li>' +
                 '<li class="others tooltip-container"><p>' + (parameters.其他 || '') + '</p><span class="tooltip">' + (parameters.其他 || '') + '</span></li>' +
                 '</div>' +
                 '</div>' +
