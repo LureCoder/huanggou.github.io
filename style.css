@@ -3414,3 +3414,60 @@ section.footer {
   margin-bottom: 0px !important;
 }
 
+.filter-parent-container{
+  height: 16vh;
+  min-height: 205px;
+}
+
+.filter-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: auto;
+  border-radius: 5px;
+}
+
+.filter-group {
+  margin-bottom: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.filter-group label {
+  margin-right: 20px;
+}
+
+.filter-group input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+
+/* 针对包含 pricing-col 的容器设置样式 */
+.pricing-scrollable {
+  /* 设置容器的最大宽度，这里假设每列宽度为 33.33%，3 列的宽度就是 100% */
+  max-width: 100%;
+  /* 设置容器为弹性布局 */
+  display: flex;
+  /* 允许子元素在一行排列，不换行 */
+  flex-wrap: nowrap;
+  /* 当内容超出容器宽度时，显示横向滚动条 */
+  overflow-x: auto;
+  /* margin: 200px 0; */
+  height: 84vh;
+}
+
+/* 为了让滚动条显示正常，需要给 pricing-col 设置固定宽度 */
+.pricing-col {
+  /* 假设每列宽度为 33.33% */
+  flex: 0 0 15%;
+  /* 防止列之间出现间隙 */
+  box-sizing: border-box;
+}
+
+/* 固定列样式 */
+.sticky-column {
+position: sticky;
+left: 0; /* 固定在左侧 */
+z-index: 200; /* 确保在其他列之上 */
+/* background-color: white; 可选，设置背景色防止内容重叠 */
+}

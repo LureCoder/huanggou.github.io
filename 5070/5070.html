@@ -3,15 +3,15 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Material Pricing Table</title>
+	<title>5070Ti Feature Comparison</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css'>
-	<link rel="stylesheet" href="./style.css">
+	<link rel="icon" href="../favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../style.css">
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-	<script src="./script.js"></script>
+
 	<style>
-        body {
+        /* body {
             transition: opacity ease-in 0.2s;
         }
 
@@ -20,38 +20,13 @@
             display: block;
             overflow: hidden;
             position: relative;
-        }
+        } */
 
-        /* 针对包含 pricing-col 的容器设置样式 */
-        .pricing-scrollable {
-            /* 设置容器的最大宽度，这里假设每列宽度为 33.33%，3 列的宽度就是 100% */
-            max-width: 100%;
-            /* 设置容器为弹性布局 */
-            display: flex;
-            /* 允许子元素在一行排列，不换行 */
-            flex-wrap: nowrap;
-            /* 当内容超出容器宽度时，显示横向滚动条 */
-            overflow-x: auto;
-
-			height: 100vh;
-        }
-
-        /* 为了让滚动条显示正常，需要给 pricing-col 设置固定宽度 */
-        .pricing-col {
-            /* 假设每列宽度为 33.33% */
-            flex: 0 0 15%;
-            /* 防止列之间出现间隙 */
-            box-sizing: border-box;
-        }
-
-		 /* 固定列样式 */
-		 .sticky-column {
-			position: sticky;
-			left: 0; /* 固定在左侧 */
-			z-index: 200; /* 确保在其他列之上 */
-			/* background-color: white; 可选，设置背景色防止内容重叠 */
-		}
+        
     </style>
+
+
+
 </head>
 
 <body>
@@ -60,7 +35,13 @@
 	<!-- <section class='content'>
 		<div class="container">
 			<div class="row-fluid clearfix"> -->
-
+				<div class="filter-parent-container">
+					<div id="filter-container" class="filter-container">
+	
+					</div>
+					<button onclick="submitFilters()">提交过滤条件</button>
+					<button onclick="resetFilters()">重置过滤条件</button>
+				</div>
 				<div id="product-list" class="pricing-wrapper comparison-table clearfix style-3 pricing-scrollable">
 					<div class="col-md-6 pricing-col list-feature sticky-column">
 						<div class="pricing-card">
@@ -127,7 +108,8 @@
 		
 	</section>
 	<!-- partial -->
-	<script src="./script.js"></script>
+	<script src="../script.js"></script>
+	<script src="../filter/filter.js"></script>
 </body>
 
 </html>
