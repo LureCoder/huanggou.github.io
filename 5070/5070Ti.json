@@ -20,7 +20,7 @@
                 "核心频率": "超频模式: 2625 MHz\n默认模式: 2602MHz (加速频率)",
                 "显卡尺寸": "\n332 x 147.3 x 64 mm\n13.07 x 5.79 x 2.519 inch",
                 "供电相数": "",
-                "散热规模": "",
+                "散热规模": "相变 GPU 导热垫",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "\n3.2 Slot",
@@ -49,7 +49,7 @@
                 "核心频率": "超频模式: 2482 MHz\n默认模式: 2452MHz (加速频率)",
                 "显卡尺寸": "\n332 x 147.3 x 64 mm\n13.07 x 5.79 x 2.519 inch",
                 "供电相数": "",
-                "散热规模": "",
+                "散热规模": "相变 GPU 导热垫",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "\n3.2 Slot",
@@ -79,7 +79,7 @@
                 "核心频率": "OC mode: 2610MHz\nDefault mode: 2588MHz (Boost Clock)",
                 "显卡尺寸": "329 x 140 x 62.5 mm\n12.95 x 5.51 x 2.46 inch",
                 "供电相数": "12+4+3相供电",
-                "散热规模": "",
+                "散热规模": "相变 GPU 导热垫+可能7热管",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "3.125 Slot",
@@ -95,7 +95,7 @@
                 "productURL":"https://www.asus.com.cn/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-16g-gaming/",
                 "review":[
                     {
-                        "tester": "",
+                        "tester": "抖音@游戏宅朋克男",
                         "reviewURL": ""
                     }
                 ],
@@ -109,7 +109,7 @@
                 "核心频率": "OC mode: 2482MHz\nDefault mode: 2452MHz (Boost Clock)",
                 "显卡尺寸": "329 x 140 x 62.5 mm\n12.95 x 5.51 x 2.46 inch",
                 "供电相数": "12+4+3相供电",
-                "散热规模": "可能7热管",
+                "散热规模": "相变 GPU 导热垫+可能7热管",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
@@ -154,8 +154,8 @@
                 "productURL":"https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5070TI-16G/",
                 "review":[
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站@极客湾Geekerwan",
+                        "reviewURL": "https://www.bilibili.com/video/BV1X6AreqEwm/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "level": {
@@ -197,13 +197,13 @@
                 "核心频率": "2670 MHz (Reference: 2452 MHz)",
                 "显卡尺寸": "L=360 W=150 H=75 mm",
                 "供电相数": "",
-                "散热规模": "",
+                "散热规模": "服务器级导热凝胶\n被动冷却模块",
                 "是否有均热板": "有",
                 "供电接口": "1×16-pin",
                 "插槽": "",
                 "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
                 "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. AORUS identity stickers\n5. Versatile VGA holder\n6. Versatile VGA holder manual",
-                "其他": ""
+                "其他": "双BIOS模式 （性能 / 静音)\n4 年质保 (需网上注册)"
             }
         },
         {
@@ -227,13 +227,13 @@
                 "核心频率": "2588 MHz (Reference: 2452 MHz)",
                 "显卡尺寸": "L=340 W=140 H=70 mm",
                 "供电相数": "",
-                "散热规模": "",
+                "散热规模": "服务器级导热凝胶+大型均热板和复合式热管",
                 "是否有均热板": "有",
                 "供电接口": "1×16-pin",
                 "插槽": "",
                 "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
                 "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. Versatile VGA holder\n5. Versatile VGA holder manual",
-                "其他": ""
+                "其他": "双BIOS模式 （性能 / 静音)\n4 年质保 (需网上注册)"
             }
         },
         {
@@ -293,8 +293,8 @@
                 "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TAERO-OC-16GD",
                 "review":[
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站@有点硬核的宅同学",
+                        "reviewURL": "https://www.bilibili.com/video/BV1KzAHeqEon/?spm_id_from=333.337.search-card.all.click&vd_source=db86b40e86495818ef478bdb5e10b00f"
                     }
                 ],
                 "品牌": "技嘉",
@@ -333,7 +333,7 @@
                 "插槽": "",
                 "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
                 "配件": "1. VGA manual\n2. 1x 12V-2x6 to 3x PCIe 8pin adapter\n3. Versatile VGA holder\n4. Versatile VGA holder manual",
-                "其他": ""
+                "其他": "双BIOS模式 （性能 / 静音)"
             }
         },
         {
@@ -560,8 +560,8 @@
                 "productURL":"https://www.colorful.cn/home/product?mid=102&id=3f15f638-914f-421e-846c-0e491722f7de",
                 "review":[
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站@51972",
+                        "reviewURL": "https://www.bilibili.com/video/BV1a8AWeHE3N/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "品牌": "七彩虹",
@@ -615,8 +615,8 @@
                 "productURL":"https://www.colorful.cn/home/product?mid=102&id=5df5ef98-d6ab-4087-b127-58ec52e6f653",
                 "review":[
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站@FUN科技",
+                        "reviewURL": "https://www.bilibili.com/video/BV1CFAke9EnY/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "品牌": "七彩虹",
@@ -715,8 +715,8 @@
                 "productURL":"https://www.szgalaxy.com/goods/detail?id=680453862208966656",
                 "review":[
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站@天才赵德柱",
+                        "reviewURL": "https://www.bilibili.com/video/BV15zAreuE2E/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "品牌": "影驰",
@@ -740,8 +740,8 @@
                 "productURL":"https://www.szgalaxy.com/goods/detail?id=680389224138149888",
                 "review":[
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站@搞机所",
+                        "reviewURL": "https://www.bilibili.com/video/BV1scAWe3EZH/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "品牌": "影驰",
@@ -932,7 +932,7 @@
                 "核心频率": "2467MHz",
                 "显卡尺寸": "315*140*50mm（含挡板） / 302*125*50mm（不含挡板）",
                 "供电相数": "",
-                "散热规模": "5热管*6mm",
+                "散热规模": "5热管*6mm+纯铜底座",
                 "是否有均热板": "",
                 "供电接口": "1×16-pin",
                 "插槽": "",
@@ -948,8 +948,8 @@
                 "productURL":"https://www.szgainward.cn/goods/detail?id=680720565698433024",
                 "review":[
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98317.html"
                     }
                 ],
                 "品牌": "耕升",
