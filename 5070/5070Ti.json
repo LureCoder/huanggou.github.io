@@ -634,10 +634,35 @@
             }
         },
         {
+            "name": "影驰 GeForce RTX 5070 Ti圣刃 OC",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_shengren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680452355694661632",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "圣刃",
+                "核心频率": "2295 MHz/2497MHz",
+                "显卡尺寸": "316.5*140.1*50mm（含挡板） / 304*125*50mm（不含挡板）",
+                "供电相数": "10+4+3相供电",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b ×3\nHDMI 2.1b ×1",
+                "配件": "3×8Pin-16Pin转换器、显卡支架以及一条连接显卡和主板的灯光同步线",
+                "其他": ""
+            }
+        },
+        {
             "name": "影驰 GeForce RTX 5070 Ti圣刃",
             "parameters": {
-                "imageURL": "",
-                "productURL":"",
+                "imageURL": "./images/yingchi_5070Ti_shengren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680451304576913408",
                 "review":[
                     {
                         "tester": "",
@@ -659,10 +684,10 @@
             }
         },
         {
-            "name": "",
+            "name": "GeForce RTX 5070 Ti 魔刃 OC",
             "parameters": {
-                "imageURL": "",
-                "productURL":"",
+                "imageURL": "./images/yingchi_5070Ti_moren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680454839037202432",
                 "review":[
                     {
                         "tester": "",
@@ -684,10 +709,35 @@
             }
         },
         {
-            "name": "金属大师 黑金版OC",
+            "name": "GeForce RTX 5070 Ti 魔刃",
             "parameters": {
-                "imageURL": "",
-                "productURL":"",
+                "imageURL": "./images/yingchi_5070Ti_moren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680453862208966656",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "魔刃",
+                "核心频率": "",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 金属大师黑金版 OC",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_heijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680389224138149888",
                 "review":[
                     {
                         "tester": "",
@@ -709,10 +759,10 @@
             }
         },
         {
-            "name": "",
+            "name": "GeForce RTX 5070 Ti 金属大师黑金版",
             "parameters": {
-                "imageURL": "",
-                "productURL":"",
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_heijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680392166694064128",
                 "review":[
                     {
                         "tester": "",
@@ -720,24 +770,24 @@
                     }
                 ],
                 "品牌": "影驰",
-                "品牌显卡系列": "名人堂",
+                "品牌显卡系列": "金属大师",
                 "核心频率": "",
-                "显卡尺寸": "",
+                "显卡尺寸": "304*139*50mm",
                 "供电相数": "",
-                "散热规模": "",
+                "散热规模": "5热管",
                 "是否有均热板": "",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
                 "配件": "",
                 "其他": ""
             }
         },
         {
-            "name": "",
+            "name": "GeForce RTX 5070 Ti 金属大师白金版 OC",
             "parameters": {
-                "imageURL": "",
-                "productURL":"",
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_baijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680386969473257472",
                 "review":[
                     {
                         "tester": "",
@@ -745,16 +795,99 @@
                     }
                 ],
                 "品牌": "影驰",
-                "品牌显卡系列": "星耀",
+                "品牌显卡系列": "金属大师",
                 "核心频率": "",
-                "显卡尺寸": "",
+                "显卡尺寸": "304*139*50mm",
                 "供电相数": "",
-                "散热规模": "",
+                "散热规模": "5热管",
                 "是否有均热板": "",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
                 "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 金属大师白金版",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_baijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680394081184124928",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "金属大师",
+                "核心频率": "",
+                "显卡尺寸": "304*139*50mm",
+                "供电相数": "",
+                "散热规模": "5热管",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti HOF OC LAB Deluxe-X",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_mingrentang.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680457090178879488",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "影驰",
+                "品牌显卡系列": "名人堂",
+                "核心频率": "OC mode: 2610MHz\nGaming mode: 2512MHz",
+                "显卡尺寸": "338*145*60mm (不含挡板)\n349.4*160*60mm (含挡板)",
+                "供电相数": "14+6+6相供电",
+                "散热规模": "4*8mm + 4*6mm 热管",
+                "是否有均热板": "90*71mm 均热板",
+                "供电接口": "12V-2x6*1",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "12V-2x6 转 8Pin 电源延长线 * 1\n5V ARGB 同步线\n显卡支撑杆套件\n保护手套",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti HOF OC LAB Deluxe",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_mingrentang.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680456215381282816",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "影驰",
+                "品牌显卡系列": "名人堂",
+                "核心频率": "OC mode: 2580MHz\nGaming mode: 2512MHz",
+                "显卡尺寸": "338*145*60mm (不含挡板)\n349.4*160*60mm (含挡板)",
+                "供电相数": "14+6+6相供电",
+                "散热规模": "4*8mm + 4*6mm 热管",
+                "是否有均热板": "90*71mm 均热板",
+                "供电接口": "112V-2x6*1",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "12V-2x6 转 8Pin 电源延长线 * 1\n5V ARGB 同步线\n显卡支撑杆套件\n保护手套",
                 "其他": ""
             }
         },
@@ -771,13 +904,13 @@
                 ],
                 "品牌": "映众",
                 "品牌显卡系列": "AX电竞判客",
-                "核心频率": "",
+                "核心频率": "2295 MHz/2482MHz",
                 "显卡尺寸": "316*131*65mm",
                 "供电相数": "14+3相供电",
                 "散热规模": "5热管*8mm\n纯铜散热底座\n金属背板",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
-                "插槽": "",
+                "插槽": "3.5 Slot",
                 "输出接口": "3*DP2.1b+HDMI2.1b",
                 "配件": "",
                 "其他": ""
@@ -880,7 +1013,7 @@
                 "显卡尺寸": "359 x 145 x 69mm",
                 "供电相数": "10+4+3相",
                 "散热规模": "10热管*8mm",
-                "是否有均热板": "有（超能网）",
+                "是否有均热板": "有（超能网）, VC均热板",
                 "供电接口": "1×16-pin",
                 "插槽": "3.5-Slot",
                 "输出接口": "HDMI+ 3 x DP",
@@ -904,7 +1037,7 @@
                 "核心频率": "2295/2482MHz",
                 "显卡尺寸": "315 x 127 x 53mm",
                 "供电相数": "",
-                "散热规模": "铜底",
+                "散热规模": "镀镍铜底+5*6mm热管",
                 "是否有均热板": "",
                 "供电接口": "1×16-pin",
                 "插槽": "3-Slot",
@@ -929,7 +1062,7 @@
                 "核心频率": "2295/2452MHz",
                 "显卡尺寸": "312 x 124 x 51mm",
                 "供电相数": "",
-                "散热规模": "铜铝底",
+                "散热规模": "铜铝底+5*6mm热管",
                 "是否有均热板": "",
                 "供电接口": "1×16-pin",
                 "插槽": "3-Slot",
