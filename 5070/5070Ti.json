@@ -540,7 +540,7 @@
                     "name": "旗舰"
                 },
                 "品牌": "七彩虹",
-                "品牌显卡系列": "火神",
+                "品牌显卡系列": "iGame 火神",
                 "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2542Mhz",
                 "显卡尺寸": "336*145*62.9mm",
                 "供电相数": "14+3+2供电",
@@ -560,12 +560,12 @@
                 "productURL":"https://www.colorful.cn/home/product?mid=102&id=3f15f638-914f-421e-846c-0e491722f7de",
                 "review":[
                     {
-                        "tester": "B站@51972",
+                        "tester": "性能测评:B站@51972",
                         "reviewURL": "https://www.bilibili.com/video/BV1a8AWeHE3N/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "品牌": "七彩虹",
-                "品牌显卡系列": "iGame系列",
+                "品牌显卡系列": "iGame ADOC",
                 "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2512Mhz",
                 "显卡尺寸": "330*140*60.5mm",
                 "供电相数": "",
@@ -595,7 +595,7 @@
                     "name": "次旗舰"
                 },
                 "品牌": "七彩虹",
-                "品牌显卡系列": "Ultra W OC",
+                "品牌显卡系列": "iGame Ultra W OC",
                 "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2497Mhz",
                 "显卡尺寸": "331*139.3*59.7mm",
                 "供电相数": "",
@@ -621,8 +621,8 @@
                 ],
                 "品牌": "七彩虹",
                 "品牌显卡系列": "战斧",
-                "核心频率": "",
-                "显卡尺寸": "",
+                "核心频率": "Base：2295Mhz；Boost:2452Mhz",
+                "显卡尺寸": "330.6*140*60mm（不带挡片）",
                 "供电相数": "",
                 "散热规模": "7热管*6mm+铜底座",
                 "是否有均热板": "",
@@ -917,6 +917,35 @@
             }
         },
         {
+            "name": "RTX 5070 Ti 炫光·超OC",
+            "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_xuanguang_OC.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680459889042132992",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2467MHz",
+                "显卡尺寸": "315*140*50mm（含挡板）\n302*125*50mm（不含挡板）",
+                "供电相数": "10+4+3相供电",
+                "散热规模": "2*6mm+5热管*8mm+纯铜底座",
+                "是否有均热板": "有",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
             "name": "RTX 5070 Ti 追风OC",
             "parameters": {
                 "imageURL": "./images/gengsheng_5070Ti_zhuifeng_OC.jpg",
@@ -927,6 +956,10 @@
                         "reviewURL": ""
                     }
                 ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
                 "品牌": "耕升",
                 "品牌显卡系列": "追风",
                 "核心频率": "2467MHz",
@@ -952,12 +985,41 @@
                         "reviewURL": "https://www.expreview.com/98317.html"
                     }
                 ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
                 "品牌": "耕升",
                 "品牌显卡系列": "追风",
                 "核心频率": "2295MHz/2452MHz",
                 "显卡尺寸": "不含挡板 302 x 125 x 50mm",
                 "供电相数": "10+4+3相",
                 "散热规模": "5*6mm热管+纯铜底座",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti 踏雪OC",
+            "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_taxue_OC.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680720565698433024",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98317.html"
+                    }
+                ],
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2295MHz/2452MHz",
+                "显卡尺寸": "316*142*51mm（含挡板）\n304*125*51mm（不含挡板）",
+                "供电相数": "10+4+3相",
+                "散热规模": "5*6mm镀镍热管+铜底直触",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
@@ -977,6 +1039,10 @@
                         "reviewURL": "https://www.expreview.com/98251.html"
                     }
                 ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
                 "品牌": "索泰",
                 "品牌显卡系列": "AMP",
                 "核心频率": "2295 MHz/2512MHz",
