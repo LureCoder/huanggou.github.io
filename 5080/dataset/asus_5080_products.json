@@ -1,0 +1,178 @@
+{
+    "products": [
+        {
+            "name": "TUF GAMING RTX5080 16G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/4067ed7c-63d9-4676-8b89-1fee010276c5/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5080-16G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2640 MHz<br>Default mode: 2617 MHz (Boost Clock)",
+                "显卡尺寸": "348 x 146 x 72 mm<br>13.7 x 5.7 x 2.8 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.6 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>支持 x 1 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x TUF Graphics Card Holder<br>1 x TUF Velcro Hook & Loop<br>1 x TUF Magnet<br>1 x TUF Gaming Certificate<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "PRIME-RTX5080-16G",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/3f45dc34-bfc6-4ff5-8333-a30e12e52f92/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5080-16G/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 3,
+                    "name": "丐版"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2640 MHz<br>Default mode: 2617 MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm<br>12 x 5 x 2 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "2.5 插槽",
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)<br>支持 x 1 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "TUF GAMING RTX5080 O16G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/7bb494af-8636-46a3-93ee-3cff60d30624/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5080-O16G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2730 MHz<br>Default mode: 2700 MHz (Boost Clock)",
+                "显卡尺寸": "348 x 146 x 72 mm<br>13.7 x 5.7 x 2.8 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.6 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>支持 x 1 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x TUF Graphics Card Holder<br>1 x TUF Velcro Hook & Loop<br>1 x TUF Magnet<br>1 x TUF Gaming Certificate<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "PRIME RTX5080 O16G",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/475988bc-fd68-4ab6-a0dd-262e130272f7/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5080-O16G/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 3,
+                    "name": "丐版"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OpenGL® 4.6",
+                "显卡尺寸": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "ASUS GPU Tweak III & GeForce Game Ready 驱动程序和 Studio 驱动程序：请从服务支持网站下载所有软件。",
+                "插槽": "304 x 126 x 50 mm<br>12 x 5 x 2 inch",
+                "输出接口": "256 位",
+                "配件": "4",
+                "其他": ""
+            }
+        },
+        {
+            "name": "ROG ASTRAL 夜神 RTX5080 16G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/A6E797DF-0199-45A3-AA62-7E6691E95693/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-16g-gaming/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2670 MHz<br>Default mode: 2640 MHz (Boost Clock)",
+                "显卡尺寸": "357.6 x 149.3 x 76 mm<br>14.1 x 5.9 x 3 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.8 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b), Yes x 3 (Native DisplayPort 2.1b), HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG Graphics Card Keycap<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "ROG ASTRAL 夜神 RTX5080 O16G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/D2014DA5-2608-405F-A7AD-BDD8F6CE1F91/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-o16g-gaming/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2790 MHz<br>Default mode: 2760 MHz (Boost Clock)",
+                "显卡尺寸": "357.6 x 149.3 x 76 mm<br>14.1 x 5.9 x 3 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.8 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b), Yes x 3 (Native DisplayPort 2.1b), HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG Graphics Card Keycap<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": ""
+            }
+        }
+    ]
+}

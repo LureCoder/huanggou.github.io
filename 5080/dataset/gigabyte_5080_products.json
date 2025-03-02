@@ -1,0 +1,178 @@
+{
+    "products": [
+        {
+            "name": "AORUS GeForce RTX™ 5080 XTREME WATERFORCE 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/8688beed7a4991cb1b1a997720153efa/Product/43873/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5080AORUSX-W-16GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "AORUS - 超级雕",
+                "核心频率": "2805 MHz (Reference: 2617 MHz)",
+                "显卡尺寸": "L=220 W=130 H=40",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. AORUS identity stickers",
+                "其他": ""
+            }
+        },
+        {
+            "name": "AORUS GeForce RTX™ 5080 MASTER ICE 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/a8cb990bebc8ebfe2e8f51eaab4de8b7/Product/43871/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5080AORUSM-ICE-16GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "AORUS - 超级雕",
+                "核心频率": "2805 MHz (Reference: 2617 MHz)",
+                "显卡尺寸": "L=360 W=150 H=75 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. AORUS identity stickers<br>5. Versatile VGA holder<br>6. Versatile VGA holder manual<br>7. Screen cooling plus RGB fan",
+                "其他": ""
+            }
+        },
+        {
+            "name": "AORUS GeForce RTX™ 5080 MASTER 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/c4b99c1cd9127a925f55f34e7853d49a/Product/43869/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5080AORUS-M-16GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "AORUS - 超级雕",
+                "核心频率": "2805 MHz (Reference: 2617 MHz)",
+                "显卡尺寸": "L=360 W=150 H=75 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. AORUS identity stickers<br>5. Versatile VGA holder<br>6. Versatile VGA holder manual<br>7. Screen cooling plus RGB fan",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 GAMING OC 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/38af2d89471f6b313a828c2825305f27/Product/43884/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5080GAMING-OC-16GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "GAMING - 魔鹰",
+                "核心频率": "2730 MHz (Reference: 2617 MHz)",
+                "显卡尺寸": "L=340 W=140 H=70 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 AERO OC SFF 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/8ff6706f02b45b29f8c117ab6ec0b1f4/Product/43877/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5080AERO-OC-16GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "AERO - 雪鹰",
+                "核心频率": "2730 MHz (Reference: 2617 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 WINDFORCE OC SFF 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/e8e31cfdc173217befca72718f4560e3/Product/43887/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5080WF3OC-16GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "WINDFORCE - 风魔",
+                "核心频率": "2670 MHz (Reference: 2617 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        }
+    ]
+}

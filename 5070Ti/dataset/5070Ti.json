@@ -17,16 +17,16 @@
                 },
                 "品牌": "华硕",
                 "品牌显卡系列": "ROG - 玩家国度",
-                "核心频率": "超频模式: 2625 MHz\n默认模式: 2602MHz (加速频率)",
-                "显卡尺寸": "\n332 x 147.3 x 64 mm\n13.07 x 5.79 x 2.519 inch",
+                "核心频率": "超频模式: 2625 MHz<br>默认模式: 2602MHz (加速频率)",
+                "显卡尺寸": "332 x 147.3 x 64 mm<br>13.07 x 5.79 x 2.519 inch",
                 "供电相数": "",
                 "散热规模": "相变 GPU 导热垫",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
-                "插槽": "\n3.2 Slot",
-                "输出接口": "\nYes x 2 (Native HDMI 2.1b)\nYes x 3 (Native DisplayPort 2.1b)\nHDCP 支持 (2.3",
-                "配件": "\n1 x Speedsetup Manual\n1 x ROG Graphics Card Holder\n1 x ROG Velcro Hook & Loop\n1 x ROG Magnet\n1 x ROG PCB Ruler\n1 x Thank You Card\n1 x Power Cable (1 to 3)",
-                "其他": "AI 性能: 1492 AI TOPS\n动力源自 NVIDIA Blackwell 架构和 DLSS 4\n超频模式: 2625 MHz (超频模式)/ 2602 MHz (默认模式)\n3.275插槽设计:大型散热鳍片以针对三个轴流风扇的风量进行优化\n轴流风扇再加大提供 31% 以上的风量，实现更高的性能\n0dB 低噪音技术让您在相对安静的环境中享受轻度游戏\nMaxContact 设计及真空腔均热板可确保高效的热传递，提供更高的性能表现\n相变 GPU 导热垫有助于确保上佳的热传递，降低 GPU 温度，从而提高性能和可靠性\n高效电力传输采用数字供电控制和 15K 电容，带来强劲的性能体验\n保护性 PCB 涂层保护性涂层覆盖电路板，有助于防止因潮湿、灰尘或碎屑引起的短路\nAURA SYNC 神光同步灯效护盖及周边采用AURA 兼容的 ARGB 灯效，打造专属的个性化风格\nGPU Tweak III 软件提供直观的性能调校、散热控制与系统监控"
+                "插槽": "3.2 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>Yes x 3 (Native DisplayPort 2.1b)<br>HDCP 支持 (2.3",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Power Cable (1 to 3)",
+                "其他": "AI 性能: 1492 AI TOPS<br>动力源自 NVIDIA Blackwell 架构和 DLSS 4<br>超频模式: 2625 MHz (超频模式)/ 2602 MHz (默认模式)<br>3.275插槽设计:大型散热鳍片以针对三个轴流风扇的风量进行优化<br>轴流风扇再加大提供 31% 以上的风量，实现更高的性能<br>0dB 低噪音技术让您在相对安静的环境中享受轻度游戏<br>MaxContact 设计及真空腔均热板可确保高效的热传递，提供更高的性能表现<br>相变 GPU 导热垫有助于确保上佳的热传递，降低 GPU 温度，从而提高性能和可靠性<br>高效电力传输采用数字供电控制和 15K 电容，带来强劲的性能体验<br>保护性 PCB 涂层保护性涂层覆盖电路板，有助于防止因潮湿、灰尘或碎屑引起的短路<br>AURA SYNC 神光同步灯效护盖及周边采用AURA 兼容的 ARGB 灯效，打造专属的个性化风格<br>GPU Tweak III 软件提供直观的性能调校、散热控制与系统监控"
             }
         },
         {
@@ -46,16 +46,16 @@
                 },
                 "品牌": "华硕",
                 "品牌显卡系列": "ROG - 玩家国度",
-                "核心频率": "超频模式: 2482 MHz\n默认模式: 2452MHz (加速频率)",
-                "显卡尺寸": "\n332 x 147.3 x 64 mm\n13.07 x 5.79 x 2.519 inch",
+                "核心频率": "超频模式: 2482 MHz<br>默认模式: 2452MHz (加速频率)",
+                "显卡尺寸": "332 x 147.3 x 64 mm<br>13.07 x 5.79 x 2.519 inch",
                 "供电相数": "",
                 "散热规模": "相变 GPU 导热垫",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
-                "插槽": "\n3.2 Slot",
-                "输出接口": "Yes x 2 (Native HDMI 2.1b)\nYes x 3 (Native DisplayPort 2.1b)\nHDCP 支持 (2.3)",
-                "配件": "1 x Speedsetup Manual\n1 x ROG Graphics Card Holder\n1 x ROG Velcro Hook & Loop\n1 x ROG Magnet\n1 x ROG PCB Ruler\n1 x Thank You Card\n1 x Power Cable (1 to 3)",
-                "其他": "AI 性能: 1406 AI TOPS\n动力源自 NVIDIA Blackwell 架构和 DLSS 4\n超频模式: 2482 MHz (超频模式)/ 2452 MHz (默认模式)\n3.275插槽设计:大型散热鳍片以针对三个轴流风扇的风量进行优化\n轴流风扇再加大提供 31% 以上的风量，实现更高的性能\n0dB 低噪音技术让您在相对安静的环境中享受轻度游戏\nMaxContact 设计及真空腔均热板可确保高效的热传递，提供更高的性能表现\n相变 GPU 导热垫有助于确保上佳的热传递，降低 GPU 温度，从而提高性能和可靠性\n高效电力传输采用数字供电控制和 15K 电容，带来强劲的性能体验\n保护性 PCB 涂层保护性涂层覆盖电路板，有助于防止因潮湿、灰尘或碎屑引起的短路\nAURA SYNC 神光同步灯效护盖及周边采用AURA 兼容的 ARGB 灯效，打造专属的个性化风格\nGPU Tweak III 软件提供直观的性能调校、散热控制与系统监控"
+                "插槽": "3.2 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>Yes x 3 (Native DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Power Cable (1 to 3)",
+                "其他": "AI 性能: 1406 AI TOPS<br>动力源自 NVIDIA Blackwell 架构和 DLSS 4<br>超频模式: 2482 MHz (超频模式)/ 2452 MHz (默认模式)<br>3.275插槽设计:大型散热鳍片以针对三个轴流风扇的风量进行优化<br>轴流风扇再加大提供 31% 以上的风量，实现更高的性能<br>0dB 低噪音技术让您在相对安静的环境中享受轻度游戏<br>MaxContact 设计及真空腔均热板可确保高效的热传递，提供更高的性能表现<br>相变 GPU 导热垫有助于确保上佳的热传递，降低 GPU 温度，从而提高性能和可靠性<br>高效电力传输采用数字供电控制和 15K 电容，带来强劲的性能体验<br>保护性 PCB 涂层保护性涂层覆盖电路板，有助于防止因潮湿、灰尘或碎屑引起的短路<br>AURA SYNC 神光同步灯效护盖及周边采用AURA 兼容的 ARGB 灯效，打造专属的个性化风格<br>GPU Tweak III 软件提供直观的性能调校、散热控制与系统监控"
             }
         },
         {
@@ -76,16 +76,16 @@
                 },
                 "品牌": "华硕",
                 "品牌显卡系列": "TUF GAMING - 电竞特工",
-                "核心频率": "OC mode: 2610MHz\nDefault mode: 2588MHz (Boost Clock)",
-                "显卡尺寸": "329 x 140 x 62.5 mm\n12.95 x 5.51 x 2.46 inch",
+                "核心频率": "OC mode: 2610MHz<br>Default mode: 2588MHz (Boost Clock)",
+                "显卡尺寸": "329 x 140 x 62.5 mm<br>12.95 x 5.51 x 2.46 inch",
                 "供电相数": "12+4+3相供电",
                 "散热规模": "相变 GPU 导热垫+可能7热管",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "3.125 Slot",
-                "输出接口": "\nYes x 2 (Native HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
-                "配件": "\n1 x Speedsetup Manual\n1 x TUF Graphics Card Holder\n1 x TUF Velcro Hook & Loop\n1 x TUF Magnet\n1 x TUF Gaming Certificate\n1 x Thank You Card\n1 x Adpater Cable (1 to 3)",
-                "其他": "军规级别组件上佳耐用性\n保护性电路板涂层防潮、防尘\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n压铸金属框架，3.125插槽设计，优化散热\n轴流风扇比普通风扇更大31%的气流"
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>支持 x 3 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x TUF Graphics Card Holder<br>1 x TUF Velcro Hook & Loop<br>1 x TUF Magnet<br>1 x TUF Gaming Certificate<br>1 x Thank You Card<br>1 x Adpater Cable (1 to 3)",
+                "其他": "军规级别组件上佳耐用性<br>保护性电路板涂层防潮、防尘<br>相变 GPU 导热垫，优化散热，延长GPU使用寿命<br>压铸金属框架，3.125插槽设计，优化散热<br>轴流风扇比普通风扇更大31%的气流"
             }
         },
         {
@@ -106,16 +106,16 @@
                 },
                 "品牌": "华硕",
                 "品牌显卡系列": "TUF GAMING - 电竞特工",
-                "核心频率": "OC mode: 2482MHz\nDefault mode: 2452MHz (Boost Clock)",
-                "显卡尺寸": "329 x 140 x 62.5 mm\n12.95 x 5.51 x 2.46 inch",
+                "核心频率": "OC mode: 2482MHz<br>Default mode: 2452MHz (Boost Clock)",
+                "显卡尺寸": "329 x 140 x 62.5 mm<br>12.95 x 5.51 x 2.46 inch",
                 "供电相数": "12+4+3相供电",
                 "散热规模": "相变 GPU 导热垫+可能7热管",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "Yes x 2 (Native HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
-                "配件": "1 x Speedsetup Manual\n1 x TUF Graphics Card Holder\n1 x TUF Velcro Hook & Loop\n1 x TUF Magnet\n1 x TUF Gaming Certificate\n1 x Thank You Card\n1 x Adpater Cable (1 to 3)",
-                "其他": "军规级别组件上佳耐用性\n保护性电路板涂层防潮、防尘\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n压铸金属框架，3.125插槽设计，优化散热\n轴流风扇比普通风扇更大31%的气流\n双 BIOS切换静音或性能模式"
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>支持 x 3 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x TUF Graphics Card Holder<br>1 x TUF Velcro Hook & Loop<br>1 x TUF Magnet<br>1 x TUF Gaming Certificate<br>1 x Thank You Card<br>1 x Adpater Cable (1 to 3)",
+                "其他": "军规级别组件上佳耐用性<br>保护性电路板涂层防潮、防尘<br>相变 GPU 导热垫，优化散热，延长GPU使用寿命<br>压铸金属框架，3.125插槽设计，优化散热<br>轴流风扇比普通风扇更大31%的气流<br>双 BIOS切换静音或性能模式"
             }
         },
         {
@@ -135,16 +135,16 @@
                 },
                 "品牌": "华硕",
                 "品牌显卡系列": "Prime - 大师系列",
-                "核心频率": "OC mode: 2527MHz\nDefault mode: 2497MHz (Boost Clock)",
-                "显卡尺寸": "\n304 x 126 x 50 mm\n12 x 5 x 2 inch",
+                "核心频率": "OC mode: 2527MHz<br>Default mode: 2497MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm<br>12 x 5 x 2 inch",
                 "供电相数": "14相核心+3相显存",
                 "散热规模": "6热管*6mm",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "支持 x 1 (原生 HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
-                "配件": "1 x Speedsetup Manual\n1 x ASUS Velcro Hook & Loop\n1 x Thank You Card\n1 x Adapter Cable (1 to 3)​",
-                "其他": "符合 SFF-Ready 规范2.5 插槽设计，适用于 SFF 机箱。\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n双 BIOS切换静音或性能模式\n双滚珠轴承风扇，使用寿命是油封轴承的两倍"
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)<br>支持 x 3 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": "符合 SFF-Ready 规范2.5 插槽设计，适用于 SFF 机箱。<br>相变 GPU 导热垫，优化散热，延长GPU使用寿命<br>双 BIOS切换静音或性能模式<br>双滚珠轴承风扇，使用寿命是油封轴承的两倍"
             }
         },
         {
@@ -164,16 +164,16 @@
                 },
                 "品牌": "华硕",
                 "品牌显卡系列": "Prime - 大师系列",
-                "核心频率": "OC mode: 2482MHz\nDefault mode: 2452MHz (Boost Clock)",
-                "显卡尺寸": "304 x 126 x 50 mm\n12 x 5 x 2 inch",
+                "核心频率": "OC mode: 2482MHz<br>Default mode: 2452MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm<br>12 x 5 x 2 inch",
                 "供电相数": "14相核心+3相显存",
                 "散热规模": "6热管*6mm",
                 "是否有均热板": "无",
                 "供电接口": "",
                 "插槽": "",
-                "输出接口": "支持 x 1 (原生 HDMI 2.1b)\n支持 x 3 (原生 DisplayPort 2.1b)\nHDCP 支持 (2.3)",
-                "配件": "1 x Speedsetup Manual\n1 x ASUS Velcro Hook & Loop\n1 x Thank You Card\n1 x Adapter Cable (1 to 3)​",
-                "其他": "符合 SFF-Ready 规范2.5 插槽设计，适用于 SFF 机箱。\n相变 GPU 导热垫，优化散热，延长GPU使用寿命\n双 BIOS切换静音或性能模式\n双滚珠轴承风扇，使用寿命是油封轴承的两倍"
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)<br>支持 x 3 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": "符合 SFF-Ready 规范2.5 插槽设计，适用于 SFF 机箱。<br>相变 GPU 导热垫，优化散热，延长GPU使用寿命<br>双 BIOS切换静音或性能模式<br>双滚珠轴承风扇，使用寿命是油封轴承的两倍"
             }
         },
         {
@@ -197,13 +197,13 @@
                 "核心频率": "2670 MHz (Reference: 2452 MHz)",
                 "显卡尺寸": "L=360 W=150 H=75 mm",
                 "供电相数": "",
-                "散热规模": "服务器级导热凝胶\n被动冷却模块",
+                "散热规模": "服务器级导热凝胶<br>被动冷却模块",
                 "是否有均热板": "有",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
-                "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. AORUS identity stickers\n5. Versatile VGA holder\n6. Versatile VGA holder manual",
-                "其他": "双BIOS模式 （性能 / 静音)\n4 年质保 (需网上注册)"
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. AORUS identity stickers<br>5. Versatile VGA holder<br>6. Versatile VGA holder manual",
+                "其他": "双BIOS模式 （性能 / 静音)<br>4 年质保 (需网上注册)"
             }
         },
         {
@@ -231,9 +231,9 @@
                 "是否有均热板": "有",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
-                "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. Versatile VGA holder\n5. Versatile VGA holder manual",
-                "其他": "双BIOS模式 （性能 / 静音)\n4 年质保 (需网上注册)"
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": "双BIOS模式 （性能 / 静音)<br>4 年质保 (需网上注册)"
             }
         },
         {
@@ -256,8 +256,8 @@
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
-                "配件": "1. VGA manual\n2. 1x 12V-2x6 to 3x PCIe 8pin adapter\n3. Versatile VGA holder\n4. Versatile VGA holder manual",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
                 "其他": ""
             }
         },
@@ -281,8 +281,8 @@
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
-                "配件": "1. VGA manual\n2. 1x 12V-2x6 to 3x PCIe 8pin adapter\n3. Versatile VGA holder\n4. Versatile VGA holder manual",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
                 "其他": ""
             }
         },
@@ -306,8 +306,8 @@
                 "是否有均热板": "有",
                 "供电接口": "1×16-pin",
                 "插槽": 4,
-                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
-                "配件": "1. VGA manual\n2. Warranty notice\n3. 1x 12V-2x6 to 3x PCIe 8pin adapter\n4. Versatile VGA holder\n5. Versatile VGA holder manual",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
                 "其他": ""
             }
         },
@@ -331,8 +331,8 @@
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b x3\nHDMI 2.1b x1",
-                "配件": "1. VGA manual\n2. 1x 12V-2x6 to 3x PCIe 8pin adapter\n3. Versatile VGA holder\n4. Versatile VGA holder manual",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
                 "其他": "双BIOS模式 （性能 / 静音)"
             }
         },
@@ -349,14 +349,14 @@
                 ],
                 "品牌": "微星",
                 "品牌显卡系列": "SHADOW - 幻影师",
-                "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
                 "显卡尺寸": "303 x 121 x 49 mm",
                 "供电相数": "",
                 "散热规模": "3*8mm热管+铜底座",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
             }
@@ -374,14 +374,14 @@
                 ],
                 "品牌": "微星",
                 "品牌显卡系列": "INSPIRE - 硬派师",
-                "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
                 "显卡尺寸": "288 x 112 x 50 mm",
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
             }
@@ -403,14 +403,14 @@
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "VANGUARD - 神龙",
-                "核心频率": "核心基础频率(MHz):\n默认：2295\nMSI Center 极致模式：2310\n\n核心Boost频率(MHz):\n默认：2588\nMSI Center 极致模式：2603",
+                "核心频率": "核心基础频率(MHz):2295 极致模式:2310<br>核心Boost频率(MHz):2588 极致模式:2603",
                 "显卡尺寸": "357 x 151 x 66 mm",
                 "供电相数": "15+3相",
                 "散热规模": "3×8mm+5×6mm + 9mm均热板",
                 "是否有均热板": "有（超能网）",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
             }
@@ -432,14 +432,14 @@
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "VANGUARD - 神龙",
-                "核心频率": "极致模式: 2602 MHz (MSI Center)\nBoost模式: 2588 MHz (GAMING & SILENT模式)",
+                "核心频率": "极致模式: 2602 MHz (MSI Center)<br>Boost模式: 2588 MHz (GAMING & SILENT模式)",
                 "显卡尺寸": "357 x 151 x 66 mm",
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "有（超能网）",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
             }
@@ -457,14 +457,14 @@
                 ],
                 "品牌": "微星",
                 "品牌显卡系列": "VENTUS - 万图师",
-                "核心频率": "极致模式: 2467 MHz (MSI Center)\nBoost模式: 2452 MHz",
+                "核心频率": "极致模式: 2467 MHz (MSI Center)<br>Boost模式: 2452 MHz",
                 "显卡尺寸": "303 x 121 x 49 mm",
                 "供电相数": "",
                 "散热规模": "4*8mm热管",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
             }
@@ -482,14 +482,14 @@
                 ],
                 "品牌": "微星",
                 "品牌显卡系列": "VENTUS - 万图师",
-                "核心频率": "极致模式: 2497 MHz (MSI Center)\nBoost模式: 2482 MHz",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
                 "显卡尺寸": "303 x 121 x 49 mm",
                 "供电相数": "",
                 "散热规模": "4*8mm热管",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
             }
@@ -511,14 +511,14 @@
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "GAMING - 魔龙",
-                "核心频率": "极致模式: 2580 MHz (MSI Center)\nBoost模式: 2572 MHz (GAMING & SILENT Mode",
+                "核心频率": "极致模式: 2580 MHz (MSI Center)<br>Boost模式: 2572 MHz (GAMING & SILENT Mode",
                 "显卡尺寸": "338 x 140 x 50 mm",
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort x 3 (v2.1b)\nHDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
             }
@@ -541,7 +541,7 @@
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame 火神",
-                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2542Mhz",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz<br>一键OC核心频率 Base：2295Mhz；Boost:2542Mhz",
                 "显卡尺寸": "336*145*62.9mm",
                 "供电相数": "14+3+2供电",
                 "散热规模": "7热管*6mm+金属背板",
@@ -566,7 +566,7 @@
                 ],
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame ADOC",
-                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2512Mhz",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz<br>一键OC核心频率 Base：2295Mhz；Boost:2512Mhz",
                 "显卡尺寸": "330*140*60.5mm",
                 "供电相数": "",
                 "散热规模": "",
@@ -596,7 +596,7 @@
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame Ultra W OC",
-                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz\n一键OC核心频率 Base：2295Mhz；Boost:2497Mhz",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz<br>一键OC核心频率 Base：2295Mhz；Boost:2497Mhz",
                 "显卡尺寸": "331*139.3*59.7mm",
                 "供电相数": "",
                 "散热规模": "7热管*6mm+金属背板",
@@ -653,7 +653,7 @@
                 "是否有均热板": "",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b ×3\nHDMI 2.1b ×1",
+                "输出接口": "DisplayPort 2.1b ×3<br>HDMI 2.1b ×1",
                 "配件": "3×8Pin-16Pin转换器、显卡支架以及一条连接显卡和主板的灯光同步线",
                 "其他": ""
             }
@@ -672,13 +672,13 @@
                 "品牌": "影驰",
                 "品牌显卡系列": "圣刃",
                 "核心频率": "2295 MHz/2452MHz",
-                "显卡尺寸": "316.5mm*140.1mm*50mm\n305mm*125mm*50mm（不含挡板）",
+                "显卡尺寸": "316.5mm*140.1mm*50mm<br>305mm*125mm*50mm（不含挡板）",
                 "供电相数": "10+4+3相供电",
                 "散热规模": "4*6mm热管+铜底座",
                 "是否有均热板": "",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b ×3\nHDMI 2.1b ×1",
+                "输出接口": "DisplayPort 2.1b ×3<br>HDMI 2.1b ×1",
                 "配件": "3×8Pin-16Pin转换器、显卡支架以及一条连接显卡和主板的灯光同步线",
                 "其他": ""
             }
@@ -850,15 +850,15 @@
                 },
                 "品牌": "影驰",
                 "品牌显卡系列": "名人堂",
-                "核心频率": "OC mode: 2610MHz\nGaming mode: 2512MHz",
-                "显卡尺寸": "338*145*60mm (不含挡板)\n349.4*160*60mm (含挡板)",
+                "核心频率": "OC mode: 2610MHz<br>Gaming mode: 2512MHz",
+                "显卡尺寸": "338*145*60mm (不含挡板)<br>349.4*160*60mm (含挡板)",
                 "供电相数": "14+6+6相供电",
                 "散热规模": "4*8mm + 4*6mm 热管",
                 "是否有均热板": "90*71mm 均热板",
                 "供电接口": "12V-2x6*1",
                 "插槽": "",
                 "输出接口": "3*DP2.1b+HDMI2.1b",
-                "配件": "12V-2x6 转 8Pin 电源延长线 * 1\n5V ARGB 同步线\n显卡支撑杆套件\n保护手套",
+                "配件": "12V-2x6 转 8Pin 电源延长线 * 1<br>5V ARGB 同步线<br>显卡支撑杆套件<br>保护手套",
                 "其他": ""
             }
         },
@@ -879,15 +879,15 @@
                 },
                 "品牌": "影驰",
                 "品牌显卡系列": "名人堂",
-                "核心频率": "OC mode: 2580MHz\nGaming mode: 2512MHz",
-                "显卡尺寸": "338*145*60mm (不含挡板)\n349.4*160*60mm (含挡板)",
+                "核心频率": "OC mode: 2580MHz<br>Gaming mode: 2512MHz",
+                "显卡尺寸": "338*145*60mm (不含挡板)<br>349.4*160*60mm (含挡板)",
                 "供电相数": "14+6+6相供电",
                 "散热规模": "4*8mm + 4*6mm 热管",
                 "是否有均热板": "90*71mm 均热板",
                 "供电接口": "112V-2x6*1",
                 "插槽": "",
                 "输出接口": "3*DP2.1b+HDMI2.1b",
-                "配件": "12V-2x6 转 8Pin 电源延长线 * 1\n5V ARGB 同步线\n显卡支撑杆套件\n保护手套",
+                "配件": "12V-2x6 转 8Pin 电源延长线 * 1<br>5V ARGB 同步线<br>显卡支撑杆套件<br>保护手套",
                 "其他": ""
             }
         },
@@ -907,7 +907,7 @@
                 "核心频率": "2295 MHz/2482MHz",
                 "显卡尺寸": "316*131*65mm",
                 "供电相数": "14+3相供电",
-                "散热规模": "5热管*8mm\n纯铜散热底座\n金属背板",
+                "散热规模": "5热管*8mm<br>纯铜散热底座<br>金属背板",
                 "是否有均热板": "无",
                 "供电接口": "1×16-pin",
                 "插槽": "3.5 Slot",
@@ -934,7 +934,7 @@
                 "品牌": "耕升",
                 "品牌显卡系列": "追风",
                 "核心频率": "2467MHz",
-                "显卡尺寸": "315*140*50mm（含挡板）\n302*125*50mm（不含挡板）",
+                "显卡尺寸": "315*140*50mm（含挡板）<br>302*125*50mm（不含挡板）",
                 "供电相数": "10+4+3相供电",
                 "散热规模": "2*6mm+5热管*8mm+纯铜底座",
                 "是否有均热板": "有",
@@ -1017,7 +1017,7 @@
                 "品牌": "耕升",
                 "品牌显卡系列": "追风",
                 "核心频率": "2295MHz/2452MHz",
-                "显卡尺寸": "316*142*51mm（含挡板）\n304*125*51mm（不含挡板）",
+                "显卡尺寸": "316*142*51mm（含挡板）<br>304*125*51mm（不含挡板）",
                 "供电相数": "10+4+3相",
                 "散热规模": "5*6mm镀镍热管+铜底直触",
                 "是否有均热板": "无",
@@ -1052,7 +1052,7 @@
                 "是否有均热板": "有（超能网）",
                 "供电接口": "1×16-pin",
                 "插槽": "",
-                "输出接口": "DisplayPort 2.1b ×3\nHDMI 2.1b ×1",
+                "输出接口": "DisplayPort 2.1b ×3<br>HDMI 2.1b ×1",
                 "配件": "",
                 "其他": ""
             }
@@ -1083,7 +1083,7 @@
                 "供电接口": "1×16-pin",
                 "插槽": "3.5-Slot",
                 "输出接口": "HDMI+ 3 x DP",
-                "配件": "一根双8pin转12V-2x6的转接线，\n一根USB-C灯光同步线，\n一个显卡支架以及个性化贴纸，用户可以DIY贴在显卡尾部的小格子里，类似于车牌那样，增添了可玩性",
+                "配件": "一根双8pin转12V-2x6的转接线，<br>一根USB-C灯光同步线，<br>一个显卡支架以及个性化贴纸，用户可以DIY贴在显卡尾部的小格子里，类似于车牌那样，增添了可玩性",
                 "其他": ""
             }
         },

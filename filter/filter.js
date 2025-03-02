@@ -60,7 +60,7 @@ function submitFilters() {
     console.log('选择的过滤条件:', selectedFilters);
     // 这里可以添加将数据发送到服务器的代码
 
-    get5070TiVideoCards('5070Ti', selectedFilters, 'filter');
+    getVideoCardsByCardId(cardId, selectedFilters, 'filter');
 }
 
 function resetFilters() {
@@ -72,5 +72,5 @@ function resetFilters() {
         checkbox.checked = false;
     });
 
-    get5070TiVideoCards('5070Ti', undefined, 'reset');
+    getVideoCardsByCardId(cardId, undefined, 'reset');
 }

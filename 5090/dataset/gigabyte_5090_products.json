@@ -1,0 +1,207 @@
+{
+    "products": [
+        {
+            "name": "AORUS GeForce RTX™ 5090 D XTREME WATERFORCE 32G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/65b95edab89c4226151dbedc7329b387/Product/43951/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N509DAORUSX-W-32GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "2655 MHz (Reference card : 2407MHz)",
+                "显卡尺寸": "L=245 W=146 H=36 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 4x PCIe 8pin adapter<br>4. AORUS identity sticker<br>5. AORUS metal sticker",
+                "其他": ""
+            }
+        },
+        {
+            "name": "AORUS GeForce RTX™ 5090 D MASTER ICE 32G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/3ddcc70fdb291be2e5fa4366ffbf0895/Product/43949/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N509DAORUSM-ICE-32GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "2655 MHz (Reference card : 2407MHz)",
+                "显卡尺寸": "L=360 W=150 H=75 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 4x PCIe 8pin adapter<br>4. AORUS identity stickers<br>5. AORUS metal sticker<br>6. Versatile VGA holder<br>7. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "AORUS GeForce RTX™ 5090 D MASTER 32G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/f05677132b8b02955dc49e29e638088c/Product/43938/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N509DAORUS-M-32GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "2655 MHz (Reference card : 2407MHz)",
+                "显卡尺寸": "L=360 W=150 H=75 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 4x PCIe 8pin adapter<br>4. AORUS identity stickers<br>5. AORUS metal sticker<br>6. Versatile VGA holder<br>7. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D GAMING OC 32G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/844f2f7cbc399a38d92d008b5b654a45/Product/43955/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N509DGAMING-OC-32GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "2550 MHz (Reference card : 2407MHz)",
+                "显卡尺寸": "L=342 W=152 H=70 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 4x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D GAMING 32G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/5d53572569b11640217af8d7f4d5d8c8/Product/43953/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N509DGAMING-32GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "2407MHz",
+                "显卡尺寸": "L=342 W=152 H=70 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 4x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D WINDFORCE OC 32G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/7191b03d130fa7859b0c4da857278f58/Product/43960/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N509DWF3OC-32GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "2467 MHz (Reference card : 2407MHz)",
+                "显卡尺寸": "L=342 W=150 H=65 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. 1x 12V-2x6 to 4x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D WINDFORCE 32G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/c417fdc033b91be0e961ffdcdd336040/Product/43957/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N509DWF3-32GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "2407MHz",
+                "显卡尺寸": "L=342 W=150 H=65 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. 1x 12V-2x6 to 4x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        }
+    ]
+}

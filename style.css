@@ -2592,7 +2592,7 @@ h6 {
 .pricing-feature li p {
   margin: 0;
   font-size: 13.5px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   padding: 0 20px;
   line-height: normal;
 }
@@ -3350,6 +3350,10 @@ section.footer {
 }
 
 .assets{
+  height: 150px !important;
+}
+
+.output-port{
   height: 100px !important;
 }
 
@@ -3466,8 +3470,8 @@ section.footer {
 
 /* 固定列样式 */
 .sticky-column {
-position: sticky;
-left: 0; /* 固定在左侧 */
-z-index: 200; /* 确保在其他列之上 */
+  position: sticky;
+  left: 0; /* 固定在左侧 */
+  z-index: 200; /* 确保在其他列之上 */
 /* background-color: white; 可选，设置背景色防止内容重叠 */
 }

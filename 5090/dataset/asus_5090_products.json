@@ -1,0 +1,178 @@
+{
+    "products": [
+        {
+            "name": "ROG ASTRAL LC 夜神 RTX5090 D O32G GAMING 水冷版",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/BCA3221B-944C-40CA-9A4A-8021AA05C31E/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-lc-rtx5090d-o32g-gaming/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2467 MHz<br>Default mode: 2437 MHz(Boost clock)",
+                "显卡尺寸": "Card 288.46 x 153.7 x 48 mm<br>Radiator: 400 x 120 x 65mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "2.5 插槽",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b), Yes x 3 (Native DisplayPort 2.1b), HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 4)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "ROG ASTRAL 夜神 RTX5090 D 32G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/DB4353F9-C069-4AF8-93CD-15DFE82956EB/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090d-32g-gaming/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2467 MHz<br>Default mode: 2437 MHz(Boost clock)",
+                "显卡尺寸": "357.6 x 149.3 x 76 mm<br>14.1 x 5.9 x 3 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.8 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b), Yes x 3 (Native DisplayPort 2.1b), HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG Graphics Card Keycap<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 4)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "TUF GAMING RTX5090 D O32G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/4aad6290-f858-4712-b9a7-f37b33d5211a/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5090D-O32G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2580 MHz\\u003Cbr\\u003EDefault mode: 2550 MHz(Boost clock)",
+                "显卡尺寸": "348 x 146 x 72 mm\\u003Cbr\\u003E13.7 x 5.7 x 2.8 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.6 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)\\u003Cbr\\u003E支持 x 1 (原生 DisplayPort 2.1b)\\u003Cbr\\u003EHDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual\\u003Cbr\\u003E1 x TUF Graphics Card Holder\\u003Cbr\\u003E1 x TUF Velcro Hook & Loop\\u003Cbr\\u003E1 x TUF Magnet\\u003Cbr\\u003E1 x TUF Gaming Certificate\\u003Cbr\\u003E1 x Thank You Card\\u003Cbr\\u003E1 x Adapter Cable (1 to 4)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "ROG ASTRAL 夜神 RTX5090 D O32G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/09A5D621-9DE3-41D8-945F-6C4847BDB6D0/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090d-o32g-gaming/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2610 MHz<br>Default mode: 2580 MHz(Boost clock)",
+                "显卡尺寸": "357.6 x 149.3 x 76 mm<br>14.1 x 5.9 x 3 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.8 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b), Yes x 3 (Native DisplayPort 2.1b), HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG Graphics Card Keycap<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 4)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "ROG ASTRAL LC 夜神 RTX5090 D 32G GAMING 水冷版",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/CC3CC622-F82C-4446-8A34-E8974DFF0435/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-lc-rtx5090d-32g-gaming/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2467 MHz<br>Default mode: 2437 MHz(Boost clock)",
+                "显卡尺寸": "Card 288.46 x 153.7 x 48 mm<br>Radiator: 400 x 120 x 65mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "2.5 插槽",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b), Yes x 3 (Native DisplayPort 2.1b), HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 4)​",
+                "其他": ""
+            }
+        },
+        {
+            "name": "TUF GAMING RTX5090 D 32G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/02151c38-4d77-44c8-aa4a-24b6e7d1f4d6/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5090D-32G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "",
+                "核心频率": "OC mode: 2437 MHz\\u003Cbr\\u003EDefault mode: 2407 MHz(Boost clock)",
+                "显卡尺寸": "348 x 146 x 72 mm\\u003Cbr\\u003E13.7 x 5.7 x 2.8 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.6 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)\\u003Cbr\\u003E支持 x 1 (原生 DisplayPort 2.1b)\\u003Cbr\\u003EHDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual\\u003Cbr\\u003E1 x TUF Graphics Card Holder\\u003Cbr\\u003E1 x TUF Velcro Hook & Loop\\u003Cbr\\u003E1 x TUF Magnet\\u003Cbr\\u003E1 x TUF Gaming Certificate\\u003Cbr\\u003E1 x Thank You Card\\u003Cbr\\u003E1 x Adapter Cable (1 to 4)​",
+                "其他": ""
+            }
+        }
+    ]
+}

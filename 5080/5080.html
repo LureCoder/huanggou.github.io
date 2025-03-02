@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>5070Ti Feature Comparison</title>
+	<title>5080 Feature Comparison</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="../favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -12,21 +12,9 @@
 	
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-	<style>
-        /* body {
-            transition: opacity ease-in 0.2s;
-        }
-
-        body[unresolved] {
-            opacity: 0;
-            display: block;
-            overflow: hidden;
-            position: relative;
-        } */
-
-        
-    </style>
-
+	<script>
+		var cardId = '5080';
+	</script>
 
 
 </head>
@@ -112,6 +100,12 @@
 	<!-- partial -->
 	<script src="../script.js"></script>
 	<script src="../filter/filter.js"></script>
+	<script>
+		$(document).ready(function () {
+			// 加载 JSON 文件
+			getVideoCardsByCardId(cardId, undefined);
+		});
+	</script>
 </body>
 
 </html>
