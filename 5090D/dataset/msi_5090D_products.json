@@ -1,0 +1,424 @@
+{
+    "products": [
+        {
+            "name": "GeForce RTX™ 5090 D 32G GAMING TRIO",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_173761130853e2d3bf15365f6923a51270e8ed8ca7.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-GAMING-TRIO/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "GAMING - 魔龙",
+                "核心频率": "核心频率极致模式: 2422 MHz (MSI Center)Boost模式: 2407 MHz (GAMING & SILENT Mode)",
+                "显卡尺寸": "显卡尺寸359 x 149 x 70 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G GAMING TRIO OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_173761866272ccb3929fb5d45c45dfc35f89c72f1a.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-GAMING-TRIO-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "GAMING - 魔龙",
+                "核心频率": "核心频率极致模式: 2497 MHz (MSI Center)Boost模式: 2482 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸359 x 149 x 70 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G VENTUS 3X OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_173978447469595c68a9d26d339d7670d261ee845a.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-VENTUS-3X-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "核心频率极致模式: 2452 MHz (MSI Center)Boost模式: 2437 MHz",
+                "显卡尺寸": "显卡尺寸325 x 139 x 67 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G VANGUARD SOC LAUNCH EDITION",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737625679bd6967a87f0242d102824d62f5c68944.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-VANGUARD-SOC-LAUNCH-EDITION/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VANGUARD - 神龙",
+                "核心频率": "核心频率极致模式: 2527 MHz (MSI Center)Boost模式: 2512 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸357 x 151 x 76 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512 bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G VANGUARD SOC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_173762339325c09817ba0a32942cdbd468615b3f0f.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-VANGUARD-SOC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VANGUARD - 神龙",
+                "核心频率": "核心频率极致模式: 2527 MHz (MSI Center)Boost模式: 2512 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸357 x 151 x 76 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G SUPRIM LIQUID OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17377000404c546b2b6de75862c55453dc7a5ed23b.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-SUPRIM-LIQUID-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SUPRIM - 超龙",
+                "核心频率": "核心频率极致模式: 2497 MHz (MSI Center)Boost模式: 2482 MHz",
+                "显卡尺寸": "显卡尺寸Card: 280 x 148 x 51mmRadiator: 394 x 121 x 55mmTube length: 280mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512-bit",
+                "总线标准": "总线接口PCI Express® Gen 5 x16",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G SUPRIM OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17376994001de74f14444ec76450548aaaf40a7b05.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-SUPRIM-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SUPRIM - 超龙",
+                "核心频率": "核心频率极致频率: 2497 MHz (MSI Center)Boost频率: 2482 MHz",
+                "显卡尺寸": "显卡尺寸359 x 150 x 76 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512-bit",
+                "总线标准": "总线接口PCI Express® Gen 5 x16",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G VANGUARD OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737698253572b7442b2fa192e2b60f3da6db696f6.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-VANGUARD-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VANGUARD - 神龙",
+                "核心频率": "核心频率极致模式: 2497 MHz (MSI Center)Boost模式: 2482 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸357 x 151 x 76 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G SUPRIM LIQUID SOC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737688265716f112448cf0c2b6546c4ff348697b5.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-SUPRIM-LIQUID-SOC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SUPRIM - 超龙",
+                "核心频率": "核心频率Gaming模式: 极致模式: 2580 MHz (MSI Center), Boost模式: 2565 MHzSilent模式: 极致模式: 2527 MHz (MSI Center), Boost模式: 2512 MHz",
+                "显卡尺寸": "显卡尺寸Card: 280 x 148 x 51mmRadiator: 394 x 121 x 55mmTube length: 280mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512-bit",
+                "总线标准": "总线接口PCI Express® Gen 5x 16",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5090 D 32G SUPRIM SOC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737626968f9c19265bfd217ae4e70b12204105505.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5090-D-32G-SUPRIM-SOC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SUPRIM - 超龙",
+                "核心频率": "核心频率Gaming模式: 极致模式: 2580 MHz (MSI Center), Boost模式: 2565 MHzSilent模式: 极致模式: 2527 MHz (MSI Center), Boost模式: 2512 MHz",
+                "显卡尺寸": "显卡尺寸359 x 150 x 76 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存32GB GDDR7",
+                "显存位宽": "显存位宽512-bit",
+                "总线标准": "总线接口PCI Express® Gen 5 x16",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)1000 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "products": [
+        {
+            "name": "GeForce RTX™ 5080 16G SHADOW 3X OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17370831134a3d92546c2123c788594ad0222631aa.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-SHADOW-3X-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SHADOW - 幻影师",
+                "核心频率": "核心频率极致模式: 2655 MHz (MSI Center)Boost模式: 2640 MHz",
+                "显卡尺寸": "显卡尺寸303 x 121 x 49 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G GAMING TRIO OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_173710004234f04a0f44dd01f025e8bee23592ca90.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-GAMING-TRIO-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "GAMING - 魔龙",
+                "核心频率": "核心频率极致模式: 2715 MHz (MSI Center)Boost模式: 2700 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸338 x 140 x 50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G GAMING TRIO OC WHITE",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_173734304502d38f3b1423a6a8fcd70d645fad4590.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-GAMING-TRIO-OC-WHITE/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "GAMING - 魔龙",
+                "核心频率": "核心频率极致模式: 2715 MHz (MSI Center)Boost模式: 2700 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸338 x 140 x 50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G INSPIRE 3X OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1736217240e61d6e2db25c249b701c3e93f7f611d6.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-INSPIRE-3X-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "INSPIRE - 硬派师",
+                "核心频率": "核心频率极致模式:2655 MHz (MSI Center)Boost模式: 2640 MHz",
+                "显卡尺寸": "显卡尺寸288 x 112 x 50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1  (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G SUPRIM OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737515851dac77004c999f811626a228e14f4d118.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-SUPRIM-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SUPRIM - 超龙",
+                "核心频率": "核心频率极致模式: 2715 MHz (MSI Center)Boost模式: 2700 MHz",
+                "显卡尺寸": "显卡尺寸359 x 150 x 76 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5 x16",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G SUPRIM SOC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17375159392049cb1de4f70b7c8d6cb1be5cb45679.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-SUPRIM-SOC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SUPRIM - 超龙",
+                "核心频率": "核心频率极致模式: 2760 MHz (MSI Center)Boost模式: 2745 MHz",
+                "显卡尺寸": "显卡尺寸359 x 150 x 76 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5 x16",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G VANGUARD SOC LAUNCH EDITION",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17373649942d95374974f65dd470e41076c0361d27.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-VANGUARD-SOC-LAUNCH-EDITION/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "核心频率极致模式: 2745 MHz (MSI Center)Boost模式: 2730 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸357 x 151 x 66 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G VANGUARD SOC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737364968f92da35373ff0ee23b435925074bfcfa.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-VANGUARD-SOC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "核心频率极致模式: 2745 MHz (MSI Center)Boost模式: 2730 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸357 x 151 x 66 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G VANGUARD OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17374291205a5616460b82d8e971777b4730c3bad3.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-VANGUARD-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "核心频率极致模式: 2715 MHz (MSI Center)Boost模式: 2700 MHz (GAMING & SILENT模式)",
+                "显卡尺寸": "显卡尺寸357 x 151 x 66 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G SHADOW 3X",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1737362155b8e9ceb9ae3f83a751941cce3d6e9edb.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-SHADOW-3X/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SHADOW - 幻影师",
+                "核心频率": "核心频率极致模式: 2625 MHz (MSI Center)Boost模式: 2617 MHz",
+                "显卡尺寸": "显卡尺寸303 x 121 x 49 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G VENTUS 3X OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17373636064fcd11cd87f79db1017e31e5a8292a1e.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-VENTUS-3X-OC/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "核心频率极致模式: 2655 MHz (MSI Center)Boost模式: 2640 MHz",
+                "显卡尺寸": "显卡尺寸303 x 121 x 49 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5080 16G VENTUS 3X OC PLUS",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_17373516460c62ea0ae817420b1dcae2233b1e6ca1.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-VENTUS-3X-OC-PLUS/Specification",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "VENTUS - 万图师",
+                "核心频率": "核心频率极致模式: 2655 MHz (MSI Center)Boost模式: 2640 MHz",
+                "显卡尺寸": "显卡尺寸303 x 121 x 49 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "供电接口16-pin x 1",
+                "插槽": "",
+                "输出接口": "输出接口DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "显示芯片NVIDIA® GeForce RTX™ 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "显存16GB GDDR7",
+                "显存位宽": "显存位宽256-bit",
+                "总线标准": "总线接口PCI Express® Gen 5",
+                "数字分辨率": "最大分辨率7680 x 4320",
+                "多屏支持": "最大屏幕输出数4",
+                "建议电源": "建议电源 (W)850 W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        }
+    ]
+}
