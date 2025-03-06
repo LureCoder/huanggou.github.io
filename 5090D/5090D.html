@@ -7,8 +7,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="../favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.5.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/5.3.2/css/bootstrap.min.css">
-	<link rel="stylesheet" href="../style.css">
+	<!-- <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/5.3.2/css/bootstrap.min.css"> -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="./5090D.css">
+	<link rel="stylesheet" href="../css//ribbon.css">
 	
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -46,65 +48,62 @@
 					<button onclick="submitFilters()">提交过滤条件</button>
 					<button onclick="resetFilters()">重置过滤条件</button>
 				</div>
-				<div id="product-list" class="pricing-wrapper comparison-table clearfix style-3 pricing-scrollable">
-					<div class="col-md-6 pricing-col list-feature sticky-column">
-						<div class="pricing-card">
-							<div class="pricing-header">
-								<!-- <h5>5070 Ti</h5> -->
-								<p>5090 D / Compare Feature</p>
-								<p>发售日期: 2025年2月20日</p>
-							</div>
-							<div class="pricing-feature">
-								<li class="product-id">
-									<p>型号</p>
-								</li>
-								<li>
-									<p>品牌</p>
-								</li>
-								<li>
-									<p>品牌显卡系列</p>
-								</li>
-								<li>
-									<p>核心频率</p>
-								</li>
-								<li>
-									<p>显卡尺寸</p>
-								</li>
-								<li>
-									<p>供电相数</p>
-								</li>
-								<li>
-									<p>散热规模</p>
-								</li>
-								<li>
-									<p>是否有均热板</p>
-								</li>
-								<li>
-									<p>供电接口</p>
-								</li>
-								<li>
-									<p>插槽</p>
-								</li>
-								<li>
-									<p>输出接口</p>
-								</li>
-								<li class="assets">
-									<p>配件</p>
-								</li>
-								<li class="review">
-									<p>测评</p>
-								</li>
-								<li class="others">
-									<p>其他</p>
-								</li>
-							</div>
-						</div>
-					</div>
-					
-					
-					
+				<div class="container-fluid">
+							<!-- Fixed header table-->
+							<div class="table-container">
+								<table id="card-table" class="table table-striped">
+									<thead>
+										<tr id="card-logo-header">
+											<th scope="col" class="box"><div class="ribbon ribbon-top-right">产品图</div></th>
+										</tr>
+										<tr id="card-name-header">
+											<th scope="col" class="">名称</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr id="brandRow">
+											<th scope="row" class="">品牌</th>
+										</tr>
+										<tr id="brandSeriesRow">
+											<th scope="row" class="">品牌显卡系列</th>
+										</tr>
+										<tr id="coreFrequencyRow">
+											<th scope="row" class="">核心频率</th>
+										</tr>
+										<tr id="cardSizeRow">
+											<th scope="row" class="">显卡尺寸</th>
+										</tr>
+										<tr id="powerPhasesRow">
+											<th scope="row" class="">供电相数</th>
+										</tr>
+										<tr id="coolingScaleRow">
+											<th scope="row" class="">散热规模</th>
+										</tr>
+										<tr id="heatSpreadersRow">
+											<th scope="row" class="">是否有均热板</th>
+										</tr>
+										<tr id="powerInterfaceRow">
+											<th scope="row" class="">供电接口</th>
+										</tr>
+										<tr id="slotRow">
+											<th scope="row" class="">插槽</th>
+										</tr>
+										<tr id="outputInterfaceRow">
+											<th scope="row" class="">输出接口</th>
+										</tr>
+										<tr id="accessoriesRow">
+											<th scope="row" class="">配件</th>
+										</tr>
+										<tr id="reviewRow">
+											<th scope="row" class="">测评</th>
+										</tr>
+										<tr id="otherRow">
+											<th scope="row" class="">其他</th>
+										</tr>
+									</tbody>
+								</table>
+							</div><!-- End -->
 				</div>
-
 			<!-- </div>
 		</div>
 	</section> -->
@@ -112,7 +111,8 @@
 		
 	</section>
 	<!-- partial -->
-	<script src="../script.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="./5090D.js"></script>
 	<script src="../filter/filter.js"></script>
 	<script>
 		$(document).ready(function () {

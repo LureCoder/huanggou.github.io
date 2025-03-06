@@ -46,7 +46,8 @@ for (const category in filterData) {
 function submitFilters() {
 
     $('#product-list div[class*="aic-card"]').remove();
-
+    $('#card-table tr td').remove();
+    
     const selectedFilters = {};
     const filterGroups = document.querySelectorAll('.filter-group');
     filterGroups.forEach((group) => {
@@ -66,6 +67,8 @@ function submitFilters() {
 function resetFilters() {
 
     $('#product-list div[class*="aic-card"]').remove();
+
+    $('#card-table tr td').remove();
     
     const checkboxes = document.querySelectorAll('input[type="checkbox"]');
     checkboxes.forEach((checkbox) => {

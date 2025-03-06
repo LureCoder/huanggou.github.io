@@ -1,0 +1,130 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+/* .table-fixed tbody {
+    height: 84vh;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+    display: block;
+}
+
+.table-fixed tbody td,
+.table-fixed tbody th,
+.table-fixed thead > tr > th {
+    float: left;
+    position: relative;
+
+    &::after {
+        content: '';
+        clear: both;
+        display: block;
+    }
+} */
+
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+
+body {
+    background: #74ebd5;
+    background: -webkit-linear-gradient(to right, #74ebd5, #ACB6E5);
+    background: linear-gradient(to right, #74ebd5, #ACB6E5);
+    min-height: 100vh;
+
+}
+
+.table-container {
+    height: 82vh;
+    width: 100%;
+    overflow: auto;
+    position: relative;
+}
+
+/* 设置表格的最小列宽和最大列宽 */
+table th,
+table td {
+    min-width: 150px;
+    width: 320px;
+    white-space: nowrap;
+}
+
+/* 固定第一列 */
+table th:first-child,
+table td:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+}
+
+/* 固定第一行 */
+table thead {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+table td, table th {
+    border: 1px solid #ccc;
+}
+
+/* 确保第一行第一列的单元格堆叠在其他固定元素之上 */
+table thead th:first-child {
+    z-index: 3;
+}
+
+.card-logo-img {
+    height: 160px;
+}
+
+tr th p,
+tr td p {
+    margin: 0;
+    font-size: 13.5px;
+    /* text-transform: capitalize; */
+    padding: 0 20px;
+    line-height: normal;
+}
+
+
+.filter-parent-container {
+    height: 16vh;
+    min-height: 230px;
+}
+
+.filter-container {
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: auto;
+    border-radius: 5px;
+}
+
+.filter-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.filter-group label {
+    margin-right: 20px;
+}
+
+.filter-group input[type="checkbox"] {
+    margin-right: 5px;
+}
+
