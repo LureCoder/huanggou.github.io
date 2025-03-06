@@ -1,0 +1,584 @@
+{
+    "products": [
+        {
+            "name": "影驰 GeForce RTX 5070 Ti圣刃 OC",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_shengren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680452355694661632",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "圣刃",
+                "核心频率": "2295 MHz/2497MHz",
+                "显卡尺寸": "316.5*140.1*50mm（含挡板） / 304*125*50mm（不含挡板）",
+                "供电相数": "10+4+3相供电",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "无",
+                "核心烤机": "~68.8℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "DisplayPort 2.1b ×3<br>HDMI 2.1b ×1",
+                "配件": "3×8Pin-16Pin转换器、显卡支架以及一条连接显卡和主板的灯光同步线",
+                "其他": ""
+            }
+        },
+        {
+            "name": "影驰 GeForce RTX 5070 Ti圣刃",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_shengren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680451304576913408",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "圣刃",
+                "核心频率": "2295 MHz/2452MHz",
+                "显卡尺寸": "316.5mm*140.1mm*50mm<br>305mm*125mm*50mm（不含挡板）",
+                "供电相数": "10+4+3相供电",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "无",
+                "核心烤机": "~68.8℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "DisplayPort 2.1b ×3<br>HDMI 2.1b ×1",
+                "配件": "3×8Pin-16Pin转换器、显卡支架以及一条连接显卡和主板的灯光同步线",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 魔刃 OC",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_moren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680454839037202432",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "魔刃",
+                "核心频率": "",
+                "显卡尺寸": "",
+                "供电相数": "14+3",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "无",
+                "核心烤机": "~68.8℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 魔刃",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_moren.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680453862208966656",
+                "review":[
+                    {
+                        "tester": "B站@天才赵德柱",
+                        "reviewURL": "https://www.bilibili.com/video/BV15zAreuE2E/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "魔刃",
+                "核心频率": "",
+                "显卡尺寸": "",
+                "供电相数": "14+3",
+                "散热规模": "4*6mm热管+铜底座",
+                "是否有均热板": "无",
+                "核心烤机": "~68.8℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 金属大师黑金版 OC",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_heijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680389224138149888",
+                "review":[
+                    {
+                        "tester": "B站@搞机所",
+                        "reviewURL": "https://www.bilibili.com/video/BV1scAWe3EZH/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "金属大师",
+                "核心频率": "",
+                "显卡尺寸": "304*139*50mm",
+                "供电相数": "14+3",
+                "散热规模": "5*6mm热管",
+                "是否有均热板": "无",
+                "核心烤机": "~68.7℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 金属大师黑金版",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_heijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680392166694064128",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "金属大师",
+                "核心频率": "",
+                "显卡尺寸": "304*139*50mm",
+                "供电相数": "14+3",
+                "散热规模": "5*6mm热管",
+                "是否有均热板": "无",
+                "核心烤机": "~68.7℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 金属大师白金版 OC",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_baijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680386969473257472",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "金属大师",
+                "核心频率": "",
+                "显卡尺寸": "304*139*50mm",
+                "供电相数": "14+3",
+                "散热规模": "5*6mm热管",
+                "是否有均热板": "无",
+                "核心烤机": "~68.7℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti 金属大师白金版",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_jinshudashi_baijin.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680394081184124928",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "影驰",
+                "品牌显卡系列": "金属大师",
+                "核心频率": "",
+                "显卡尺寸": "304*139*50mm",
+                "供电相数": "14+3",
+                "散热规模": "5*6mm热管",
+                "是否有均热板": "无",
+                "核心烤机": "~68.7℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti HOF OC LAB Deluxe-X",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_mingrentang.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680457090178879488",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "影驰",
+                "品牌显卡系列": "名人堂",
+                "核心频率": "OC mode: 2610MHz<br>Gaming mode: 2512MHz",
+                "显卡尺寸": "338*145*60mm (不含挡板)<br>349.4*160*60mm (含挡板)",
+                "供电相数": "14+6+6相供电",
+                "散热规模": "4*8mm + 4*6mm 热管",
+                "是否有均热板": "90*71mm 均热板",
+                "核心烤机": "",
+                "显存烤机": "",
+                "供电接口": "12V-2x6*1",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "12V-2x6 转 8Pin 电源延长线 * 1<br>5V ARGB 同步线<br>显卡支撑杆套件<br>保护手套",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX 5070 Ti HOF OC LAB Deluxe",
+            "parameters": {
+                "imageURL": "./images/yingchi_5070Ti_mingrentang.jpg",
+                "productURL":"https://www.szgalaxy.com/goods/detail?id=680456215381282816",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "影驰",
+                "品牌显卡系列": "名人堂",
+                "核心频率": "OC mode: 2580MHz<br>Gaming mode: 2512MHz",
+                "显卡尺寸": "338*145*60mm (不含挡板)<br>349.4*160*60mm (含挡板)",
+                "供电相数": "14+6+6相供电",
+                "散热规模": "4*8mm + 4*6mm 热管",
+                "是否有均热板": "90*71mm 均热板",
+                "核心烤机": "",
+                "显存烤机": "",
+                "供电接口": "112V-2x6*1",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "12V-2x6 转 8Pin 电源延长线 * 1<br>5V ARGB 同步线<br>显卡支撑杆套件<br>保护手套",
+                "其他": ""
+            }
+        },
+        {
+            "name": "电竞判客 RTX 5070 Ti 16G X3W",
+            "parameters": {
+                "imageURL": "./images/dianjingpanke_5070Ti_X3W.png",
+                "productURL":"https://www.ax-gaming.cn/productinfo/1381289.html",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98354.html"
+                    }
+                ],
+                "品牌": "映众",
+                "品牌显卡系列": "AX电竞判客",
+                "核心频率": "2295 MHz/2482MHz",
+                "显卡尺寸": "316*131*65mm",
+                "供电相数": "14+3相供电",
+                "散热规模": "5热管*8mm<br>纯铜散热底座",
+                "是否有均热板": "无",
+                "核心烤机": "~66℃",
+                "显存烤机": "~82℃ ?",
+                "供电接口": "1×16-pin",
+                "插槽": "3.5 Slot",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti 炫光·超OC",
+            "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_xuanguang_OC.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680459889042132992",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2467MHz",
+                "显卡尺寸": "315*140*50mm（含挡板）<br>302*125*50mm（不含挡板）",
+                "供电相数": "10+4+3相供电",
+                "散热规模": "2*6mm+5热管*8mm+纯铜底座",
+                "是否有均热板": "有",
+                "核心烤机": "~66℃",
+                "显存烤机": "~66℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti 追风OC",
+            "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_zhuifeng_OC.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680459889042132992",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2467MHz",
+                "显卡尺寸": "315*140*50mm（含挡板） / 302*125*50mm（不含挡板）",
+                "供电相数": "",
+                "散热规模": "5热管*6mm+纯铜底座",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti 追风",
+            "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_zhuifeng.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680720565698433024",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98317.html"
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2295MHz/2452MHz",
+                "显卡尺寸": "不含挡板 302 x 125 x 50mm",
+                "供电相数": "10+4+3相",
+                "散热规模": "5*6mm热管+纯铜底座",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti 踏雪OC",
+            "parameters": {
+                "imageURL": "./images/gengsheng_5070Ti_taxue_OC.jpg",
+                "productURL":"https://www.szgainward.cn/goods/detail?id=680720565698433024",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98317.html"
+                    }
+                ],
+                "品牌": "耕升",
+                "品牌显卡系列": "追风",
+                "核心频率": "2295MHz/2452MHz",
+                "显卡尺寸": "316*142*51mm（含挡板）<br>304*125*51mm（不含挡板）",
+                "供电相数": "10+4+3相",
+                "散热规模": "5*6mm镀镍热管+铜底直触",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "3*DP 2.1b / HDMI 2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti AMP EXTREME INFINITY",
+            "parameters": {
+                "imageURL": "https://www.zotac.com/download/files/styles/w787/public/product_main_image/graphics_cards/zt-b50710b-10p-image01.jpg?itok=wMKOvtTh",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98251.html"
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "索泰",
+                "品牌显卡系列": "AMP",
+                "核心频率": "2295 MHz/2512MHz",
+                "显卡尺寸": "329.7mm*137.8mm*67.8mm",
+                "供电相数": "14+3相供电",
+                "散热规模": "7热管*6mm + 均热板",
+                "是否有均热板": "有（超能网）",
+                "核心烤机": "~60℃",
+                "显存烤机": "~56℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3.5",
+                "输出接口": "DisplayPort 2.1b ×3<br>HDMI 2.1b ×1",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "RTX 5070 Ti SOLID CORE OC",
+            "parameters": {
+                "imageURL": "https://www.zotac.com/download/files/styles/w787/public/product_main_image/graphics_cards/zt-b50710b-10p-image01.jpg?itok=wMKOvtTh",
+                "productURL":"",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98251.html"
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "次旗舰"
+                },
+                "品牌": "索泰",
+                "品牌显卡系列": "SOLID CORE",
+                "核心频率": "2295 MHz/2512MHz",
+                "显卡尺寸": "329.7mm*137.8mm*67.8mm",
+                "供电相数": "14+3相供电",
+                "散热规模": "7热管*6mm + 均热板",
+                "是否有均热板": "有（超能网）",
+                "核心烤机": "",
+                "显存烤机": "",
+                "供电接口": "1×16-pin",
+                "插槽": "3",
+                "输出接口": "DisplayPort 2.1b ×3<br>HDMI 2.1b ×1",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "万丽 星舰 GeForce RTX 5070 Ti OC 16GB GDDR7",
+            "parameters": {
+                "imageURL": "https://www.manli.com.cn/upload/2025/02/20/s[0]_wcj3zzl9m84f21740051867.png",
+                "productURL":"https://www.manli.com.cn/cn/product-detail-%E4%B8%87%E4%B8%BD_%E6%98%9F%E8%88%B0_GeForce_RTX_5070_Ti_OC_16GB_GDDR7-436.html",
+                "review":[
+                    {
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98353.html"
+                    }
+                ],
+                
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "万丽",
+                "品牌显卡系列": "星舰",
+                "核心频率": "2295/2512MHz",
+                "显卡尺寸": "359 x 145 x 69mm",
+                "供电相数": "10+4+3相",
+                "散热规模": "10热管*8mm",
+                "是否有均热板": "有（超能网）, VC均热板",
+                "核心烤机": "~59℃",
+                "显存烤机": "~62℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3.5-Slot",
+                "输出接口": "HDMI+ 3 x DP",
+                "配件": "一根双8pin转12V-2x6的转接线，<br>一根USB-C灯光同步线，<br>一个显卡支架以及个性化贴纸，用户可以DIY贴在显卡尾部的小格子里，类似于车牌那样，增添了可玩性",
+                "其他": ""
+            }
+        },
+        {
+            "name": "万丽 星际 GeForce RTX 5070 Ti OC 16GB GDDR7",
+            "parameters": {
+                "imageURL": "https://www.manli.com.cn/upload/2025/02/20/s[0]_idd3i9vn1h9i91740051534.png",
+                "productURL":"https://www.manli.com.cn/cn/product-detail-%E4%B8%87%E4%B8%BD_%E6%98%9F%E9%99%85_GeForce_RTX_5070_Ti_OC_16GB_GDDR7-435.html",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "万丽",
+                "品牌显卡系列": "星际",
+                "核心频率": "2295/2482MHz",
+                "显卡尺寸": "315 x 127 x 53mm",
+                "供电相数": "10+4+3相",
+                "散热规模": "5*6mm热管+镀镍铜底",
+                "是否有均热板": "",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5-Slot",
+                "输出接口": "HDMI+ 3 x DP",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "万丽 星云 GeForce RTX 5070 Ti 16GB GDDR7",
+            "parameters": {
+                "imageURL": "https://www.manli.com.cn/upload/2025/02/19/s[0]_tbu6ala7egdwq1739966146.png",
+                "productURL":"https://www.manli.com.cn/cn/product-detail-%E4%B8%87%E4%B8%BD_%E6%98%9F%E4%BA%91_GeForce_RTX_5070_Ti_16GB_GDDR7-427.html",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "万丽",
+                "品牌显卡系列": "星云",
+                "核心频率": "2295/2452MHz",
+                "显卡尺寸": "312 x 124 x 51mm",
+                "供电相数": "10+4+3相",
+                "散热规模": "5*6mm热管+铜铝底",
+                "是否有均热板": "无",
+                "核心烤机": "~66℃",
+                "显存烤机": "~62℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5-Slot",
+                "输出接口": "HDMI+ 3 x DP",
+                "配件": "",
+                "其他": ""
+            }
+        }
+    ],
+    "parameters": [
+        "品牌",
+        "品牌显卡系列",
+        "核心频率",
+        "显卡尺寸",
+        "供电相数",
+        "散热规模",
+        "是否有均热板",
+        "供电接口",
+        "插槽",
+        "输出接口",
+        "配件",
+        "测评",
+        "其他"
+    ]
+}

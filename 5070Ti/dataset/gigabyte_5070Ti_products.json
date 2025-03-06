@@ -1,0 +1,181 @@
+{
+    "products": [
+        {
+            "name": "AORUS GeForce RTX™ 5070 Ti MASTER 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/918bf934ae9575c91d460df75eb479e5/Product/43901/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TAORUS-M-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "AORUS - 超级雕",
+                "核心频率": "2670 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=360 W=150 H=75 mm",
+                "供电相数": "",
+                "散热规模": "液金+13*6mm热管",
+                "是否有均热板": "有",
+                "核心烤机": "~61℃",
+                "显存烤机": "~58℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3.75",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. AORUS identity stickers<br>5. Versatile VGA holder<br>6. Versatile VGA holder manual",
+                "其他": "双BIOS模式 （性能 / 静音)<br>4 年质保 (需网上注册)"
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti GAMING OC 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/46cacef1ceb451ec13fc102e95f2afdd/Product/44083/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TGAMING-OC-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "GAMING - 魔鹰",
+                "核心频率": "2588 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=340 W=140 H=70 mm",
+                "供电相数": "",
+                "散热规模": "9*6mm热管",
+                "是否有均热板": "有",
+                "供电接口": "1×16-pin",
+                "插槽": "3.5",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": "双BIOS模式 （性能 / 静音)<br>4 年质保 (需网上注册)"
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti EAGLE OC ICE SFF 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/2c9319cda29065cc30ac66c4838790a6/Product/43906/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TEAGLEOC-ICE-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "技嘉",
+                "品牌显卡系列": "EAGLE - 猎鹰",
+                "核心频率": "2542 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "8*6mm+铜底",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti EAGLE OC SFF 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/ba27cf27bf4447b7552ac091a0f86ac8/Product/43908/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TEAGLE-OC-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "技嘉",
+                "品牌显卡系列": "EAGLE - 猎鹰",
+                "核心频率": "2542 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "8*6mm+铜底",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti AERO OC 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/66a1c0a33e0a96add43f4efed5aa4c87/Product/43903/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TAERO-OC-16GD",
+                "review":[
+                    {
+                        "tester": "B站@有点硬核的宅同学",
+                        "reviewURL": "https://www.bilibili.com/video/BV1KzAHeqEon/?spm_id_from=333.337.search-card.all.click&vd_source=db86b40e86495818ef478bdb5e10b00f"
+                    }
+                ],
+                "品牌": "技嘉",
+                "品牌显卡系列": "AERO - 雪鹰",
+                "核心频率": "2588 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=340 W=140 H=70 mm",
+                "供电相数": "",
+                "散热规模": "9*6mm热管",
+                "是否有均热板": "有",
+                "供电接口": "1×16-pin",
+                "插槽": "3.5",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti WINDFORCE OC SFF 16G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/b456806454c82f2cf286d7c95a892515/Product/43913/webp/300",
+                "productURL":"https://www.gigabyte.cn/Graphics-Card/GV-N507TWF3OC-16GD",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "品牌": "技嘉",
+                "品牌显卡系列": "WINDFORCE - 风魔",
+                "核心频率": "2497 MHz (Reference: 2452 MHz)",
+                "显卡尺寸": "L=304 W=126 H=50 mm",
+                "供电相数": "",
+                "散热规模": "8*6mm+铜底",
+                "是否有均热板": "无",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
+                "配件": "1. VGA manual<br>2. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>3. Versatile VGA holder<br>4. Versatile VGA holder manual",
+                "其他": "双BIOS模式 （性能 / 静音)"
+            }
+        }
+    ],
+    "parameters": [
+        "品牌",
+        "品牌显卡系列",
+        "核心频率",
+        "显卡尺寸",
+        "供电相数",
+        "散热规模",
+        "是否有均热板",
+        "供电接口",
+        "插槽",
+        "输出接口",
+        "配件",
+        "测评",
+        "其他"
+    ]
+}

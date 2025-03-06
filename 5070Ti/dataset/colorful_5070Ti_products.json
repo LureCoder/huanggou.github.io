@@ -1,0 +1,137 @@
+{
+    "products": [
+        {
+            "name": "iGame GeForce RTX 5070 Ti Vulcan OC 16GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/16551030-ff49-4388-b1ee-5e5ca56329d2.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=9ad8c777-76cd-4ccc-b3d8-162a8a470638",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame 火神",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz<br>一键OC核心频率 Base：2295Mhz；Boost:2542Mhz",
+                "显卡尺寸": "336*145*62.9mm",
+                "供电相数": "14+3+2供电",
+                "散热规模": "7热管*6mm+铜底",
+                "是否有均热板": "无",
+                "核心烤机": "~63℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3.2",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5070 Ti Advanced OC 16GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/b8ade47a-4330-4a58-b51d-97302d6bc031.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=3f15f638-914f-421e-846c-0e491722f7de",
+                "review":[
+                    {
+                        "tester": "性能测评:B站@51972",
+                        "reviewURL": "https://www.bilibili.com/video/BV1a8AWeHE3N/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
+                    }
+                ],
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame ADOC",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz<br>一键OC核心频率 Base：2295Mhz；Boost:2512Mhz",
+                "显卡尺寸": "330*140*60.5mm",
+                "供电相数": "15+3",
+                "散热规模": "2*8mm+5*6mm热管+铜底+金属背板",
+                "是否有均热板": "无",
+                "核心烤机": "~61℃",
+                "显存烤机": "~58℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5070 Ti Ultra W OC 16GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/0a1e8df4-2783-4355-a24c-eab5e1b13ca4.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=3358756e-9f92-494d-86b8-d9b02c5e6c4f",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame Ultra W OC",
+                "核心频率": "基础频率 Base：2295Mhz；Boost:2452Mhz<br>一键OC核心频率 Base：2295Mhz；Boost:2497Mhz",
+                "显卡尺寸": "331*139.3*59.7mm",
+                "供电相数": "14+3",
+                "散热规模": "7热管*6mm+铜底+金属背板",
+                "是否有均热板": "无",
+                "核心烤机": "~63℃",
+                "显存烤机": "~60℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "战斧 GeForce RTX 5070 Ti 豪华版 16GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/8172a348-1598-48b6-9da7-0222a191ecce.jpg",
+                "productURL":"https://www.colorful.cn/home/product?mid=102&id=5df5ef98-d6ab-4087-b127-58ec52e6f653",
+                "review":[
+                    {
+                        "tester": "B站@FUN科技",
+                        "reviewURL": "https://www.bilibili.com/video/BV1CFAke9EnY/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
+                    }
+                ],
+                "品牌": "七彩虹",
+                "品牌显卡系列": "战斧",
+                "核心频率": "Base：2295Mhz；Boost:2452Mhz",
+                "显卡尺寸": "330.6*140*60mm（不带挡片）",
+                "供电相数": "14+3",
+                "散热规模": "7热管*6mm+铜底座",
+                "是否有均热板": "",
+                "核心烤机": "~62℃",
+                "显存烤机": "~64℃",
+                "供电接口": "1×16-pin",
+                "插槽": "3",
+                "输出接口": "",
+                "配件": "",
+                "其他": ""
+            }
+        }
+    ],
+    "parameters": [
+        "品牌",
+        "品牌显卡系列",
+        "核心频率",
+        "显卡尺寸",
+        "供电相数",
+        "散热规模",
+        "是否有均热板",
+        "供电接口",
+        "插槽",
+        "输出接口",
+        "配件",
+        "测评",
+        "其他"
+    ]
+}
