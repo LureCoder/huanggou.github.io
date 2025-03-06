@@ -80,6 +80,37 @@ function getVideoCards(datasetPath, cardFilter, action){
                     }
                     
                 }
+
+                var coreColorClass = "";
+                var coreColorTemp = (parameters.核心烤机 || '').replace("~", "").replace("℃", "");
+                if(coreColorTemp && coreColorTemp != ''){
+                    let coreTemp = Number(coreColorTemp);
+                    if(coreTemp < 60){
+                        coreColorClass = "temp-range below-60";
+                    } else if (coreTemp >= 60 && coreTemp <= 65){
+                        coreColorClass = "temp-range between-60-65";
+                    } else if (coreTemp > 65 && coreTemp <= 70){
+                        coreColorClass = "temp-range between-65-70";
+                    } else {
+                        coreColorClass = "temp-range above-70";
+                    }
+                }
+
+                var memColorClass = "";
+                var memColorTemp = (parameters.显存烤机 || '').replace("~", "").replace("℃", "");
+                if(memColorTemp && memColorTemp != ''){
+                    let memTemp = Number(memColorTemp);
+                    if(memTemp < 60){
+                        memColorClass = "temp-range below-60";
+                    } else if (memTemp >= 60 && memTemp <= 65){
+                        memColorClass = "temp-range between-60-65";
+                    } else if (memTemp > 65 && memTemp <= 70){
+                        memColorClass = "temp-range between-65-70";
+                    } else {
+                        memColorClass = "temp-range above-70";
+                    }
+                }
+                
     
                 // 生成 HTML 结构
                 var html = '<div class="col-md-6 pricing-col aic-card">' +
@@ -108,6 +139,8 @@ function getVideoCards(datasetPath, cardFilter, action){
                     '<li><p>' + (parameters.供电相数 || '') + '</p></li>' +
                     '<li><p>' + (parameters.散热规模 || '') + '</p></li>' +
                     '<li><p>' + (parameters.是否有均热板 || '') + '</p></li>' +
+                    '<li class="'+coreColorClass+'"><p>' + (parameters.核心烤机 || '') + '</p></li>' +
+                    '<li class="'+memColorClass+'"><p>' + (parameters.显存烤机 || '') + '</p></li>' +
                     '<li><p>' + (parameters.供电接口 || '') + '</p></li>' +
                     '<li><p>' + (parameters.插槽 || '') + '</p></li>' +
                     '<li class="output-port"><p>' + (parameters.输出接口 || '') + '</p></li>' +

@@ -7,13 +7,13 @@
                 "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-SUPRIM-SOC/Specification",
                 "review": [
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "超能网",
+                        "reviewURL": "https://www.expreview.com/98414.html"
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 1,
+                    "name": "旗舰"
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "SUPRIM - 超龙",
@@ -22,8 +22,10 @@
                 "供电相数": "16+3",
                 "散热规模": "7*8mm+4*6mm热管",
                 "是否有均热板": "有",
+                "核心烤机": "~58℃",
+                "显存烤机": "~58℃",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "3.8",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -54,8 +56,8 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 1,
+                    "name": "旗舰"
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "SUPRIM - 超龙",
@@ -64,8 +66,10 @@
                 "供电相数": "16+3",
                 "散热规模": "7*8mm+4*6mm热管",
                 "是否有均热板": "有",
+                "核心烤机": "~58℃",
+                "显存烤机": "~58℃",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "3.8",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -96,8 +100,8 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 2,
+                    "name": "次旗舰"
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "VANGUARD - 神龙",
@@ -106,8 +110,10 @@
                 "供电相数": "11+4+3",
                 "散热规模": "3+8mm+5*6mm热管",
                 "是否有均热板": "有",
+                "核心烤机": "~60℃",
+                "显存烤机": "~62℃",
                 "供电接口": "16-pin x1",
-                "插槽": "",
+                "插槽": "3.3",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -138,8 +144,8 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 2,
+                    "name": "次旗舰"
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "VANGUARD - 神龙",
@@ -148,8 +154,10 @@
                 "供电相数": "11+4+3",
                 "散热规模": "3+8mm+5*6mm热管",
                 "是否有均热板": "有",
+                "核心烤机": "~60℃",
+                "显存烤机": "~62℃",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "3.3",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -180,8 +188,8 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 2,
+                    "name": "次旗舰"
                 },
                 "品牌": "微星",
                 "品牌显卡系列": "VANGUARD - 神龙",
@@ -190,8 +198,10 @@
                 "供电相数": "11+4+3",
                 "散热规模": "3+8mm+5*6mm热管",
                 "是否有均热板": "有",
+                "核心烤机": "~60℃",
+                "显存烤机": "~62℃",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "3.3",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -233,7 +243,7 @@
                 "散热规模": "2*8mm+4*6mm热管",
                 "是否有均热板": "无",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -274,8 +284,10 @@
                 "供电相数": "14+3",
                 "散热规模": "2*8mm+4*6mm热管",
                 "是否有均热板": "无",
+                "核心烤机": "~60℃",
+                "显存烤机": "~62℃",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -317,7 +329,7 @@
                 "散热规模": "6*6mm",
                 "是否有均热板": "无",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "2.45",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -359,7 +371,7 @@
                 "散热规模": "4*8mm热管",
                 "是否有均热板": "无",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "2.45",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -401,7 +413,7 @@
                 "散热规模": "5*6mm热管",
                 "是否有均热板": "无",
                 "供电接口": "16-pin x1",
-                "插槽": "",
+                "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1  (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -443,7 +455,7 @@
                 "散热规模": "4*8mm热管",
                 "是否有均热板": "无",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "2.45",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",
@@ -485,7 +497,7 @@
                 "散热规模": "4*8mm热管",
                 "是否有均热板": "无",
                 "供电接口": "16-pin x 1",
-                "插槽": "",
+                "插槽": "2.45",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": "",

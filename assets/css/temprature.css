@@ -1,0 +1,24 @@
+/* temprature */
+
+.temp-range {
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.below-60 {
+    background-color: #82baee !important;
+}
+
+.between-60-65 {
+    background-color: #f89797 !important;
+}
+
+.between-65-70 {
+    background-color: #fc5d5d !important;
+}
+
+.above-70 {
+    background-color: #f8131f !important;
+}
