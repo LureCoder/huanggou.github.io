@@ -113,7 +113,7 @@ function getVideoCards(datasetPath, cardFilter, action){
                 
     
                 // 生成 HTML 结构
-                var html = '<div class="col-md-6 pricing-col aic-card">' +
+                var html = '<div class="col-xl-1 pricing-col aic-card">' +
                     '<div class="pricing-card">' +
                     '<div class="pricing-header">' +
                     '<a href="' + (parameters.productURL || '') + '" target="_blank"><img class="card-logo" src="' + (parameters.imageURL || '') + '"/></a>' +
