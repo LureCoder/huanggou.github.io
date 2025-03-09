@@ -15,8 +15,10 @@ function getVideoCardsByCardId(cardId, cardFilter, action){
         getVideoCards(['./dataset/asus_5070Ti_products.json', './dataset/gigabyte_5070Ti_products.json', './dataset/msi_5070Ti_products.json', './dataset/colorful_5070Ti_products.json', './dataset/others_5070Ti_products.json'], cardFilter, action);
     } else if ('5080' == cardId){
         getVideoCards(['./dataset/asus_5080_products.json', './dataset/gigabyte_5080_products.json', './dataset/msi_5080_products.json', './dataset/colorful_5080_products.json'], cardFilter, action);
-    } else if ('5090' == cardId){
+    } else if ('5090D' == cardId){
         getVideoCards(['./dataset/asus_5090D_products.json', './dataset/gigabyte_5090D_products.json', './dataset/msi_5090D_products.json', './dataset/colorful_5090D_products.json'], cardFilter, action);
+    } else if ('5070' == cardId){
+        getVideoCards(['./dataset/asus_5090D_products.json', './dataset/gigabyte_5090D_products.json', './dataset/msi_5090D_products.json', './dataset/colorful_5070_products.json'], cardFilter, action);
     }
 }
 
