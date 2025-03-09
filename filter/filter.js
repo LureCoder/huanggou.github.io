@@ -5,7 +5,7 @@ const filterData = {
     "系列": ["ROG - 玩家国度", "TUF GAMING - 电竞特工", "Prime - 大师系列", 
         "AORUS - 超级雕", "GAMING - 魔鹰", "EAGLE - 猎鹰", "AERO - 雪鹰", "WINDFORCE - 风魔", 
         "SHADOW - 幻影师", "INSPIRE - 硬派师", "VANGUARD - 神龙", "SUPRIM - 超龙", "VENTUS - 万图师", "GAMING - 魔龙",  
-        "iGame 火神", "iGame ADOC", "iGame Ultra W OC", "战斧", 
+        "iGame系列", "战斧系列", 
         "圣刃", "魔刃", "金属大师", "名人堂", "星耀", 
         "AX电竞判客", 
         "追风", 
