@@ -1,0 +1,355 @@
+{
+    "products": [
+        {
+            "name": "ROG-STRIX-RTX5070TI-16G-GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/BBA48A2A-7FBA-45A8-BFC6-6D4360F97769/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx5070ti-16g-gaming/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "ROG - 玩家国度",
+                "核心频率": "OC mode: 2482 MHz<br>Default mode: 2452MHz (Boost Clock)",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.2 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070 Ti",
+                "CUDA_Cores": "",
+                "显存频率速率": "28 Gbps",
+                "显存大小": "16GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "256位",
+                "总线标准": "PCI Express 5.0",
+                "数字分辨率": "最大数字分辨率 7680 x 4320",
+                "多屏支持": "4",
+                "建议电源": ""
+            }
+        },
+        {
+            "name": "TUF-RTX5070TI-O16G-GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/a1ff0778-334d-4bc1-8862-7bfd44f2754b/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5070TI-O16G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "TUF GAMING - 电竞特工",
+                "核心频率": "OC mode: 2610MHz<br>Default mode: 2588MHz (Boost Clock)",
+                "显卡尺寸": "329 x 140 x 62.5 mm12.95 x 5.51 x  2.46 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.125 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)支持 x 1 (原生 DisplayPort 2.1b)HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x TUF Graphics Card Holder1 x TUF Velcro Hook & Loop<br>1 x TUF Magnet1 x TUF Gaming Certificate1 x Thank You Card<br>1 x Adpater Cable (1 to 3)",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070 Ti",
+                "CUDA_Cores": "",
+                "显存频率速率": "28 Gbps",
+                "显存大小": "16GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "256 位",
+                "总线标准": "PCI Express 5.0",
+                "数字分辨率": "最大数字分辨率 7680 x 4320",
+                "多屏支持": "4",
+                "建议电源": "850W"
+            }
+        },
+        {
+            "name": "TUF-RTX5070TI-16G-GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/80eaa596-3bac-42c4-949d-07e2655c75a7/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5070TI-16G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "TUF GAMING - 电竞特工",
+                "核心频率": "OC mode: 2482MHz<br>Default mode: 2452MHz (Boost Clock)",
+                "显卡尺寸": "329 x 140 x 62.5 mm12.95 x 5.51 x  2.46 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.125 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)支持 x 1 (原生 DisplayPort 2.1b)HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x TUF Graphics Card Holder1 x TUF Velcro Hook & Loop<br>1 x TUF Magnet1 x TUF Gaming Certificate1 x Thank You Card<br>1 x Adpater Cable (1 to 3)",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070 Ti",
+                "CUDA_Cores": "",
+                "显存频率速率": "28 Gbps",
+                "显存大小": "16GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "256 位",
+                "总线标准": "PCI Express 5.0",
+                "数字分辨率": "最大数字分辨率 7680 x 4320",
+                "多屏支持": "4",
+                "建议电源": "850W"
+            }
+        },
+        {
+            "name": "TUF-RTX5070-O12G-GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/3f23e07e-add3-4fa2-8c96-744d2fe56fa8/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5070-O12G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "TUF GAMING - 电竞特工",
+                "核心频率": "OC mode: 2640MHz<br>Default mode: 2610MHz (Boost Clock)",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "",
+                "插槽": "",
+                "输出接口": "支持 x 1 (原生 DisplayPort 2.1b)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "",
+                "显存位宽": "",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": ""
+            }
+        },
+        {
+            "name": "TUF-RTX5070-12G-GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/84d2d1e6-aca7-4487-9892-09760ed7731b/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5070-12G-GAMING/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "TUF GAMING - 电竞特工",
+                "核心频率": "OC mode: 2542MHz<br>Default mode: 2512MHz (Boost Clock)",
+                "显卡尺寸": "",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "",
+                "插槽": "",
+                "输出接口": "支持 x 1 (原生 DisplayPort 2.1b)",
+                "配件": "",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070",
+                "CUDA_Cores": "",
+                "显存频率速率": "",
+                "显存大小": "",
+                "显存类型": "",
+                "显存位宽": "",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": ""
+            }
+        },
+        {
+            "name": "PRIME-RTX5070TI-O16G",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/11a24dd6-9a6b-415a-9131-afad0064b16c/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5070TI-O16G/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "Prime - 大师系列",
+                "核心频率": "OC mode: 2527MHz<br>Default mode: 2497MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm12 x 5 x 2 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "2.5 插槽",
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)支持 x 1 (原生 DisplayPort 2.1b)HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070 Ti",
+                "CUDA_Cores": "",
+                "显存频率速率": "28 Gbps",
+                "显存大小": "16GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "256 位",
+                "总线标准": "PCI Express 5.0",
+                "数字分辨率": "最大数字分辨率 7680 x 4320",
+                "多屏支持": "4",
+                "建议电源": "750W"
+            }
+        },
+        {
+            "name": "PRIME-RTX5070TI-16G",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/d3761a53-69f3-4d8e-aa5a-7e3c8eaf2c74/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5070TI-16G/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "Prime - 大师系列",
+                "核心频率": "OC mode: 2482MHz<br>Default mode: 2452MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm12 x 5 x 2 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "2.5 插槽",
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)支持 x 1 (原生 DisplayPort 2.1b)HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070 Ti",
+                "CUDA_Cores": "",
+                "显存频率速率": "28 Gbps",
+                "显存大小": "16GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "256 位",
+                "总线标准": "PCI Express 5.0",
+                "数字分辨率": "最大数字分辨率 7680 x 4320",
+                "多屏支持": "4",
+                "建议电源": "750W"
+            }
+        },
+        {
+            "name": "PRIME-RTX5070-O12G",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/67ad565a-a9a5-4692-98b8-a8cb02a1760b/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5070-O12G/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "Prime - 大师系列",
+                "核心频率": "OC mode: 2587MHz<br>Default mode: 2557MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm12 x 5 x 2 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "2.5 插槽",
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)支持 x 1 (原生 DisplayPort 2.1b)HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 2)",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070",
+                "CUDA_Cores": "",
+                "显存频率速率": "28 Gbps",
+                "显存大小": "12GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "",
+                "总线标准": "PCI Express 5.0",
+                "数字分辨率": "最大数字分辨率 7680 x 4320",
+                "多屏支持": "4",
+                "建议电源": "750W"
+            }
+        },
+        {
+            "name": "PRIME-RTX5070-12G",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com/gain/9bb600a7-c4c5-4eb8-b466-e0e24ec77604/w185",
+                "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/PRIME/PRIME-RTX5070-12G/",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "Prime - 大师系列",
+                "核心频率": "OC mode: 2542MHz<br>Default mode: 2512MHz (Boost Clock)",
+                "显卡尺寸": "304 x 126 x 50 mm12 x 5 x 2 inch",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "1 x 16-pin",
+                "插槽": "2.5 插槽",
+                "输出接口": "支持 x 1 (原生 HDMI 2.1b)支持 x 1 (原生 DisplayPort 2.1b)HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ASUS Velcro Hook & Loop<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 2)",
+                "其他": "",
+                "显示核心": "NVIDIA® GeForce RTX™ 5070",
+                "CUDA_Cores": "",
+                "显存频率速率": "28 Gbps",
+                "显存大小": "12GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "",
+                "总线标准": "PCI Express 5.0",
+                "数字分辨率": "最大数字分辨率 7680 x 4320",
+                "多屏支持": "4",
+                "建议电源": "750W"
+            }
+        }
+    ]
+}

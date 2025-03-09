@@ -1,0 +1,207 @@
+{
+    "products": [
+        {
+            "name": "AORUS GeForce RTX™ 5070 MASTER 12G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/d2d14e7275ad6773885fc01322b88966/Product/43918/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5070AORUS-M-12GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "",
+                "核心频率": "2715 MHz (Reference card : 2512 MHz)",
+                "显卡尺寸": "L=317 W=136 H=64 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 2x PCIe 8pin adapter<br>4. AORUS identity stickers<br>5. AORUS metal sticker<br>6. Versatile VGA holder<br>7. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 GAMING OC 12G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/4f39fab120fd590e18b1a7f7bd879a99/Product/43929/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5070GAMING-OC-12GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "",
+                "核心频率": "2625 MHz (Reference card : 2512 MHz)",
+                "显卡尺寸": "L=327 W=132 H=56 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 2x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 EAGLE OC ICE SFF 12G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/d10e856ab40d1d3c651f31d7f3864bc9/Product/43933/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5070EAGLEOC-ICE-12GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "",
+                "核心频率": "2587 MHz (Reference card : 2512 MHz)",
+                "显卡尺寸": "L=290 W=120 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. 1x 12V-2x6 to 2x PCIe 8pin adapter",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 EAGLE OC SFF 12G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/d38acaa97e6c8d3b407ad3cef00e2650/Product/43931/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5070EAGLE-OC-12GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "",
+                "核心频率": "2587 MHz (Reference card : 2512 MHz)",
+                "显卡尺寸": "L=290 W=120 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. 1x 12V-2x6 to 2x PCIe 8pin adapter",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 AERO OC 12G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/c4c0c2debbf7a4bdf1bac32a207019a6/Product/43916/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5070AERO-OC-12GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "",
+                "核心频率": "2625 MHz (Reference card : 2512 MHz)",
+                "显卡尺寸": "L=324 W=130 H=56 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. Warranty registration<br>3. 1x 12V-2x6 to 2x PCIe 8pin adapter<br>4. Versatile VGA holder<br>5. Versatile VGA holder manual",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 WINDFORCE OC SFF 12G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/fec51e21bd64062ee924ec3c72d7ccff/Product/44240/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5070WF3OC-12GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "",
+                "核心频率": "2542 MHz (Reference card : 2512 MHz)",
+                "显卡尺寸": "L=282 W=110 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. 1x 12V-2x6 to 2x PCIe 8pin adapter",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 WINDFORCE SFF 12G",
+            "parameters": {
+                "imageURL": "https://www.gigabyte.cn/Image/e5a1cc1074a30f35b8bf33b6f4a3170b/Product/44366/png/300",
+                "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5070WF3-12GD",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 0,
+                    "name": ""
+                },
+                "品牌": "技嘉",
+                "品牌显卡系列": "",
+                "核心频率": "2512 MHz",
+                "显卡尺寸": "L=282 W=110 H=50 mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16 Pin*1",
+                "插槽": "",
+                "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
+                "配件": "1. Quick guide<br>2. 1x 12V-2x6 to 2x PCIe 8pin adapter",
+                "其他": ""
+            }
+        }
+    ]
+}
