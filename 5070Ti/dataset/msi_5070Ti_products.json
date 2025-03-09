@@ -11,6 +11,10 @@
                         "reviewURL": ""
                     }
                 ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
                 "品牌": "微星",
                 "品牌显卡系列": "SHADOW - 幻影师",
                 "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
@@ -24,7 +28,7 @@
                 "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
-                "其他": ""
+                "其他": "丐中丐"
             }
         },
         {
@@ -38,6 +42,10 @@
                         "reviewURL": ""
                     }
                 ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
                 "品牌": "微星",
                 "品牌显卡系列": "INSPIRE - 硬派师",
                 "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
@@ -127,6 +135,10 @@
                         "reviewURL": ""
                     }
                 ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
                 "品牌": "微星",
                 "品牌显卡系列": "VENTUS - 万图师",
                 "核心频率": "极致模式: 2467 MHz (MSI Center)<br>Boost模式: 2452 MHz",
@@ -154,6 +166,10 @@
                         "reviewURL": ""
                     }
                 ],
+                "level": {
+                    "value": 4,
+                    "name": "丐版"
+                },
                 "品牌": "微星",
                 "品牌显卡系列": "VENTUS - 万图师",
                 "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",

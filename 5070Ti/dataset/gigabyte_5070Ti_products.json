@@ -43,7 +43,6 @@
                         "reviewURL": ""
                     }
                 ],
-                
                 "level": {
                     "value": 2,
                     "name": "次旗舰"
@@ -123,6 +122,10 @@
                         "reviewURL": "https://www.bilibili.com/video/BV1KzAHeqEon/?spm_id_from=333.337.search-card.all.click&vd_source=db86b40e86495818ef478bdb5e10b00f"
                     }
                 ],
+                "level": {
+                    "value": 3,
+                    "name": "中端"
+                },
                 "品牌": "技嘉",
                 "品牌显卡系列": "AERO - 雪鹰",
                 "核心频率": "2588 MHz (Reference: 2452 MHz)",
