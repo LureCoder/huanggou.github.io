@@ -2479,13 +2479,13 @@ h6 {
   margin: -1px;
   margin-bottom: 0;
   text-align: center;
-  top: 0px;
+  top: 98px;
   z-index: 999;
 }
 
 .product-id{
   position: sticky;
-  top: 160px;
+  top: 258px;
 }
 
 .pricing-header h5 {
@@ -2683,7 +2683,7 @@ h6 {
 }
 
 .comparison-table .pricing-col {
-  padding: 0 0;
+  padding: 20px 0;
   min-width: 280px
 }
 
@@ -3454,8 +3454,8 @@ section.footer {
   display: flex;
   /* 允许子元素在一行排列，不换行 */
   flex-wrap: nowrap;
-  overflow-x: auto;
-  height: 76vh;
+  /* overflow-x: auto;
+  height: 84vh; */
 }
 
 /* 为了让滚动条显示正常，需要给 pricing-col 设置固定宽度 */
