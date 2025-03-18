@@ -1,6 +1,174 @@
 {
     "products": [
         {
+            "name": "iGame GeForce RTX 5090 D Neptune OC 32GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202501/d55fc3fb-2285-43f0-a994-7631336107df.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=c7ceae68-c03a-46b1-ade9-93a3b693f32c",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2527Mhz",
+                "显卡尺寸": "卡:282.2*145*40.5mm(不带挡片) 水排:394*119.2*53.2mm 水管:520mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+2*HDMI2.1b",
+                "配件": "",
+                "其他": "",
+                "显示核心": "GeForce® RTX 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "28Gbps",
+                "显存大小": "32GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "1792GB/s",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": "1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5090 D Neptune 32GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/8ff68720-c2dd-4f05-ba53-5b286976f9fd.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=affe7ecd-d9a7-41d7-92eb-80ee9cfb0191",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2407Mhz",
+                "显卡尺寸": "卡:282.2*145*40.5mm(不带挡片) 水排:394*119.2*53.2mm 水管:520mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+2*HDMI2.1b",
+                "配件": "",
+                "其他": "",
+                "显示核心": "GeForce® RTX 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "28Gbps",
+                "显存大小": "32GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "1792GB/s",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": "1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5090 D Vulcan W OC 32GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202503/466f047f-e6d6-4a5f-b0ac-dfcccb288b94.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=7f394f2c-dd3e-4150-aea0-cefce4e2f26f",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2527Mhz",
+                "显卡尺寸": "360*148.9*71mm(不带挡片)",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+2*HDMI2.1b",
+                "配件": "",
+                "其他": "",
+                "显示核心": "GeForce® RTX 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "28Gbps",
+                "显存大小": "32GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "1792GB/s",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": "1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
+            "name": "iGame GeForce RTX 5090 D Vulcan OC 32GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202503/466f047f-e6d6-4a5f-b0ac-dfcccb288b94.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=7f394f2c-dd3e-4150-aea0-cefce4e2f26f",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2527Mhz",
+                "显卡尺寸": "360*148.9*71mm(不带挡片)",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+2*HDMI2.1b",
+                "配件": "",
+                "其他": "",
+                "显示核心": "GeForce® RTX 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "28Gbps",
+                "显存大小": "32GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "1792GB/s",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": "1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
             "name": "iGame GeForce RTX 5090 D Vulcan W 32GB",
             "parameters": {
                 "imageURL": "https://www.colorful.cn/content/upload/form/102/202503/a211ff51-a154-4968-a922-892bb7e0bd56.jpg",
@@ -12,8 +180,8 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 1,
+                    "name": "旗舰"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
@@ -52,6 +220,48 @@
             }
         },
         {
+            "name": "iGame GeForce RTX 5090 D Advanced OC 32GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/129a64b1-aa54-4738-8596-10cd0fc517ef.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=bcd5ce6b-8c0d-44fc-8e94-207bec5d23b7",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2512Mhz",
+                "显卡尺寸": "355*144.7*68.8mm(不带挡片)",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "配件": "",
+                "其他": "",
+                "显示核心": "GeForce® RTX 5090 D",
+                "CUDA_Cores": "",
+                "显存频率速率": "28Gbs",
+                "显存大小": "32GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "512bit",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": "1000W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
             "name": "iGame GeForce RTX 5090 D Advanced 32GB",
             "parameters": {
                 "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/129a64b1-aa54-4738-8596-10cd0fc517ef.jpg",
@@ -63,8 +273,8 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 2,
+                    "name": "次旗舰"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
@@ -92,174 +302,7 @@
                 "Radiator": "",
                 "Fan": ""
             }
-        },
-        {
-            "name": "iGame GeForce RTX 5090 D Neptune 32GB",
-            "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/8ff68720-c2dd-4f05-ba53-5b286976f9fd.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=affe7ecd-d9a7-41d7-92eb-80ee9cfb0191",
-                "review": [
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 0,
-                    "name": ""
-                },
-                "品牌": "七彩虹",
-                "品牌显卡系列": "iGame系列",
-                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2407Mhz",
-                "显卡尺寸": "卡:282.2*145*40.5mm(不带挡片) 水排:394*119.2*53.2mm 水管:520mm",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
-                "供电接口": "16pin",
-                "插槽": "",
-                "输出接口": "3*DP2.1b+2*HDMI2.1b",
-                "配件": "",
-                "其他": "",
-                "显示核心": "GeForce® RTX 5090 D",
-                "CUDA_Cores": "",
-                "显存频率速率": "28Gbps",
-                "显存大小": "32GB",
-                "显存类型": "GDDR7",
-                "显存位宽": "1792GB/s",
-                "总线标准": "",
-                "数字分辨率": "",
-                "多屏支持": "",
-                "建议电源": "1000W",
-                "水管长度": "",
-                "Radiator": "",
-                "Fan": ""
-            }
-        },
-        {
-            "name": "iGame GeForce RTX 5090 D Vulcan 32GB",
-            "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/dddaa0b5-43a1-449b-abd0-e174eb6d8fe5.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=dfb4086b-c0cb-4a6b-b4d8-02d6fb24b3c4",
-                "review": [
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 0,
-                    "name": ""
-                },
-                "品牌": "七彩虹",
-                "品牌显卡系列": "iGame系列",
-                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2407Mhz",
-                "显卡尺寸": "360*148.9*71mm(不带挡片)",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
-                "供电接口": "16pin",
-                "插槽": "",
-                "输出接口": "3*DP2.1b+2*HDMI2.1b",
-                "配件": "",
-                "其他": "",
-                "显示核心": "GeForce® RTX 5090 D",
-                "CUDA_Cores": "",
-                "显存频率速率": "28Gbps",
-                "显存大小": "32GB",
-                "显存类型": "GDDR7",
-                "显存位宽": "1792GB/s",
-                "总线标准": "",
-                "数字分辨率": "",
-                "多屏支持": "",
-                "建议电源": "1000W",
-                "水管长度": "",
-                "Radiator": "",
-                "Fan": ""
-            }
-        },
-        {
-            "name": "iGame GeForce RTX 5090 D Vulcan W OC 32GB",
-            "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202503/466f047f-e6d6-4a5f-b0ac-dfcccb288b94.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=7f394f2c-dd3e-4150-aea0-cefce4e2f26f",
-                "review": [
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 0,
-                    "name": ""
-                },
-                "品牌": "七彩虹",
-                "品牌显卡系列": "iGame系列",
-                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2527Mhz",
-                "显卡尺寸": "360*148.9*71mm(不带挡片)",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
-                "供电接口": "16pin",
-                "插槽": "",
-                "输出接口": "3*DP2.1b+2*HDMI2.1b",
-                "配件": "",
-                "其他": "",
-                "显示核心": "GeForce® RTX 5090 D",
-                "CUDA_Cores": "",
-                "显存频率速率": "28Gbps",
-                "显存大小": "32GB",
-                "显存类型": "GDDR7",
-                "显存位宽": "1792GB/s",
-                "总线标准": "",
-                "数字分辨率": "",
-                "多屏支持": "",
-                "建议电源": "1000W",
-                "水管长度": "",
-                "Radiator": "",
-                "Fan": ""
-            }
-        },
-        {
-            "name": "iGame GeForce RTX 5090 D Neptune OC 32GB",
-            "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202501/d55fc3fb-2285-43f0-a994-7631336107df.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=c7ceae68-c03a-46b1-ade9-93a3b693f32c",
-                "review": [
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 0,
-                    "name": ""
-                },
-                "品牌": "七彩虹",
-                "品牌显卡系列": "iGame系列",
-                "核心频率": "Base:2017Mhz; Boost:2407Mhz<br>Base:2017Mhz; Boost:2527Mhz",
-                "显卡尺寸": "卡:282.2*145*40.5mm(不带挡片) 水排:394*119.2*53.2mm 水管:520mm",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
-                "供电接口": "16pin",
-                "插槽": "",
-                "输出接口": "3*DP2.1b+2*HDMI2.1b",
-                "配件": "",
-                "其他": "",
-                "显示核心": "GeForce® RTX 5090 D",
-                "CUDA_Cores": "",
-                "显存频率速率": "28Gbps",
-                "显存大小": "32GB",
-                "显存类型": "GDDR7",
-                "显存位宽": "1792GB/s",
-                "总线标准": "",
-                "数字分辨率": "",
-                "多屏支持": "",
-                "建议电源": "1000W",
-                "水管长度": "",
-                "Radiator": "",
-                "Fan": ""
-            }
         }
+        
     ]
 }
