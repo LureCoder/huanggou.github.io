@@ -9,6 +9,10 @@
                     {
                         "tester": "超能网",
                         "reviewURL": "https://www.expreview.com/98414.html"
+                    },
+                    {
+                        "tester": "B站up主51972: RTX5080横评",
+                        "reviewURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "level": {
@@ -22,13 +26,13 @@
                 "供电相数": "16+3",
                 "散热规模": "7*8mm+4*6mm热管",
                 "是否有均热板": "有",
-                "核心烤机": "~58℃",
-                "显存烤机": "~58℃",
+                "核心烤机": "~62℃",
+                "显存烤机": "~64℃",
                 "供电接口": "16-pin x 1",
                 "插槽": "3.8",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
-                "其他": "",
+                "其他": "烤机烤机温度为测试数据，实际使用情况可能有所不同。数据来源B站up主51972",
                 "显示核心": "NVIDIA® GeForce RTX™ 5080",
                 "CUDA_Cores": "",
                 "显存频率速率": "",
@@ -51,8 +55,8 @@
                 "productURL": "https://www.msi.cn/Graphics-Card/GeForce-RTX-5080-16G-SUPRIM-OC/Specification",
                 "review": [
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站up主51972: RTX5080横评",
+                        "reviewURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "level": {
@@ -66,13 +70,13 @@
                 "供电相数": "16+3",
                 "散热规模": "7*8mm+4*6mm热管",
                 "是否有均热板": "有",
-                "核心烤机": "~58℃",
-                "显存烤机": "~58℃",
+                "核心烤机": "~62℃",
+                "显存烤机": "~65℃",
                 "供电接口": "16-pin x 1",
                 "插槽": "3.8",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
-                "其他": "",
+                "其他": "烤机烤机温度为测试数据，实际使用情况可能有所不同。数据来源B站up主51972",
                 "显示核心": "NVIDIA® GeForce RTX™ 5080",
                 "CUDA_Cores": "",
                 "显存频率速率": "",
@@ -242,6 +246,15 @@
                 "供电相数": "14+3",
                 "散热规模": "2*8mm+4*6mm热管",
                 "是否有均热板": "无",
+                "stressTesting": {
+                    "core": "~69℃",
+                    "memory": "~71℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16-pin x 1",
                 "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
@@ -370,6 +383,15 @@
                 "供电相数": "14+3",
                 "散热规模": "4*8mm热管",
                 "是否有均热板": "无",
+                "stressTesting": {
+                    "core": "~75℃",
+                    "memory": "~79℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16-pin x 1",
                 "插槽": "2.45",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
@@ -412,6 +434,15 @@
                 "供电相数": "14+3",
                 "散热规模": "5*6mm热管",
                 "是否有均热板": "无",
+                "stressTesting": {
+                    "core": "~72℃",
+                    "memory": "~74℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16-pin x1",
                 "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)HDMI™ x 1  (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",

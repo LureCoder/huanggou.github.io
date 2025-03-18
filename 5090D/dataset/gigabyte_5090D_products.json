@@ -22,6 +22,15 @@
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "",
+                "stressTesting": {
+                    "core": "~66℃",
+                    "memory": "~84℃",
+                    "tester": "NGA: 斑点猫みすず",
+                    "testResultURL": "https://bbs.nga.cn/read.php?tid=43364974&fav=:F82F54042",
+                    "testResultEmbedCode": "",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16 pin*1",
                 "插槽": "",
                 "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
@@ -51,6 +60,15 @@
                 "供电相数": "24+7 50A",
                 "散热规模": "13*6mm热管",
                 "是否有均热板": "有",
+                "stressTesting": {
+                    "core": "~69℃",
+                    "memory": "~72℃",
+                    "tester": "NGA: 斑点猫みすず",
+                    "testResultURL": "https://bbs.nga.cn/read.php?tid=43364974&fav=:F82F54042",
+                    "testResultEmbedCode": "",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16 Pin*1",
                 "插槽": "",
                 "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",
@@ -79,6 +97,15 @@
                 "显卡尺寸": "L=360 W=150 H=75 mm",
                 "供电相数": "24+7 50A",
                 "散热规模": "13*6mm热管",
+                "stressTesting": {
+                    "core": "~69℃",
+                    "memory": "~72℃",
+                    "tester": "NGA: 斑点猫みすず",
+                    "testResultURL": "https://bbs.nga.cn/read.php?tid=43364974&fav=:F82F54042",
+                    "testResultEmbedCode": "",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "是否有均热板": "有",
                 "供电接口": "16 Pin*1",
                 "插槽": "",
@@ -109,6 +136,15 @@
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "有",
+                "stressTesting": {
+                    "core": "~71℃",
+                    "memory": "~74℃",
+                    "tester": "NGA: 斑点猫みすず",
+                    "testResultURL": "https://bbs.nga.cn/read.php?tid=43364974&fav=:F82F54042",
+                    "testResultEmbedCode": "",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16 Pin*1",
                 "插槽": "",
                 "输出接口": "DisplayPort 2.1b *3<br>HDMI 2.1b *1",

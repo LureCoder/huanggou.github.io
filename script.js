@@ -28,6 +28,187 @@ function getVideoCards(datasetPath, cardFilter, action){
     const brand = cardFilter ? cardFilter.品牌 : [];
     const series = cardFilter ? cardFilter.系列 : [];
 
+    var requests = $.map(datasetPath, function (jsonPath) {
+        return $.getJSON(jsonPath);
+    });
+
+    var requests = $.map(datasetPath, function (jsonPath) {
+            return $.getJSON(jsonPath, function (data) {
+                // 遍历 products 数组
+                $.each(data.products, function (index, product) {
+                    // 获取 parameters 中的节点值
+                    var parameters = product.parameters;
+                    var name = product.name;
+                    var isLevelUndeifned = !parameters.level;
+                    var pLevelName = !parameters.level || (parameters.level.name || '');
+                    var pBrandName = !parameters.品牌 || (parameters.品牌 || '');
+                    var pSeriesName = !parameters.品牌显卡系列 || (parameters.品牌显卡系列 || '');
+                    
+        
+                    //parameters.level.name
+                    //level
+        
+                    
+                    if(action != 'reset'){
+                        if (level && level.length > 0 && pLevelName != '' && !level.includes(pLevelName)) {
+            
+                            if(level.includes("丐版") && isLevelUndeifned){
+            
+                            } else {
+                                console.log('level ' + pLevelName + ' not match with: ' + level);
+                                return;
+                            }
+            
+                        }
+            
+                        if (brand && brand.length > 0 && pBrandName != '' && !brand.includes(pBrandName)) {
+                            console.log('level ' + pBrandName + ' not match with: ' + brand);
+                            return;
+                        }
+            
+                        if (series && series.length > 0 && pSeriesName != '' && !series.includes(pSeriesName)) {
+                            console.log('level ' + pSeriesName + ' not match with: ' + series);
+                            return;
+                        }
+                    }
+        
+                    
+        
+                    var levelCode = "";
+                    if((parameters.level)){
+        
+        
+                        if(parameters.level.value == 1){
+                            levelCode = '<a href="" class="ribbon"><i class="fa fa-diamond"></i><span>'+parameters.level.name+'</span></a>';
+                        } else if (parameters.level.value == 2){
+                            levelCode = '<a href="" class="ribbon"><i class="fa fa-star"></i><span>'+parameters.level.name+'</span></a>';
+                        }
+                        
+                    }
+                    
+                    var coreColorTemp;
+                    var memColorTemp;
+                    var stressTestingURL = "";
+                    var stressTester = "";
+    
+                    var isStressTestingAvailable = parameters.stressTesting && typeof parameters.stressTesting != 'undefined';
+                    if(isStressTestingAvailable){
+                        var stressTesting = parameters.stressTesting;
+                        coreColorTemp = stressTesting.core;
+                        memColorTemp = stressTesting.memory;
+                        stressTester = stressTesting.tester;
+                        
+                        stressTestingURL = stressTesting.testResultEmbedCode;
+                        if(!stressTestingURL || stressTestingURL == ''){
+                            stressTestingURL = stressTesting.testResultURL;
+
+                        }
+                        stressTesting.remarks;
+                    }
+    
+                    var coreColorClass = "";
+                    coreColorTemp = isStressTestingAvailable ? coreColorTemp : (parameters.核心烤机 || '');
+    
+                    if(coreColorTemp && coreColorTemp != ''){
+                        let coreTemp = Number(coreColorTemp.replace("~", "").replace("℃", ""));
+                        if(coreTemp < 60){
+                            coreColorClass = "temp-range below-60";
+                        } else if (coreTemp >= 60 && coreTemp <= 65){
+                            coreColorClass = "temp-range between-60-65";
+                        } else if (coreTemp > 65 && coreTemp <= 70){
+                            coreColorClass = "temp-range between-65-70";
+                        } else {
+                            coreColorClass = "temp-range above-70";
+                        }
+                    }
+    
+                    var memColorClass = "";
+                    memColorTemp = isStressTestingAvailable ? memColorTemp : (parameters.显存烤机 || '');
+                    if(memColorTemp && memColorTemp != ''){
+                        let memTemp = Number(memColorTemp.replace("~", "").replace("℃", ""));
+                        if(memTemp < 60){
+                            memColorClass = "temp-range below-60";
+                        } else if (memTemp >= 60 && memTemp <= 65){
+                            memColorClass = "temp-range between-60-65";
+                        } else if (memTemp > 65 && memTemp <= 70){
+                            memColorClass = "temp-range between-65-70";
+                        } else {
+                            memColorClass = "temp-range above-70";
+                        }
+                    }
+                    
+        
+                    // 生成 HTML 结构
+                    var html = '<div class="col-xl-1 pricing-col aic-card">' +
+                        '<div class="pricing-card">' +
+                        '<div class="pricing-header">' +
+                        '<a href="' + (parameters.productURL || '') + '" target="_blank"><img class="card-logo" src="' + (parameters.imageURL || '') + '"/></a>' +
+                        // '<h5>Standard</h5>' +
+                        // '<a href="" class="ribbon">' +
+                        // '<i class="fa fa-star"></i>' +
+                        // '<span>Feature</span>' +
+                        // '</a>' +
+                        levelCode + 
+                        '<div class="">' +
+                        '<div class="price">' +
+                        '<div class="currency"></div>' +
+                        '<div class="plan"></div>' +
+                        '</div>' +
+                        '</div>' +
+                        '</div>' +
+                        '<div class="pricing-feature">' +
+                        '<li class="product-id"><a href="' + (parameters.productURL || '') + '" target="_blank"><p>' + name + '</p></a></li>' +
+                        '<li><p>' + (parameters.品牌 || '') + '</p></li>' +
+                        '<li><p>' + (parameters.品牌显卡系列 || '') + '</p></li>' +
+                        '<li><p>' + (parameters.核心频率 || '') + '</p></li>' +
+                        '<li><p>' + (parameters.显卡尺寸 || '') + '</p></li>' +
+                        '<li class="review"><a href="'+(parameters.review[0].reviewURL || '')+'" target="_blank">' + (parameters.review[0].tester || '') + '</a></li>' +
+                        '<li class="stress"><a href="'+(stressTestingURL || '')+'" class="video-iframe">' + (stressTester || '') + '</a></li>' +
+                        '<li><p>' + (parameters.供电相数 || '') + '</p></li>' +
+                        '<li><p>' + (parameters.散热规模 || '') + '</p></li>' +
+                        '<li><p>' + (parameters.是否有均热板 || '') + '</p></li>' +
+                        '<li class="'+coreColorClass+'"><p>' + (coreColorTemp || '') + '</p></li>' +
+                        '<li class="'+memColorClass+'"><p>' + (memColorTemp || '') + '</p></li>' +
+                        '<li><p>' + (parameters.供电接口 || '') + '</p></li>' +
+                        '<li><p>' + (parameters.插槽 || '') + '</p></li>' +
+                        '<li class="output-port"><p>' + (parameters.输出接口 || '') + '</p></li>' +
+                        '<li class="assets"><p>' + (parameters.配件 || '') + '</p></li>' +
+                        '<li class="others tooltip-container"><p>' + (parameters.其他 || '') + '</p><span class="tooltip">' + (parameters.其他 || '') + '</span></li>' +
+                        '</div>' +
+                        '</div>' +
+                        '</div>';
+        
+                    // 将生成的 HTML 插入到页面中
+                    $('#product-list').append(html);
+                });
+            }).fail(function () {
+                console.log('加载 JSON 文件失败');
+            });
+    });
+
+    $.when.apply($, requests).done(function () {
+        console.log('所有 AJAX 请求成功完成');
+        // 在这里可以添加所有请求成功完成后要执行的代码
+        $('.video-iframe').magnificPopup({
+            type: 'iframe',
+            iframe: {
+                patterns: {
+                    bilibili: {
+                        index: '//player.bilibili.com/',
+                        id: function (url) {
+                            return url;
+                        },
+                        src: '%id%'
+                    }
+                }
+            }
+        });
+    }).fail(function () {
+        console.log('至少有一个 AJAX 请求失败');
+        // 在这里可以添加有请求失败时要执行的代码
+    });
+
+    /**
     $.each(datasetPath, function (index, jsonPath) {
 
         $.getJSON(jsonPath, function (data) {
@@ -82,11 +263,26 @@ function getVideoCards(datasetPath, cardFilter, action){
                     }
                     
                 }
+                
+                var coreColorTemp;
+                var memColorTemp;
+
+                var isStressTestingAvailable = parameters.stressTesting && typeof parameters.stressTesting != 'undefined';
+                if(isStressTestingAvailable){
+                    var stressTesting = parameters.stressTesting;
+                    coreColorTemp = stressTesting.core;
+                    memColorTemp = stressTesting.memory;
+                    stressTesting.tester;
+                    stressTesting.testResultURL;
+                    stressTesting.testResultEmbedCode;
+                    stressTesting.remarks;
+                }
 
                 var coreColorClass = "";
-                var coreColorTemp = (parameters.核心烤机 || '').replace("~", "").replace("℃", "");
+                coreColorTemp = isStressTestingAvailable ? coreColorTemp : (parameters.核心烤机 || '');
+
                 if(coreColorTemp && coreColorTemp != ''){
-                    let coreTemp = Number(coreColorTemp);
+                    let coreTemp = Number(coreColorTemp.replace("~", "").replace("℃", ""));
                     if(coreTemp < 60){
                         coreColorClass = "temp-range below-60";
                     } else if (coreTemp >= 60 && coreTemp <= 65){
@@ -99,9 +295,9 @@ function getVideoCards(datasetPath, cardFilter, action){
                 }
 
                 var memColorClass = "";
-                var memColorTemp = (parameters.显存烤机 || '').replace("~", "").replace("℃", "");
+                memColorTemp = isStressTestingAvailable ? memColorTemp : (parameters.显存烤机 || '');
                 if(memColorTemp && memColorTemp != ''){
-                    let memTemp = Number(memColorTemp);
+                    let memTemp = Number(memColorTemp.replace("~", "").replace("℃", ""));
                     if(memTemp < 60){
                         memColorClass = "temp-range below-60";
                     } else if (memTemp >= 60 && memTemp <= 65){
@@ -141,13 +337,13 @@ function getVideoCards(datasetPath, cardFilter, action){
                     '<li><p>' + (parameters.供电相数 || '') + '</p></li>' +
                     '<li><p>' + (parameters.散热规模 || '') + '</p></li>' +
                     '<li><p>' + (parameters.是否有均热板 || '') + '</p></li>' +
-                    '<li class="'+coreColorClass+'"><p>' + (parameters.核心烤机 || '') + '</p></li>' +
-                    '<li class="'+memColorClass+'"><p>' + (parameters.显存烤机 || '') + '</p></li>' +
+                    '<li class="'+coreColorClass+'"><p>' + (coreColorTemp || '') + '</p></li>' +
+                    '<li class="'+memColorClass+'"><p>' + (memColorTemp || '') + '</p></li>' +
                     '<li><p>' + (parameters.供电接口 || '') + '</p></li>' +
                     '<li><p>' + (parameters.插槽 || '') + '</p></li>' +
                     '<li class="output-port"><p>' + (parameters.输出接口 || '') + '</p></li>' +
                     '<li class="assets"><p>' + (parameters.配件 || '') + '</p></li>' +
-                    '<li class="review"><a href="'+(parameters.review[0].reviewURL || '')+'" target="_blank" title="点我"><p>' + (parameters.review[0].tester || '') + '</p></a></li>' +
+                    '<li class="review"><a href="'+(parameters.review[0].embeddedCode || '')+'" class="video-iframe">' + (parameters.review[0].tester || '') + '</a></li>' +
                     '<li class="others tooltip-container"><p>' + (parameters.其他 || '') + '</p><span class="tooltip">' + (parameters.其他 || '') + '</span></li>' +
                     '</div>' +
                     '</div>' +
@@ -159,7 +355,8 @@ function getVideoCards(datasetPath, cardFilter, action){
         }).fail(function () {
             console.log('加载 JSON 文件失败');
         });
+        
     });
-
+    */
     
 }

@@ -22,6 +22,15 @@
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "",
+                "stressTesting": {
+                    "core": "~72℃",
+                    "memory": "~84℃",
+                    "tester": "B站up主51972: 七彩虹iGame RTX 5090D 火神",
+                    "testResultURL": "https://www.bilibili.com/video/BV1TsfpYwEu1/?t=7&spm_id_from=333.1007.tianma.1-1-1.click&vd_source=db86b40e86495818ef478bdb5e10b00f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=113883792540377&bvid=BV1TsfpYwEu1&cid=28057994562&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16pin",
                 "插槽": "",
                 "输出接口": "3*DP2.1b+2*HDMI2.1b",

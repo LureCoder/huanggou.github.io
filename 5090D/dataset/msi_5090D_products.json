@@ -106,6 +106,15 @@
                 "供电相数": "22+7 50A",
                 "散热规模": "7+8mm+4*6mm",
                 "是否有均热板": "有",
+                "stressTesting": {
+                    "core": "~68℃",
+                    "memory": "~70℃",
+                    "tester": "NGA: 斑点猫みすず",
+                    "testResultURL": "https://bbs.nga.cn/read.php?tid=43364974&fav=:F82F54042",
+                    "testResultEmbedCode": "",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16-pin x 1",
                 "插槽": "",
                 "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
@@ -316,6 +325,15 @@
                 "供电相数": "22+7 50A",
                 "散热规模": "7*8mm+2*6mm热管+铜底",
                 "是否有均热板": "无",
+                "stressTesting": {
+                    "core": "~72℃",
+                    "memory": "~72℃",
+                    "tester": "NGA: 斑点猫みすず",
+                    "testResultURL": "https://bbs.nga.cn/read.php?tid=43364974&fav=:F82F54042",
+                    "testResultEmbedCode": "",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16-pin x 1",
                 "插槽": "",
                 "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",

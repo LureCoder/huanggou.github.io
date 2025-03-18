@@ -6,11 +6,7 @@
 	<title>5070Ti Feature Comparison</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="../favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.5.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/5.3.2/css/bootstrap.min.css">
 	<link rel="stylesheet" href="../style.css">
-	<link rel="stylesheet" href="../assets/css/temprature.css">
-	<link rel="stylesheet" href="../assets/css/nvidia.css">
 
 	<!-- Vendor CSS Files -->
 	<link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -18,10 +14,15 @@
 	<link href="../assets/vendor/aos/aos.css" rel="stylesheet">
 	<link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
 	<link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-	<!-- Main CSS File -->
+	<link href="../assets/css/nvidia.css" rel="stylesheet">
+	<link href="../assets/css/temprature.css" rel="stylesheet">
 	<link href="../assets/css/main.css" rel="stylesheet">
 
+	<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+
+
+	<!-- Main CSS File -->
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 	<style>
@@ -92,79 +93,84 @@
 	<!-- <section class='content'>
 		<div class="container">
 			<div class="row-fluid clearfix"> -->
-	<div class="filter-parent-container">
-		<div id="filter-container" class="filter-container">
+	<div class="container-fluid">
+		<div class="filter-parent-container">
+			<div id="filter-container" class="filter-container">
 
+			</div>
+			<button class="nvidia-btn" onclick="submitFilters()">提交过滤条件</button>
+			<button class="nvidia-btn" onclick="resetFilters()">重置过滤条件</button>
 		</div>
-		<button class="nvidia-btn" onclick="submitFilters()">提交过滤条件</button>
-		<button class="nvidia-btn" onclick="resetFilters()">重置过滤条件</button>
-	</div>
-	<div id="product-list" class="pricing-wrapper comparison-table clearfix style-3 pricing-scrollable">
-		<div class="col-xl-1 pricing-col list-feature sticky-column">
-			<div class="pricing-card">
-				<div class="pricing-header">
-					<!-- <h5>5070 Ti</h5> -->
-					<p>5070 Ti / Compare Feature</p>
-					<p>发售日期: 2025年2月20日</p>
-					<p>制造商建议零售价(MSPR):
-					<h2 class="nvidia-msrp">￥6,299 元起</h2>
-					</p>
-				</div>
-				<div class="pricing-feature">
-					<li class="product-id">
-						<p>型号</p>
-					</li>
-					<li>
-						<p>品牌</p>
-					</li>
-					<li>
-						<p>品牌显卡系列</p>
-					</li>
-					<li>
-						<p>核心频率</p>
-					</li>
-					<li>
-						<p>显卡尺寸</p>
-					</li>
-					<li>
-						<p>供电相数</p>
-					</li>
-					<li>
-						<p>散热规模</p>
-					</li>
-					<li>
-						<p>是否有均热板</p>
-					</li>
-					<li>
-						<p>核心烤机</p>
-					</li>
-					<li>
-						<p>显存烤机</p>
-					</li>
-					<li>
-						<p>供电接口</p>
-					</li>
-					<li>
-						<p>插槽</p>
-					</li>
-					<li class="output-port">
-						<p>输出接口</p>
-					</li>
-					<li class="assets">
-						<p>配件</p>
-					</li>
-					<li class="review">
-						<p>测评</p>
-					</li>
-					<li class="others">
-						<p>其他</p>
-					</li>
+		<div id="product-list" class="pricing-wrapper comparison-table clearfix style-3 pricing-scrollable">
+			<div class="col-xl-1 pricing-col list-feature sticky-column">
+				<div class="pricing-card">
+					<div class="pricing-header">
+						<!-- <h5>5070 Ti</h5> -->
+						<p>5070 Ti / Compare Feature</p>
+						<p>发售日期: 2025年2月20日</p>
+						<p>制造商建议零售价(MSPR):
+						<h2 class="nvidia-msrp">￥6,299 元起</h2>
+						</p>
+					</div>
+					<div class="pricing-feature">
+						<li class="product-id">
+							<p>型号</p>
+						</li>
+						<li>
+							<p>品牌</p>
+						</li>
+						<li>
+							<p>品牌显卡系列</p>
+						</li>
+						<li>
+							<p>核心频率</p>
+						</li>
+						<li>
+							<p>显卡尺寸</p>
+						</li>
+						<li class="review">
+							<p>拆机测评</p>
+						</li>
+						<li class="stress">
+							<p>烤机测评</p>
+						</li>
+						<li>
+							<p>供电相数</p>
+						</li>
+						<li>
+							<p>散热规模</p>
+						</li>
+						<li>
+							<p>是否有均热板</p>
+						</li>
+						<li>
+							<p>核心烤机</p>
+						</li>
+						<li>
+							<p>显存烤机</p>
+						</li>
+						<li>
+							<p>供电接口</p>
+						</li>
+						<li>
+							<p>插槽</p>
+						</li>
+						<li class="output-port">
+							<p>输出接口</p>
+						</li>
+						<li class="assets">
+							<p>配件</p>
+						</li>
+						<li class="others">
+							<p>其他</p>
+						</li>
+					</div>
 				</div>
 			</div>
+
+
+
 		</div>
-
-
-
 	</div>
 
 	<!-- </div>
@@ -176,6 +182,7 @@
 	<!-- partial -->
 	<script src="../script.js"></script>
 	<script src="../filter/filter.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 	<script>
 		$(document).ready(function () {
 			// 加载 JSON 文件

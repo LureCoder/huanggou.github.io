@@ -1,68 +1,6 @@
 {
     "products": [
         {
-            "name": "GeForce RTX™ 5070 Ti 16G SHADOW 3X OC",
-            "parameters": {
-                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1738649851f99734cac740c6f5eba83717cf3dfcc1.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
-                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-SHADOW-3X-OC",
-                "review":[
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 4,
-                    "name": "丐版"
-                },
-                "品牌": "微星",
-                "品牌显卡系列": "SHADOW - 幻影师",
-                "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
-                "显卡尺寸": "303 x 121 x 49 mm",
-                "供电相数": "14+3",
-                "散热规模": "3*8mm热管+铜底",
-                "是否有均热板": "无",
-                "核心烤机": "",
-                "显存烤机": "",
-                "供电接口": "1×16-pin",
-                "插槽": "2.5",
-                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
-                "配件": "",
-                "其他": "丐中丐"
-            }
-        },
-        {
-            "name": "GeForce RTX™ 5070 Ti 16G INSPIRE 3X OC PLUS",
-            "parameters": {
-                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1736217399397a08372d22cc992bd81dc417bb4239.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
-                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-INSPIRE-3X-OC-PLUS",
-                "review":[
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 4,
-                    "name": "丐版"
-                },
-                "品牌": "微星",
-                "品牌显卡系列": "INSPIRE - 硬派师",
-                "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
-                "显卡尺寸": "288 x 112 x 50 mm",
-                "供电相数": "14+3",
-                "散热规模": "4热管+铜底",
-                "是否有均热板": "无",
-                "核心烤机": "",
-                "显存烤机": "",
-                "供电接口": "1×16-pin",
-                "插槽": "2.5",
-                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
-                "配件": "",
-                "其他": ""
-            }
-        },
-        {
             "name": "GeForce RTX™ 5070 Ti 16G VANGUARD SOC LAUNCH EDITION",
             "parameters": {
                 "imageURL": "https://asset.msi.com/resize/image/global/product/product_17374386696ced130b24366183a9061cfd8f30cdc7.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
@@ -119,6 +57,37 @@
                 "显存烤机": "~58℃",
                 "供电接口": "1×16-pin",
                 "插槽": "3.3",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G GAMING TRIO OC PLUS",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1738567494b5a1a4c58600a87f33be548bb80e081d.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-GAMING-TRIO-OC-PLUS",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 2,
+                    "name": "次旗舰"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "GAMING - 魔龙",
+                "核心频率": "极致模式: 2580 MHz (MSI Center)<br>Boost模式: 2572 MHz (GAMING & SILENT Mode",
+                "显卡尺寸": "338 x 140 x 50 mm",
+                "供电相数": "15+3",
+                "散热规模": "5*6mm热管+铜底",
+                "是否有均热板": "无",
+                "核心烤机": "~63℃",
+                "显存烤机": "~66℃",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
@@ -187,10 +156,10 @@
             }
         },
         {
-            "name": "GeForce RTX™ 5070 Ti 16G GAMING TRIO OC PLUS",
+            "name": "GeForce RTX™ 5070 Ti 16G INSPIRE 3X OC PLUS",
             "parameters": {
-                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1738567494b5a1a4c58600a87f33be548bb80e081d.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
-                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-GAMING-TRIO-OC-PLUS",
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1736217399397a08372d22cc992bd81dc417bb4239.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-INSPIRE-3X-OC-PLUS",
                 "review":[
                     {
                         "tester": "",
@@ -198,23 +167,54 @@
                     }
                 ],
                 "level": {
-                    "value": 2,
-                    "name": "次旗舰"
+                    "value": 4,
+                    "name": "丐版"
                 },
                 "品牌": "微星",
-                "品牌显卡系列": "GAMING - 魔龙",
-                "核心频率": "极致模式: 2580 MHz (MSI Center)<br>Boost模式: 2572 MHz (GAMING & SILENT Mode",
-                "显卡尺寸": "338 x 140 x 50 mm",
-                "供电相数": "15+3",
-                "散热规模": "5*6mm热管+铜底",
+                "品牌显卡系列": "INSPIRE - 硬派师",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
+                "显卡尺寸": "288 x 112 x 50 mm",
+                "供电相数": "14+3",
+                "散热规模": "4热管+铜底",
                 "是否有均热板": "无",
-                "核心烤机": "~63℃",
-                "显存烤机": "~66℃",
+                "核心烤机": "",
+                "显存烤机": "",
                 "供电接口": "1×16-pin",
                 "插槽": "2.5",
                 "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
                 "配件": "",
                 "其他": ""
+            }
+        },
+        {
+            "name": "GeForce RTX™ 5070 Ti 16G SHADOW 3X OC",
+            "parameters": {
+                "imageURL": "https://asset.msi.com/resize/image/global/product/product_1738649851f99734cac740c6f5eba83717cf3dfcc1.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+                "productURL":"https://www.msi.cn/Graphics-Card/GeForce-RTX-5070-Ti-16G-SHADOW-3X-OC",
+                "review":[
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 5,
+                    "name": "丐中丐"
+                },
+                "品牌": "微星",
+                "品牌显卡系列": "SHADOW - 幻影师",
+                "核心频率": "极致模式: 2497 MHz (MSI Center)<br>Boost模式: 2482 MHz",
+                "显卡尺寸": "303 x 121 x 49 mm",
+                "供电相数": "14+3",
+                "散热规模": "3*8mm热管+铜底",
+                "是否有均热板": "无",
+                "核心烤机": "",
+                "显存烤机": "",
+                "供电接口": "1×16-pin",
+                "插槽": "2.5",
+                "输出接口": "DisplayPort x 3 (v2.1b)<br>HDMI™ x 1 (As specified in HDMI™ 2.1b: up to 4K 480Hz or 8K 120Hz with DSC, Gaming VRR, HDR)",
+                "配件": "",
+                "其他": "丐中丐"
             }
         }
     ],

@@ -1,6 +1,44 @@
 {
     "products": [
         {
+            "name": "ROG ASTRAL 夜神 RTX5080 O16G GAMING",
+            "parameters": {
+                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/D2014DA5-2608-405F-A7AD-BDD8F6CE1F91/w185",
+                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-o16g-gaming/",
+                "review": [
+                    {
+                        "tester": "B站up主51972: RTX5080横评",
+                        "reviewURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "华硕",
+                "品牌显卡系列": "ROG - 玩家国度",
+                "核心频率": "OC mode: 2790 MHz<br>Default mode: 2760 MHz (Boost Clock)",
+                "显卡尺寸": "357.6 x 149.3 x 76 mm<br>14.1 x 5.9 x 3 inch",
+                "供电相数": "16+4+3相",
+                "散热规模": "8×8mm 热管+相变 GPU 导热垫",
+                "是否有均热板": "真空腔均热板",
+                "stressTesting": {
+                    "core": "~63℃",
+                    "memory": "~72℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
+                "供电接口": "1 x 16-pin",
+                "插槽": "3.8 Slot",
+                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>Yes x 3 (Native DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
+                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG Graphics Card Keycap<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
+                "其他": ""
+            }
+        },
+        {
             "name": "ROG ASTRAL 夜神 RTX5080 16G GAMING",
             "parameters": {
                 "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/A6E797DF-0199-45A3-AA62-7E6691E95693/w185",
@@ -32,45 +70,15 @@
             }
         },
         {
-            "name": "ROG ASTRAL 夜神 RTX5080 O16G GAMING",
-            "parameters": {
-                "imageURL": "https://dlcdnwebimgs.asus.com.cn/gain/D2014DA5-2608-405F-A7AD-BDD8F6CE1F91/w185",
-                "productURL": "https://rog.asus.com.cn/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-o16g-gaming/",
-                "review": [
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 1,
-                    "name": "旗舰"
-                },
-                "品牌": "华硕",
-                "品牌显卡系列": "ROG - 玩家国度",
-                "核心频率": "OC mode: 2790 MHz<br>Default mode: 2760 MHz (Boost Clock)",
-                "显卡尺寸": "357.6 x 149.3 x 76 mm<br>14.1 x 5.9 x 3 inch",
-                "供电相数": "16+4+3相",
-                "散热规模": "8×8mm 热管+相变 GPU 导热垫",
-                "是否有均热板": "真空腔均热板",
-                "核心烤机": "~60℃",
-                "显存烤机": "~66℃",
-                "供电接口": "1 x 16-pin",
-                "插槽": "3.8 Slot",
-                "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>Yes x 3 (Native DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
-                "配件": "1 x Speedsetup Manual<br>1 x ROG Graphics Card Holder<br>1 x ROG Velcro Hook & Loop<br>1 x ROG Magnet<br>1 x ROG Graphics Card Keycap<br>1 x ROG PCB Ruler<br>1 x Thank You Card<br>1 x Adapter Cable (1 to 3)​",
-                "其他": ""
-            }
-        },
-        {
             "name": "TUF GAMING RTX5080 O16G GAMING",
             "parameters": {
                 "imageURL": "https://dlcdnwebimgs.asus.com/gain/7bb494af-8636-46a3-93ee-3cff60d30624/w185",
                 "productURL": "https://www.asus.com.cn/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX5080-O16G-GAMING/",
                 "review": [
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站up主51972: RTX5080横评",
+                        "reviewURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                        "embeddedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1"
                     }
                 ],
                 "level": {
@@ -84,8 +92,15 @@
                 "供电相数": "10+6+3",
                 "散热规模": "4*8mm + 4*6mm热管+相变GPU导热垫",
                 "是否有均热板": "真空腔均热板",
-                "核心烤机": "~61.5℃",
-                "显存烤机": "~60℃",
+                "stressTesting": {
+                    "core": "~65℃",
+                    "memory": "~65℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "1 x 16-pin",
                 "插槽": "3.6 Slot",
                 "输出接口": "Yes x 2 (Native HDMI 2.1b)<br>支持 x 1 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",
@@ -144,8 +159,15 @@
                 "供电相数": "10+4+3",
                 "散热规模": "6*6mm 热管+相变 GPU 导热垫",
                 "是否有均热板": "真空腔均热板",
-                "核心烤机": "~66℃",
-                "显存烤机": "~66℃",
+                "stressTesting": {
+                    "core": "~71℃",
+                    "memory": "~80℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "1 x 16-pin",
                 "插槽": "2.5 插槽",
                 "输出接口": "支持 x 1 (原生 HDMI 2.1b)<br>支持 x 1 (原生 DisplayPort 2.1b)<br>HDCP 支持 (2.3)",

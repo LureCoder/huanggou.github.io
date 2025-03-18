@@ -1477,7 +1477,7 @@ body {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none !important;
 }
 
 /* Make image responsive by default */
@@ -2479,13 +2479,13 @@ h6 {
   margin: -1px;
   margin-bottom: 0;
   text-align: center;
-  top: 98px;
+  top: 0px;
   z-index: 999;
 }
 
 .product-id{
   position: sticky;
-  top: 258px;
+  top: 160px;
 }
 
 .pricing-header h5 {
@@ -3454,8 +3454,8 @@ section.footer {
   display: flex;
   /* 允许子元素在一行排列，不换行 */
   flex-wrap: nowrap;
-  /* overflow-x: auto;
-  height: 84vh; */
+  overflow-x: auto;
+  height: 76vh;
 }
 
 /* 为了让滚动条显示正常，需要给 pricing-col 设置固定宽度 */

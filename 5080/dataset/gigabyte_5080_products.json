@@ -7,8 +7,8 @@
                 "productURL": "https://www.gigabyte.cn/Graphics-Card/GV-N5080AORUSX-W-16GD",
                 "review": [
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站up主51972: RTX5080横评",
+                        "reviewURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "level": {
@@ -22,13 +22,13 @@
                 "供电相数": "16+3",
                 "散热规模": "液态金属复合硅脂<br>360mm 铝制冷排 与 3x 120mm ARGB 风扇",
                 "是否有均热板": "",
-                "核心烤机": "~66℃",
-                "显存烤机": "~60℃",
+                "核心烤机": "~61℃",
+                "显存烤机": "~75℃",
                 "供电接口": "16 pin*1",
                 "插槽": "3",
                 "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
                 "配件": "1. VGA manual<br>2. Warranty notice<br>3. 1x 12V-2x6 to 3x PCIe 8pin adapter<br>4. AORUS identity stickers",
-                "其他": ""
+                "其他": "烤机温度为测试数据，实际使用情况可能有所不同。数据来源B站up主51972"
             }
         },
         {
@@ -53,8 +53,15 @@
                 "供电相数": "16+3",
                 "散热规模": "13*6mm复合热管",
                 "是否有均热板": "有",
-                "核心烤机": "~66℃",
-                "显存烤机": "~60℃",
+                "stressTesting": {
+                    "core": "~65℃",
+                    "memory": "~68℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16 pin*1",
                 "插槽": "3.75",
                 "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
@@ -115,8 +122,15 @@
                 "供电相数": "14+3",
                 "散热规模": "11*6mm 热管",
                 "是否有均热板": "大型均热板",
-                "核心烤机": "~64℃",
-                "显存烤机": "~66℃",
+                "stressTesting": {
+                    "core": "~65℃",
+                    "memory": "~70℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16 pin*1",
                 "插槽": "3.5",
                 "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
@@ -146,6 +160,15 @@
                 "供电相数": "14+3",
                 "散热规模": "7*6mm热管",
                 "是否有均热板": "有",
+                "stressTesting": {
+                    "core": "~70℃",
+                    "memory": "~76℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16 pin*1",
                 "插槽": "2.5",
                 "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
@@ -175,6 +198,15 @@
                 "供电相数": "14+3",
                 "散热规模": "7*6mm 热管",
                 "是否有均热板": "大型均热板",
+                "stressTesting": {
+                    "core": "~681℃",
+                    "memory": "~75℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16 pin*1",
                 "插槽": "2.5",
                 "输出接口": "DisplayPort 2.1b x3<br>HDMI 2.1b x1",
