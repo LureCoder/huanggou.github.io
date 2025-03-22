@@ -3473,3 +3473,29 @@ section.footer {
   z-index: 200; /* 确保在其他列之上 */
 /* background-color: white; 可选，设置背景色防止内容重叠 */
 }
+
+/* Donate*/
+
+.fa-heartbeat {
+  color: red;
+  animation: heartbeat 1.5s infinite;
+  cursor: pointer;
+}
+
+@keyframes heartbeat {
+  0% {
+      transform: scale(1);
+  }
+  25% {
+      transform: scale(1.2);
+  }
+  50% {
+      transform: scale(1);
+  }
+  75% {
+      transform: scale(1.2);
+  }
+  100% {
+      transform: scale(1);
+  }
+}

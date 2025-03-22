@@ -52,7 +52,7 @@
 				<!-- Uncomment the line below if you also wish to use an image logo -->
 				<!-- <img src="assets/img/logo.png" alt=""> -->
 				<i class="fa fa-desktop"></i>
-				<h1 class="sitename">黄狗卡</h1>
+				<h1 class="sitename">显卡</h1>
 			</a>
 
 			<nav id="navmenu" class="navmenu">
@@ -80,10 +80,7 @@
 			</nav>
 
 			<div class="header-social-links">
-				<a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-				<a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-				<a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-				<a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+				<a href="../donate.html" class="donate"><i class="fa fa-heartbeat fa-1x" id="heartbeat-icon" aria-hidden="true"></i>&nbsp;捐赠</a>
 			</div>
 
 		</div>
@@ -94,12 +91,25 @@
 		<div class="container">
 			<div class="row-fluid clearfix"> -->
 	<div class="container-fluid">
-		<div class="filter-parent-container">
-			<div id="filter-container" class="filter-container">
+		<div class="row">
+			<div class="col-9 filter-parent-container">
+				<div id="filter-container" class="filter-container">
 
+				</div>
+				<button class="nvidia-btn" onclick="submitFilters()">提交过滤条件</button>
+				<button class="nvidia-btn" onclick="resetFilters()">重置过滤条件</button>
 			</div>
-			<button class="nvidia-btn" onclick="submitFilters()">提交过滤条件</button>
-			<button class="nvidia-btn" onclick="resetFilters()">重置过滤条件</button>
+			<div class="col-1">
+				<div class="row">
+					<div class="col">
+						<a class="btn nvidia-btn simple-ajax-popup-align-top" href="./5070Ti_materials.html">5070 Ti显卡用料参考表</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+					</div>
+				</div>
+			</div>
 		</div>
 		<div id="product-list" class="pricing-wrapper comparison-table clearfix style-3 pricing-scrollable">
 			<div class="col-xl-1 pricing-col list-feature sticky-column">
@@ -187,6 +197,18 @@
 		$(document).ready(function () {
 			// 加载 JSON 文件
 			getVideoCardsByCardId(cardId, undefined);
+
+			$('.simple-ajax-popup-align-top').magnificPopup({
+				type: 'ajax',
+				alignTop: true,
+				overflowY: 'scroll' // as we know that popup content is tall we set scroll overflow by default to avoid jump
+			});
+
+			$('.donate').magnificPopup({
+				type: 'ajax',
+				alignTop: true,
+				overflowY: 'scroll' // as we know that popup content is tall we set scroll overflow by default to avoid jump
+			});
 		});
 	</script>
 </body>
