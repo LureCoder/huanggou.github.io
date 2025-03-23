@@ -12,8 +12,8 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 1,
+                    "name": "旗舰"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
@@ -64,6 +64,48 @@
             }
         },
         {
+            "name": "iGame GeForce RTX 5080 Neptune 16GB",
+            "parameters": {
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/3fd9a515-a13d-4c45-b0cf-b80207e831b3.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=34075ef7-3cf6-4446-9d2d-5947387aa55f",
+                "review": [
+                    {
+                        "tester": "",
+                        "reviewURL": ""
+                    }
+                ],
+                "level": {
+                    "value": 1,
+                    "name": "旗舰"
+                },
+                "品牌": "七彩虹",
+                "品牌显卡系列": "iGame系列",
+                "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2617Mhz",
+                "显卡尺寸": "卡: 282.2*145*40.5mm(不带挡片) 水排: 394*119.2*53.2mm 水管: 520mm",
+                "供电相数": "",
+                "散热规模": "",
+                "是否有均热板": "",
+                "供电接口": "16pin",
+                "插槽": "",
+                "输出接口": "3*DP2.1b+2*HDMI2.1b",
+                "配件": "",
+                "其他": "",
+                "显示核心": "GeForce® RTX 5080",
+                "CUDA_Cores": "",
+                "显存频率速率": "30Gbps",
+                "显存大小": "16GB",
+                "显存类型": "GDDR7",
+                "显存位宽": "960GB/s",
+                "总线标准": "",
+                "数字分辨率": "",
+                "多屏支持": "",
+                "建议电源": "850W",
+                "水管长度": "",
+                "Radiator": "",
+                "Fan": ""
+            }
+        },
+        {
             "name": "iGame GeForce RTX 5080 Vulcan OC 16GB",
             "parameters": {
                 "imageURL": "https://www.colorful.cn/content/upload/form/102/202501/8d51acfb-9620-40b7-be8c-ea5a284c7c01.jpg",
@@ -75,16 +117,16 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 1,
+                    "name": "旗舰"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
                 "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2685Mhz",
                 "显卡尺寸": "360*148.9*71mm:(不带挡片)",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
+                "供电相数": "14+4+3 50A",
+                "散热规模": "7*8mm+2*6mm热管",
+                "是否有均热板": "有",
                 "stressTesting": {
                     "core": "~61℃",
                     "memory": "~71℃",
@@ -117,39 +159,30 @@
             }
         },
         {
-            "name": "iGame GeForce RTX 5080 Ultra W OC 16GB",
+            "name": "iGame GeForce RTX 5080 Vulcan 16GB",
             "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202501/cff5e3e3-73dd-4b1e-9cf0-03e55c9c19ac.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=494cc4cc-ec9c-47ee-85c4-3108692a62ab",
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/a2fe6edf-8987-491a-a6ab-b54ff9df03e6.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=ac650c92-3b9d-4684-8feb-6f9c8c53eda3",
                 "review": [
                     {
-                        "tester": "B站up主51972: RTX5080横评",
-                        "reviewURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
+                        "tester": "",
+                        "reviewURL": ""
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 1,
+                    "name": "旗舰"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
-                "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2655Mhz",
-                "显卡尺寸": "331*139.3*59.7mm:(不带挡片)",
+                "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2617Mhz",
+                "显卡尺寸": "360*148.9*71mm:(不带挡片)",
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "",
-                "stressTesting": {
-                    "core": "~65℃",
-                    "memory": "~67℃",
-                    "tester": "B站up主51972: RTX5080横评",
-                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
-                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
-                    "subtitleLink":"",
-                    "remarks": ""
-                },
                 "供电接口": "16pin",
                 "插槽": "",
-                "输出接口": "3*DP2.1b+HDMI2.1b",
+                "输出接口": "3*DP2.1b+2*HDMI2.1b",
                 "配件": "",
                 "其他": "",
                 "显示核心": "GeForce® RTX 5080",
@@ -157,7 +190,7 @@
                 "显存频率速率": "30Gbps",
                 "显存大小": "16GB",
                 "显存类型": "GDDR7",
-                "显存位宽": "256bit",
+                "显存位宽": "960GB/s",
                 "总线标准": "",
                 "数字分辨率": "",
                 "多屏支持": "",
@@ -179,16 +212,16 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 2,
+                    "name": "次旗舰"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
                 "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2670Mhz",
                 "显卡尺寸": "355*144.7*68.8mm:(不带挡片)",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
+                "供电相数": "16+3 50A",
+                "散热规模": "7*8mm热管",
+                "是否有均热板": "有",
                 "stressTesting": {
                     "core": "~61℃",
                     "memory": "~74℃",
@@ -198,48 +231,6 @@
                     "subtitleLink":"",
                     "remarks": ""
                 },
-                "供电接口": "16pin",
-                "插槽": "",
-                "输出接口": "3*DP2.1b+HDMI2.1b",
-                "配件": "",
-                "其他": "",
-                "显示核心": "GeForce® RTX 5080",
-                "CUDA_Cores": "",
-                "显存频率速率": "30Gbps",
-                "显存大小": "16GB",
-                "显存类型": "GDDR7",
-                "显存位宽": "960GB/s",
-                "总线标准": "",
-                "数字分辨率": "",
-                "多屏支持": "",
-                "建议电源": "850W",
-                "水管长度": "",
-                "Radiator": "",
-                "Fan": ""
-            }
-        },
-        {
-            "name": "iGame GeForce RTX 5080 Ultra W 16GB",
-            "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/5a049256-c875-478e-b826-7daf8f8dce4b.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=73e7728b-5cd9-4f3c-893b-514f5516fc76",
-                "review": [
-                    {
-                        "tester": "",
-                        "reviewURL": ""
-                    }
-                ],
-                "level": {
-                    "value": 0,
-                    "name": ""
-                },
-                "品牌": "七彩虹",
-                "品牌显卡系列": "iGame系列",
-                "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2617Mhz",
-                "显卡尺寸": "331*139.3*59.7mm:(不带挡片)",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
                 "供电接口": "16pin",
                 "插槽": "",
                 "输出接口": "3*DP2.1b+HDMI2.1b",
@@ -303,30 +294,39 @@
             }
         },
         {
-            "name": "iGame GeForce RTX 5080 Neptune 16GB",
+            "name": "iGame GeForce RTX 5080 Ultra W OC 16GB",
             "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/3fd9a515-a13d-4c45-b0cf-b80207e831b3.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=34075ef7-3cf6-4446-9d2d-5947387aa55f",
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202501/cff5e3e3-73dd-4b1e-9cf0-03e55c9c19ac.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=494cc4cc-ec9c-47ee-85c4-3108692a62ab",
                 "review": [
                     {
-                        "tester": "",
-                        "reviewURL": ""
+                        "tester": "B站up主51972: RTX5080横评",
+                        "reviewURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f"
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 3,
+                    "name": "中端"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
-                "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2617Mhz",
-                "显卡尺寸": "卡: 282.2*145*40.5mm(不带挡片) 水排: 394*119.2*53.2mm 水管: 520mm",
-                "供电相数": "",
-                "散热规模": "",
-                "是否有均热板": "",
+                "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2655Mhz",
+                "显卡尺寸": "331*139.3*59.7mm:(不带挡片)",
+                "供电相数": "14+3 50A",
+                "散热规模": "4*8mm+4*6mm热管",
+                "是否有均热板": "铜底",
+                "stressTesting": {
+                    "core": "~65℃",
+                    "memory": "~67℃",
+                    "tester": "B站up主51972: RTX5080横评",
+                    "testResultURL": "https://www.bilibili.com/video/BV1WvQwYEE31/?share_source=copy_web&vd_source=195ea8d9a280b1f0f7b581094370c47f",
+                    "testResultEmbedCode": "//player.bilibili.com/player.html?isOutside=true&aid=114154694247757&bvid=BV1WvQwYEE31&cid=28844230329&p=1",
+                    "subtitleLink":"",
+                    "remarks": ""
+                },
                 "供电接口": "16pin",
                 "插槽": "",
-                "输出接口": "3*DP2.1b+2*HDMI2.1b",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
                 "配件": "",
                 "其他": "",
                 "显示核心": "GeForce® RTX 5080",
@@ -334,7 +334,7 @@
                 "显存频率速率": "30Gbps",
                 "显存大小": "16GB",
                 "显存类型": "GDDR7",
-                "显存位宽": "960GB/s",
+                "显存位宽": "256bit",
                 "总线标准": "",
                 "数字分辨率": "",
                 "多屏支持": "",
@@ -345,10 +345,10 @@
             }
         },
         {
-            "name": "iGame GeForce RTX 5080 Vulcan 16GB",
+            "name": "iGame GeForce RTX 5080 Ultra W 16GB",
             "parameters": {
-                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/a2fe6edf-8987-491a-a6ab-b54ff9df03e6.jpg",
-                "productURL": "https://www.colorful.cn/home/product?mid=102&id=ac650c92-3b9d-4684-8feb-6f9c8c53eda3",
+                "imageURL": "https://www.colorful.cn/content/upload/form/102/202502/5a049256-c875-478e-b826-7daf8f8dce4b.jpg",
+                "productURL": "https://www.colorful.cn/home/product?mid=102&id=73e7728b-5cd9-4f3c-893b-514f5516fc76",
                 "review": [
                     {
                         "tester": "",
@@ -356,19 +356,19 @@
                     }
                 ],
                 "level": {
-                    "value": 0,
-                    "name": ""
+                    "value": 3,
+                    "name": "中端"
                 },
                 "品牌": "七彩虹",
                 "品牌显卡系列": "iGame系列",
                 "核心频率": "Base: 2295Mhz; Boost:2617Mhz<br>Base: 2295Mhz; Boost:2617Mhz",
-                "显卡尺寸": "360*148.9*71mm:(不带挡片)",
+                "显卡尺寸": "331*139.3*59.7mm:(不带挡片)",
                 "供电相数": "",
                 "散热规模": "",
                 "是否有均热板": "",
                 "供电接口": "16pin",
                 "插槽": "",
-                "输出接口": "3*DP2.1b+2*HDMI2.1b",
+                "输出接口": "3*DP2.1b+HDMI2.1b",
                 "配件": "",
                 "其他": "",
                 "显示核心": "GeForce® RTX 5080",
@@ -386,5 +386,6 @@
                 "Fan": ""
             }
         }
+        
     ]
 }
